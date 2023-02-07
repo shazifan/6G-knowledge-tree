@@ -1,0 +1,1766 @@
+./source/txt_6G/273154347_Linearity Measurement of 6G Receiver with One Transmission Frequency Extender Operating at 330 GHz.txt
+./source/txt_6G/215220739_An Anonymous Batch Authentication and Key Exchange Protocols for 6G Enabled VANETs.txt
+./source/txt_6G/524982_Joint Inter-path and Intra-path Multiplexing for Terahertz Widely-spaced Multi-subarray Hybrid Beamf.txt
+./source/txt_6G/333710096_Transition technologies towards 6G networks.txt
+./source/txt_6G/361759513_Probabilistic Spectrum Sensing Based on Feature Detection for 6G Cognitive Radio A Survey.txt
+./source/txt_6G/306709322_Blockchain-Based Data Security for Artificial Intelligence Applications in 6G Networks.txt
+./source/txt_6G/176161622_Delay-Phase Precoding for Wideband THz Massive MIMO.txt
+./source/txt_6G/442237796_A Study on Improved Sum Rate of Cross-Correlated SC NOMA toward 6G URLLC.txt
+./source/txt_6G/487064562_Unfolded Deep Neural Network UDNN for High Mobility Channel Estimation.txt
+./source/txt_6G/136053889_The Past Present and Future of Telecommunications Expansion A Historical Perspective.txt
+./source/txt_6G/341312656_SiGeBiCMOS technology is enabling D-band link with Active Phased Antenna Array.txt
+./source/txt_6G/363857391_Optimal Resource Allocations for Statistical QoS Provisioning in Supporting mURLLC Over FBC-EH Based.txt
+./source/txt_6G/249038538_Energy efficient fog computing for 6G enabled massive IoT Recent trends and future opportunities.txt
+./source/txt_6G/42469085_Ten Challenges in Advancing Machine Learning Technologies toward 6G.txt
+./source/txt_6G/97519445_PHY-Layer Design Challenges in Reconfigurable Intelligent Surface Aided 6G Wireless Networks.txt
+./source/txt_6G/154929381_Towards 6G Non-Terrestrial Networks.txt
+./source/txt_6G/335808953_Study on digital twin channel for the B5G and 6G communication.txt
+./source/txt_6G/445909786_Artificial Intelligence in Wireless Communications - Evolution Towards 6G Mobile Networks.txt
+./source/txt_6G/381684658_DRLR A Deep Reinforcement Learning based Recruitment Scheme for Massive Data Collections in 6G-based.txt
+./source/txt_6G/5508064_A QoS-Aware Dynamic Bandwidth Allocation Algorithm for Passive Optical Networks with Non-Zero Laser .txt
+./source/txt_6G/308808702_Adaptive Traffic Load in IRSA-NOMA Prioritizing Emergency Devices for 6G Enabled Massive IoT.txt
+./source/txt_6G/334498937_Data-Driven Trajectory Quality Improvement for Promoting Intelligent Vessel Traffic Services in 6G-E.txt
+./source/txt_6G/40635771_Machine type communications key drivers and enablers towards the 6G era.txt
+./source/txt_6G/216272252_The Road Towards 6G A Comprehensive Survey.txt
+./source/txt_6G/222039547_Exploiting White Spaces for Karachi through Artificial Intelligence Comparison of NARX and Cascade F.txt
+./source/txt_6G/66588197_Secure Massive MIMO System with Two-Way Relay Cooperative Transmission in 6G Networks.txt
+./source/txt_6G/80481840_Propagation Measurements and Path Loss Models for sub-THz in Urban Microcells.txt
+./source/txt_6G/333975275_Survey on Machine Learning for Intelligent End-to-End Communication towards 6G From Network Access R.txt
+./source/txt_6G/157552524_Channel Estimation and Hybrid Combining for Wideband Terahertz Massive MIMO Systems.txt
+./source/txt_6G/370675640_Tbits Multi-Dimensional Multiplexing THz-Over-Fiber for 6G Wireless Communication.txt
+./source/txt_6G/391909420_Intelligent machine-type communication and network for 6G system.txt
+./source/txt_6G/233836739_Is NOMA Efficient in Multi-Antenna Networks? A Critical Look at Next Generation Multiple Access Tech.txt
+./source/txt_6G/121377235_AI-Driven Collaborative Resource Allocation for Task Execution in 6G Enabled Massive IoT.txt
+./source/txt_6G/465834764_Six Key Enablers for Machine Type Communication in 6G.txt
+./source/txt_6G/359928957_Millidegree-Level Direction-of-Arrival Estimation and Tracking for Terahertz Ultra-Massive MIMO Syst.txt
+./source/txt_6G/218109610_LEO Satellite-Assisted UAV Joint Trajectory and Data Collection for Internet of Remote Things in 6G .txt
+./source/txt_6G/494147281_The application of artificial intelligence technology of 6G internet of things communication combine.txt
+./source/txt_6G/106174248_Ultrathin single-crystalline LiNbO3 film bulk acoustic resonator for 5G communication.txt
+./source/txt_6G/430970944_Blockchain and 6G The Future of Secure and Ubiquitous Communication.txt
+./source/txt_6G/322443415_Efficient and Privacy-Preserving Speaker Recognition for Cybertwin-driven 6G.txt
+./source/txt_6G/33036505_Peculiarities of Interconnection 5G 6G Networks with Big Data Internet of Things and Artificial Inte.txt
+./source/txt_6G/51124744_Security and Trust in the 6G Era.txt
+./source/txt_6G/64756329_Propagation Modeling and Analysis of Reconfigurable Intelligent Surfaces for Indoor and Outdoor Appl.txt
+./source/txt_6G/249567896_6G Communication Envisioning the Key Issues and Challenges.txt
+./source/txt_6G/107748039_A Blockchain-Based Emergency Message Transmission Protocol for Cooperative VANET.txt
+./source/txt_6G/383261415_A signal optimization strategy for next generation navigation and communication integrate applicatio.txt
+./source/txt_6G/393485176_Development of A Fully Data-Driven Artificial Intelligence and Deep Learning for URLLC Application i.txt
+./source/txt_6G/30153673_Wireless Communications with Programmable Metasurface New Paradigms Opportunities and Challenges on .txt
+./source/txt_6G/419437523_Wideband Beam Tracking in THz Massive MIMO Systems.txt
+./source/txt_6G/277356219_Molecular physical layer for 6G in wave-denied environments.txt
+./source/txt_6G/480255763_Integrated Sensing and Communication in 6G A Prototype of High Resolution THz Sensing on Portable De.txt
+./source/txt_6G/422846262_joint multi-user communication and sensing exploiting both signal and environment sparsity.txt
+./source/txt_6G/183509139_Cell-Free Satellite-UAV Networks for 6G Wide-Area Internet of Things.txt
+./source/txt_6G/66330779_Potential Key Technologies for 6G Mobile Communications.txt
+./source/txt_6G/377495742_Assessing Wireless Sensing Potential with Large Intelligent Surfaces.txt
+./source/txt_6G/90186107_Multi-Dimensional Modulation for Data Rate Maximization in Non-Orthogonal Spatial-Time-Frequency Dom.txt
+./source/txt_6G/419439241_Reinforcement-Learning-Enabled Massive Internet of Things for 6G Wireless Communications.txt
+./source/txt_6G/303047310_Application of future 6G technology to support heavy data traffic in highly mobile networks.txt
+./source/txt_6G/383787810_Artificial Intelligence-Enabled Intelligent 6G Networks.txt
+./source/txt_6G/343941976_Green UAV communications for 6G A survey.txt
+./source/txt_6G/19669851_A review on 6G for space-air-ground integrated network Key enablers open challenges and future direc.txt
+./source/txt_6G/383525881_A Survey of 6G Wireless Communications Emerging Technologies.txt
+./source/txt_6G/146547711_SIC-Based Baseband Block Diagonalization for MmWave Massive Multi-User MIMO Systems.txt
+./source/txt_6G/184558746_Interoperable Time-Sensitive Networking Towards 6G invited presentation.txt
+./source/txt_6G/288892184_Secrecy-Oriented Optimization of Sparse Code Multiple Access for Simultaneous Wireless Information a.txt
+./source/txt_6G/350758341_Noncoherent Detection of Optimal FTN Signals with Differential Encoding.txt
+./source/txt_6G/186918360_Privacy Preserving Multi-Objective Sanitization Model in 6G IoT Environments.txt
+./source/txt_6G/46409359_6G Mobile Communications Systems Requirements Specifications Challenges Applications and Technologie.txt
+./source/txt_6G/207365906_Latency-Aware Offloading in Integrated Satellite Terrestrial Networks.txt
+./source/txt_6G/147859374_Highly Accurate and Reliable Wireless Network Slicing in 5th Generation Networks A Hybrid Deep Learn.txt
+./source/txt_6G/213657529_Spectrum Shaping For Multiple Link Discovery in 6G THz Systems.txt
+./source/txt_6G/299378632_Deep Reinforcement Learning-based Cybertwin Architecture for 6G IIoT An Integrated Design of Control.txt
+./source/txt_6G/19408873_Thermal Management Techniques for Novel Single-Stage Collector of THz Folded Waveguide TWT.txt
+./source/txt_6G/334768215_Multi-BandTierSpace Dynamic Clustering and Transferable Cell Communication assuming High Frequency-U.txt
+./source/txt_6G/387459286_6G Connecting Everything by 1000 Times Price Reduction.txt
+./source/txt_6G/4204906_Cooperative Multiterminal Radar and Communication A New Paradigm for 6G Mobile Networks.txt
+./source/txt_6G/479209991_THz Communications – A Candidate for a 6G Radio?.txt
+./source/txt_6G/310127238_UAV-Assisted Vehicular Edge Computing for the 6G Internet of Vehicles Architecture Intelligence and .txt
+./source/txt_6G/452733996_Energy Efficiency Through Joint Routing and Function Placement in Different Modes of SDNNFV Networks.txt
+./source/txt_6G/29633958_6G Mobile Network Architecture-SOLIDS Driving Forces Features and Functional Topology.txt
+./source/txt_6G/316943806_Data Trusted Sharing Delivery A blockchain assisted software-defined content delivery network.txt
+./source/txt_6G/323235329_Extreme Coverage Extension for 6G -- Sky Sea and Space.txt
+./source/txt_6G/8138365_Floquet Spectral Almost Periodic Modulation of Massive Finite and Infinite Strongly Coupled Arrays D.txt
+./source/txt_6G/77082357_Formation of gigahertz pulse train by chirped terahertz pulses interference.txt
+./source/txt_6G/464793791_EdgeGO A Mobile Resource-sharing Framework for 6G Edge Computing in Massive IoT Systems.txt
+./source/txt_6G/27275625_Computing in the Network The Core‐Edge Continuum in 6G Network.txt
+./source/txt_6G/394277231_Backhaul Capacity Aware Interference Mitigation Framework in 6G Cellular Internet of Things.txt
+./source/txt_6G/481833640_Trustworthy Deep Learning in 6G-Enabled Mass Autonomy From Concept to Quality-of-Trust Key Performan.txt
+./source/txt_6G/436220706_Drone Networking in 6G Era - A Technology Overview.txt
+./source/txt_6G/442775033_Integrated Sensing and Communications Towards Dual-functional Wireless Networks for 6G and Beyond.txt
+./source/txt_6G/460076946_The Ultimate Weapon for Ultra-Broadband 6G Digital Beamforming and Doubly Massive mmWave MIMO.txt
+./source/txt_6G/67385454_Multi-Sensory HMI to Enable Digital Twins with Human-in-Loop A 6G Vision of Future Industry.txt
+./source/txt_6G/291256771_BDN-GWMNN Internet of Things IoT Enabled Secure Smart City Applications.txt
+./source/txt_6G/160185024_Li-Fi in Future Technology Working Application  Limitation.txt
+./source/txt_6G/393755334_Wideband Channel Characterization for 6G Networks in Industrial Environments.txt
+./source/txt_6G/233061473_6 GHz Low Noise Amplifier design with 65nm CMOS for 5G6G Applications.txt
+./source/txt_6G/320617788_How To Make 6G a General Purpose Technology Prerequisites and value creation paradigm shift.txt
+./source/txt_6G/381959755_Robust Spectrum-Energy Efficiency for Green Cognitive Communications.txt
+./source/txt_6G/438058793_Nanocellulose as Sustainable Replacement for Plastic Substrates in Printed Electronics Applications.txt
+./source/txt_6G/367280051_Channel Estimation for DCO-OFDM Based VLC Systems in the Presence of Clipping Noise.txt
+./source/txt_6G/401883377_Null Subcarrier Index Modulation in OFDM Systems for 6G and Beyond.txt
+./source/txt_6G/364134884_NA-SMT A Network-Assisted Service Message Transmission Protocol for Reliable IoV Communications.txt
+./source/txt_6G/489701891_Spectrum Management in the 6G Era The Role of Regulation and Spectrum Sharing.txt
+./source/txt_6G/102515521_A Combinatorial Auction Resource Trading Mechanism for Cybertwin Based 6G Network.txt
+./source/txt_6G/13648761_Artificial-Intelligence-Driven Fog Radio Access Networks Recent Advances and Future Trends.txt
+./source/txt_6G/275268746_6G Ecosystem Current Status and Future Perspective.txt
+./source/txt_6G/297289140_6G Architectural Trends and Enablers.txt
+./source/txt_6G/347883239_A New Stakeholder Paradigm to Link 6G with Sustainable Development Goals and Spectrum Management.txt
+./source/txt_6G/65554502_Addressing Biodisaster X Threats with AI and 6G Technologies.txt
+./source/txt_6G/133187680_Trust Aspects of Internet of Things in the Context of 5G and Beyond.txt
+./source/txt_6G/190597417_Evolving Intelligent Reflector Surface towards 6G for Public Health Application in Airborne Virus De.txt
+./source/txt_6G/238832101_6G Connectivity in the Era of Distributed Intelligence.txt
+./source/txt_6G/211307481_Oxide electronics for 5G and 6G.txt
+./source/txt_6G/19156075_Channel Estimation and Hybrid Combining for Wideband Terahertz Massive MIMO Systems.txt
+./source/txt_6G/57429240_Green Internet of Vehicles IoV in the 6G Era Toward Sustainable Vehicular Communications and Network.txt
+./source/txt_6G/37506383_6G Wireless Networks Vision Requirements Architecture and Key Technologies.txt
+./source/txt_6G/366235004_Reinforcement Learning based Adaptive Access Class Barring for RAN Slicing.txt
+./source/txt_6G/77352558_Multi-Dimension Resource Allocation for NOMA-Edge Computing-based 6G Power IoT.txt
+./source/txt_6G/448286471_An Outage Probability Based Channel Bonding Algorithm for 6G Network.txt
+./source/txt_6G/23351062_AIRIS Artificial Intelligence Enhanced Signal Processing in Reconfigurable Intelligent Surface Commu.txt
+./source/txt_6G/60313782_Study of MIMO m-CAP with Equalizer for a Band- Limited VLC System.txt
+./source/txt_6G/28856763_Statistical Bounded Age-Of-Information for mURLLC Over 6G Multimedia Wireless Networks.txt
+./source/txt_6G/312496840_20 GHz Bandwidth 384 dBi Gain InP On-chip Antenna for 300GHz Wireless Communication.txt
+./source/txt_6G/195318564_Edge Artificial Intelligence for 6G Vision Enabling Technologies and Applications.txt
+./source/txt_6G/130307072_Security in 6G The Prospects and the Relevant Technologies.txt
+./source/txt_6G/350245913_Wireless Federated Learning WFL for 6G Networks - Part I Research Challenges and Future Trends.txt
+./source/txt_6G/420762889_Applications and challenges of Reconfigurable Intelligent Surface for 6G networks Original published.txt
+./source/txt_6G/119035194_Multi-Vehicular Beam Space Learning for Channel Estimation in 6G V2X Systems.txt
+./source/txt_6G/42489616_End-to-end 140 GHz Wireless Link Demonstration with Fully-Digital Beamformed System.txt
+./source/txt_6G/331372414_Terahertz Channel Measurement and Characterization on a Desktop from 75 to 400 GHz.txt
+./source/txt_6G/53761940_Joint Virtual Network Topology Design and Embedding for Cybertwin-Enabled 6G Core Networks.txt
+./source/txt_6G/268720022_Enhanced URLLC-Enabled Edge Computing Framework for Device-Level Innovation in 6G.txt
+./source/txt_6G/222844847_Intelligent Reflecting Surface Placement Optimization in Air-Ground Communication Networks Toward 6G.txt
+./source/txt_6G/233330868_Vision-Aided Dynamic Blockage Prediction for 6G Wireless Communication Networks arXiv200609902v2 [cs.txt
+./source/txt_6G/97278354_6G Green IoT Network Joint Design of Intelligent Reflective Surface and Ambient Backscatter Communic.txt
+./source/txt_6G/343693759_Multifunctional Radio for 6G.txt
+./source/txt_6G/60840458_Development and Evaluation of a Big Data Framework for Performance Management in Mobile Networks.txt
+./source/txt_6G/240409247_Orthogonal Time-Frequency Space Modulation A Promising Next-Generation Waveform.txt
+./source/txt_6G/444881847_6G indoor network enabled by photonics- and electronics- based THz technology.txt
+./source/txt_6G/223894478_Vision requirements and network architecture of 6G mobile network beyond 2030.txt
+./source/txt_6G/143940755_Beyond 5G Reinventing Network Architecture With 6G.txt
+./source/txt_6G/321150103_MedBlock An AI-enabled and Blockchain-driven Medical Healthcare System for COVID-19.txt
+./source/txt_6G/299654381_Transceivers for 6G Wireless Communications Challenges and Design Solutions.txt
+./source/txt_6G/159145209_Prospects and NECs Activities toward 6G Radio Area Network.txt
+./source/txt_6G/463232565_Material Design and High Frequency Characterization of Novel Ultra-Low Loss Dielectric Material for .txt
+./source/txt_6G/47734505_Near Optimal VNF Placement in Edge-Enabled 6G Networks.txt
+./source/txt_6G/489971480_Analysis and prediction of ship energy efficiency using 6G big data internet of things and artificia.txt
+./source/txt_6G/288382836_Antenna Research Directions for 6G  A brief overview through sampling literature.txt
+./source/txt_6G/33054674_Taxonomy about the Stages of Performing Automated Decision-Making Processing under GDPR in the Light.txt
+./source/txt_6G/151543825_A software‐defined networks ‐based measurement method of network traffic for 6G technologies.txt
+./source/txt_6G/299130961_Correction to 6G and the UN SDGs Where is the Connection?.txt
+./source/txt_6G/91250854_Towards ML-based Energy-Efficient Mechanism for 6G Enabled Industrial Network in Box Systems.txt
+./source/txt_6G/405823659_Coordinated Passive Beamforming for Distributed Intelligent Reflecting Surfaces Network.txt
+./source/txt_6G/263217326_Μελέτη και αξιολόγηση τεχνολογιών και υπηρεσιών για κινητά δίκτυα πέμπτης γενιάς και εξής.txt
+./source/txt_6G/316695089_A 3-D Non-Stationary Model for Beyond 5G and 6G Vehicle-to-Vehicle mmWave Massive MIMO Channels.txt
+./source/txt_6G/336355950_85 fs R ON ×C OFF and CP 1dB28GHz > 25dBm Innovative PIN Diode Integrated in 55 nm BiCMOS Technology.txt
+./source/txt_6G/113795876_A new gridded parasitic patch stacked microstrip antenna for enhanced wide bandwidth in 60 GHz Band.txt
+./source/txt_6G/59794399_4 The Road for the Future Wireless Network.txt
+./source/txt_6G/331375654_Single and Multi-Agent Deep Reinforcement Learning for AI-Enabled Wireless Networks A Tutorial.txt
+./source/txt_6G/66872443_Sparse Code Multiple Access for 6G Wireless Communication Networks Recent Advances and Future Direct.txt
+./source/txt_6G/44066029_Terahertz TechnologyEmerging Trends and Application Viewpoints.txt
+./source/txt_6G/199779659_Implementation Challenges and Opportunities in Beyond-5G and 6G Communication.txt
+./source/txt_6G/120874548_Revolutionary 6G Technologies Architecture Coverage and Performance.txt
+./source/txt_6G/140535464_When Meta-Surfaces Meet Users Optimization of Smart Radio Environments in 6G Sub-THz Communications.txt
+./source/txt_6G/106194610_What is A Wireless UAV? A Design Blueprint for 6G Flying Wireless Nodes.txt
+./source/txt_6G/333211426_Process-Oriented Optimization for Beyond 5G Cognitive Satellite-UAV Networks Invited Paper.txt
+./source/txt_6G/496527324_Brazil 6G Project - An Approach to Build a National-wise Framework for 6G Networks.txt
+./source/txt_6G/400058429_Visible light communication in 6G Advances challenges and prospects.txt
+./source/txt_6G/154953870_Applications and Implementations of 6G Internet of Things.txt
+./source/txt_6G/338979015_Channel measurements and models for 6G current status and future outlook.txt
+./source/txt_6G/37513651_6G Ultra-Low Latency Communication in Future Mobile XR Applications.txt
+./source/txt_6G/493644321_Uniform tight frames as optimal signals.txt
+./source/txt_6G/244345451_Hybrid Beamforming for Terahertz Wireless Communications Challenges Architectures and Open Problems.txt
+./source/txt_6G/108030636_Orbital Angular Momentum-Based Multiple-Input-Multiple- Output with Receive Antenna Shift Keying for.txt
+./source/txt_6G/87321409_Cell-Free Massive MIMO Communication as Pillar of 6G Networks.txt
+./source/txt_6G/440167257_User Selection for Millimeter Wave Non-Uniform Full Dimensional MIMO.txt
+./source/txt_6G/62417847_Context-Aware Security for 6G Wireless The Role of Physical Layer Security.txt
+./source/txt_6G/101477440_Vision Requirements and Technology Trend of 6G How to Tackle the Challenges of System Coverage Capac.txt
+./source/txt_6G/141847634_Ultra-Massive MIMO Technologies for 6G Wireless Networks.txt
+./source/txt_6G/419982629_Quantum Scheduling for Millimeter-Wave Observation Satellite Constellation.txt
+./source/txt_6G/425750047_Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks Model-Free .txt
+./source/txt_6G/409235129_Evolution Toward 6G Wireless Networks A Resource Management Perspective.txt
+./source/txt_6G/360738522_Fueling the Next Quantum Leap in Cellular Networks Embracing AI in 5G Evolution towards 6G.txt
+./source/txt_6G/55865195_InP on SOI devices for optical communication and optical network on chip.txt
+./source/txt_6G/330592604_Patient-centric HetNets Powered by Machine Learning and Big Data Analytics for 6G Networks.txt
+./source/txt_6G/308572568_Task Offloading Strategy of 6G Heterogeneous Edge-Cloud Computing Model considering Mass Customizati.txt
+./source/txt_6G/427061790_Modeling and Analysis of Reconfigurable Intelligent Surfaces for Indoor and Outdoor Applications in .txt
+./source/txt_6G/136344598_Elevating the future of mobility UAV-enabled Intelligent Transportation Systems.txt
+./source/txt_6G/60060762_Intelligent Reflecting Surfaces Assisted UAV Communications for IoT Networks Performance Analysis.txt
+./source/txt_6G/83391760_3D On and Off-Grid Dynamic Channel Tracking for Multiple UAVs and Satellite Communications.txt
+./source/txt_6G/330593687_Analysis of Wireless Backhaul Networks Based on Aerial Platform Technology for 6G Systems.txt
+./source/txt_6G/382236057_Expansive networks  exploiting spectrum sharing for capacity boost and 6G vision.txt
+./source/txt_6G/442005243_6 6G Security.txt
+./source/txt_6G/284457383_Milli meter Wave MIMO-OFDMA Scheme with MMSE-based VEMF in 6G Wireless Technology.txt
+./source/txt_6G/142375714_Topological edge state bandwidth tuned by multiple parameters in two-dimensional terahertz photonic .txt
+./source/txt_6G/192445488_B5G and 6G Next Generation Wireless Communications Technologies Demand and Challenges.txt
+./source/txt_6G/296516717_A deep dive into the birth process of linking 6G and the UN SDGs.txt
+./source/txt_6G/3964040_Improve the reliability of 6G vehicular communication through skip network coding.txt
+./source/txt_6G/468745489_Stochastic Delay Analysis for Satellite Data Relay Networks with Heterogeneous Traffic and Transmiss.txt
+./source/txt_6G/450133316_Future Tactile Internet Issues Challenges and Applications.txt
+./source/txt_6G/130841981_Evolution of Wireless Communications with 3G 4G 5G and Next Generation Technologies in India.txt
+./source/txt_6G/192183953_Optimized Precoders for Vehicular Massive MIMO RadCom Systems.txt
+./source/txt_6G/414744480_SSOR Preconditioned Gauss-Seidel Detection and Its Hardware Architecture for 5G and beyond Massive M.txt
+./source/txt_6G/487358420_Replacement based content popularity and cache gain for 6G Content-Centric network.txt
+./source/txt_6G/158367843_Physical Layer Security Analysis of Hybrid MIMO Technology.txt
+./source/txt_6G/404258982_BITS A Blockchain-driven Intelligent Scheme for Telesurgery System.txt
+./source/txt_6G/54034621_A Novel 3D Non-Stationary GBSM for 6G THz Ultra Massive MIMO Wireless Systems.txt
+./source/txt_6G/462717577_Effect of asymmetry on terahertz transmissions in topological photonic crystals comprising of dielec.txt
+./source/txt_6G/238322584_Dual-Radio-Assisted DRA MAC Protocols for Distributed Terahertz Networks.txt
+./source/txt_6G/86279071_Sistema Rádio sobre Fibra assistido por Inteligência Artificial para aplicações 5G6G  Artificial Int.txt
+./source/txt_6G/416842702_Irregular-Mapped Protograph LDPC-Coded Modulation A Bandwidth-Efficient Solution for 6G-Enabled Mobi.txt
+./source/txt_6G/148931876_On the 5G and Beyond.txt
+./source/txt_6G/241993215_New Ultra wideband Butterfly Patch Antenna for Application of Upgrading Mobile Networks.txt
+./source/txt_6G/43812419_Realizing Ambient Backscatter Communications with Intelligent Surfaces in 6G Wireless Systems.txt
+./source/txt_6G/171738690_Blockchain-Based Multi-Access Edge Computing for Future Vehicular Networks A Deep Compressed Neural .txt
+./source/txt_6G/267683685_Reconfigurable Intelligent and SustainableWireless Environments for 6G Smart Connectivity.txt
+./source/txt_6G/334006120_Wireless Environment as a Service Enabled by Reconfigurable Intelligent Surfaces The RISE-6G Perspec.txt
+./source/txt_6G/460097648_Moving from 5G in Verticals to Sustainable 6G Business Regulatory and Technical Research Prospects.txt
+./source/txt_6G/470583962_White paper on 6G networking.txt
+./source/txt_6G/311200682_Vision-Aided 6G Wireless Communications Blockage Prediction and Proactive Handoff.txt
+./source/txt_6G/213159107_Latest Wireless Technologies towards 6G.txt
+./source/txt_6G/432049438_NOMA for Next-Generation Massive IoT Performance Potential and Technology Directions.txt
+./source/txt_6G/99913097_Forward-Error-Correction for Beyond-5G Ultra-High Throughput Communications.txt
+./source/txt_6G/418418124_Comparison of real- and complex-valued NN equalizers for photonics-aided 90-Gbps D-band PAM-4 cohere.txt
+./source/txt_6G/183799533_6G Wireless Communication Systems Applications Requirements Technologies Challenges and Research Dir.txt
+./source/txt_6G/158372023_Beam-space Multiplexing Practice Theory and Trends-From 4G TD-LTE 5G to 6G and Beyond.txt
+./source/txt_6G/172527847_Personalized Vehicular Edge Computing in 6G.txt
+./source/txt_6G/359960832_Mode Hopping for Anti-Jamming in 6G Wireless Communications.txt
+./source/txt_6G/90476968_Channel Estimation for Extremely Large-Scale Massive MIMO Far-Field Near-Field or Hybrid-Field?.txt
+./source/txt_6G/435196394_Empirical design prototyping and evaluation of a new hardware-based network slicing approach for 6G .txt
+./source/txt_6G/88642047_Development of a D -Band Traveling Wave Tube for High Data-Rate Wireless Links.txt
+./source/txt_6G/411865710_Channel Estimation for RIS Assisted Wireless Communications Part I -- Fundamentals Solutions and Fut.txt
+./source/txt_6G/214209205_Special issue on 6G wireless systems.txt
+./source/txt_6G/368349933_An Overview of Massive MIMO Localization Techniques in Wireless Cellular Networks Recent Advances an.txt
+./source/txt_6G/261657556_The Review and Analysis of Antenna for Sixth Generation 6G Applications.txt
+./source/txt_6G/162567237_Wireless Link Pairing WiLP towards secured 6G networks.txt
+./source/txt_6G/267163034_A Probabilistic Codebook Technique for Fast Initial Access in 6G Vehicle-to-Vehicle Communications.txt
+./source/txt_6G/400070275_Trends in Cloud Computing Paradigms Fundamental Issues Recent Advances and Research Directions towar.txt
+./source/txt_6G/97031928_Receiving Technology of Multi-target TTC Signals Using The Unique PRN Code.txt
+./source/txt_6G/431003525_LoS-Map Construction for Proactive Relay of Opportunity Selection in 6G V2X Systems.txt
+./source/txt_6G/36476809_Erratum to “Interference management in 6G space and terrestrial integrated networks Challenges and a.txt
+./source/txt_6G/405575883_The Road Towards 6G A Comprehensive Survey.txt
+./source/txt_6G/311990589_Edge Computing Empowered Satellite-Territorial Networks Service Architecture Use Case and Open Issue.txt
+./source/txt_6G/240949935_Flexibly designed polarization-independent electromagnetically induced transparency-like effect via .txt
+./source/txt_6G/39361303_Deep Learning-based Concurrent Resource Allocation for Enhancing Service Response in Secure 6G Netwo.txt
+./source/txt_6G/279747511_Towards 6G Networks Use Cases and Technologies.txt
+./source/txt_6G/342399972_A General 3D Non-Stationary Massive MIMO GBSM for 6G Communication Systems.txt
+./source/txt_6G/153132192_FORMAT A Reconfigurable Tile-Based Antenna Array System for 5G and 6G Millimeter-Wave Testbeds.txt
+./source/txt_6G/189308267_Circuit Type Multiple Beamforming Networks for Antenna Arrays in 5G and 6G Terrestrial and Non-Terre.txt
+./source/txt_6G/196910578_On the channel modeling of intelligent controllable electro-magnetic-surface.txt
+./source/txt_6G/442801863_Learning-Driven Wireless Communications towards 6G.txt
+./source/txt_6G/142647078_Transfer Learning Promotes 6G Wireless Communications Recent Advances and Future Challenges.txt
+./source/txt_6G/330866487_CLE against SOA with Better Data Security Storage to Cloud 5G.txt
+./source/txt_6G/402694004_Multi-cell Multi-user and Multi-carrier Secure Communication Using Non-Orthogonal Signals’ Superposi.txt
+./source/txt_6G/142385205_Patient-Centric HetNets Powered by Machine Learning and Big Data Analytics for 6G Networks.txt
+./source/txt_6G/459841667_Deep learning and federate learning toward 6G mobile communications.txt
+./source/txt_6G/491561217_Federated Learning Empowered Computation Offloading and Resource Management in 6G-V2X.txt
+./source/txt_6G/10527044_Artificial Intelligence in the Telecommunication Sector Exploratory Analysis of 6G’s Potential for O.txt
+./source/txt_6G/331915627_Base Station Wake-up Strategy in Cellular Networks with Hybrid Energy Supplies for 6G Networks in an.txt
+./source/txt_6G/201630181_Optimum Resource Allocation in 6G Optical Wireless Communication Systems.txt
+./source/txt_6G/462463814_Edge-Based Virtual Reality over 6G Terahertz Channels.txt
+./source/txt_6G/426288000_A Framework of 4G Wireless Networks-Overview and Challenges.txt
+./source/txt_6G/25208098_6G technology based advanced virtual multi-purpose embedding algorithm to solve far-reaching network.txt
+./source/txt_6G/159950175_Virtual Drive-Tests A Case for Predicting QoE in Adaptive Video Streaming.txt
+./source/txt_6G/425502053_Secure Joint Communications and Sensing using Chirp Modulation.txt
+./source/txt_6G/51684771_Survey on 6G Frontiers Trends Applications Requirements Technologies and Future Research.txt
+./source/txt_6G/340043281_A Prospective Look Key Enabling Technologies Applications and Open Research Topics in 6G Networks.txt
+./source/txt_6G/370714347_Envisioning Device-to-Device Communications in 6G.txt
+./source/txt_6G/279750388_Handover Management of Drones in Future Mobile Networks 6G Networks.txt
+./source/txt_6G/481863649_Reconfigurable Intelligent Surface Assisted Device-to-Device Communications.txt
+./source/txt_6G/458795186_Supportive 5G infrastructure policies are essential for universal 6G Evidence from an open-source te.txt
+./source/txt_6G/83929296_Edge Cloud Server Deployment with Transmission Power Control through Machine Learning for 6G Interne.txt
+./source/txt_6G/430221654_Wideband Channel Estimation for THz Massive MIMO.txt
+./source/txt_6G/464038279_Near-field Tracking with Large Antenna Arrays Fundamental Limits and Practical Algorithms.txt
+./source/txt_6G/443853427_Fractionally Spaced Equalizer for Next Generation Terahertz Wireless Communication Systems.txt
+./source/txt_6G/14986004_6G Wireless Communication Its Vision Viability Application Requirement Technologies Encounters and R.txt
+./source/txt_6G/91270077_Machine Learning for 5G and Beyond Applications and Future Directions.txt
+./source/txt_6G/153136146_Federated Learning Meets Blockchain State Channel based Distributed Data Sharing Trust Supervision M.txt
+./source/txt_6G/386706611_Multi-user Capacity of Cyclic Prefix Direct Sequence Spread Spectrum with Linear Detection and Preco.txt
+./source/txt_6G/446737765_Reconfigurable Intelligent Surface Assisted Device-to-Device Communications.txt
+./source/txt_6G/196652592_Mobility-Aware Offloading and Resource Allocation in MEC-Enabled IoT Networks.txt
+./source/txt_6G/478457485_6G Indicators of Value and Performance.txt
+./source/txt_6G/176467643_Terahertz Wireless Channels A Holistic Survey on Measurement Modeling and Analysis.txt
+./source/txt_6G/294170308_Key drivers and research challenges for 6G ubiquitous wireless intelligence.txt
+./source/txt_6G/368881422_Learning to Dynamically Allocate Radio Resources in Mobile 6G in-X Subnetworks.txt
+./source/txt_6G/249868089_Satellite Communication at Millimeter Waves a Key Enabler of the 6G Era.txt
+./source/txt_6G/301510498_Wireless link pairing toward secured 6G networks.txt
+./source/txt_6G/65318876_A Survey of Intelligent Reflecting Surfaces IRSs Towards 6G Wireless Communication Networks with Mas.txt
+./source/txt_6G/124301398_Deep Reinforcement Learning-Based Adaptive Handover Mechanism for VLC in a Hybrid 6G Network Archite.txt
+./source/txt_6G/160477395_Multi-Access Edge Computing Architecture Optimized for Performance Driven Radio Access Networks in 6.txt
+./source/txt_6G/128233861_Holistic end-to-end 6G MTC network vision invited.txt
+./source/txt_6G/64795029_A Blockchain-based Secure Data Aggregation Strategy using 6G-enabled NIB for Industrial Applications.txt
+./source/txt_6G/48017861_Satellite- and Cache-assisted UAV A Joint Cache Placement Resource Allocation and Trajectory Optimiz.txt
+./source/txt_6G/153399894_Possible Applications of Sixth Generation Communication Networks.txt
+./source/txt_6G/200061592_Deep learning based likelihood ascent search detection algorithm for uplink multiuser Massive MIMO s.txt
+./source/txt_6G/275821483_Edge on Wheels with OMNIBUS Networking in 6G Technology.txt
+./source/txt_6G/13939758_Towards 6G Getting Ready for the Next Decade.txt
+./source/txt_6G/229684386_6G Enabling Technologies.txt
+./source/txt_6G/342668612_Improving V2X-6G network capacity using a new UAV-based approach in a CloudICN architecture case Stu.txt
+./source/txt_6G/258520642_Orbital angular momentum and mode multiplexing based index modulation.txt
+./source/txt_6G/424719996_A Review on Concepts and Technologies of 6G Cellular Network and Future Scope.txt
+./source/txt_6G/176994286_Cooperative Drone Communications for Space-Air-Ground Integrated Networks.txt
+./source/txt_6G/358922248_6G The Intelligent Network.txt
+./source/txt_6G/412923942_HetMEC Heterogeneous Multi-Layer Mobile Edge Computing in the 6G Era.txt
+./source/txt_6G/58243126_Pushing the Boundaries of Antenna-Efficiency Measurements Towards 6G Using a Novel mm-Wave Reverbera.txt
+./source/txt_6G/392214757_Analysis of Heterogeneous and Hybrid Networks with Successive Interference Cancellation.txt
+./source/txt_6G/63748464_Design and Analysis of Low-complexity Terahertz Receiver.txt
+./source/txt_6G/284211810_Power Optimization for Low Interference and Throughput Enhancement for 5G and 6G systems.txt
+./source/txt_6G/198228786_Deep Learning of Transferable MIMO Channel Modes for 6G V2X Communications.txt
+./source/txt_6G/235453236_Novel Solutions to NOMA based Modern Random Access for 6G Enabled IoT.txt
+./source/txt_6G/107002931_Collision Avoidance Strategy for the Autocrane.txt
+./source/txt_6G/245939601_Energy-Efficient Access-Point Sleep-Mode Techniques for Cell-Free mmWave Massive MIMO Networks with .txt
+./source/txt_6G/190627243_Towards 6G Networks Ensemble Deep Learning Empowered VNF Deployment for IoT Services.txt
+./source/txt_6G/267435550_Using Massive MIMO Arrays for Joint Communication and Sensing.txt
+./source/txt_6G/240172856_Blockchain Based Spectrum Sharing over 6G Hybrid Cloud.txt
+./source/txt_6G/283951039_Scattering Mechanisms and Modeling for Terahertz Wireless Communications.txt
+./source/txt_6G/247251053_Interference Modeling and Mutual Information Maximization Over 6G THz Wireless Ad-Hoc Nano-Networks.txt
+./source/txt_6G/319865003_Wideband Beam Tracking Based on Beam Zooming for THz Massive MIMO.txt
+./source/txt_6G/119063105_AI-based Joint Optimization of QoS and Security for 6G Energy Harvesting Internet of Things.txt
+./source/txt_6G/484753988_AI-Enabled Framework for Fog Computing Driven E-Healthcare Applications.txt
+./source/txt_6G/362070597_Generation Detection and Analysis of Sub-Terahertz Over the Air OTA Test Bed for 6G Mobile Communica.txt
+./source/txt_6G/45400669_Edge Intelligence in Softwarized 6G Deep Learning-enabled Network Traffic Predictions.txt
+./source/txt_6G/365740708_Next-G Wireless Learning from 5G Techno-Economics to Inform Next Generation Wireless Technologies.txt
+./source/txt_6G/245941014_Survey on Aerial Radio Access Networks Toward a Comprehensive 6G Access Infrastructure.txt
+./source/txt_6G/413713421_Reconfigurable Intelligent Surfaces and Metamaterials The Potential of Wave Propagation Control for .txt
+./source/txt_6G/220251298_The Latest 6G Artificial Intelligence Network Applications.txt
+./source/txt_6G/208717026_Secure Visible Light Communication Technique Based on Asymmetric Data Encryption for 6G Communicatio.txt
+./source/txt_6G/251970885_Usage of SDM technology in radio-over-fiber RoF transmission systems in high-speed scalable 6G wirel.txt
+./source/txt_6G/72140122_Statistical Delay and Error-Rate Bounded QoS Provisioning for mURLLC Over 6G CF M-MIMO Mobile Networ.txt
+./source/txt_6G/487114077_Generating MIMO Channels For 6G Virtual Worlds Using Ray-tracing Simulations.txt
+./source/txt_6G/77907376_NVM-enhanced Machine Learning Inference in 6G Edge Computing.txt
+./source/txt_6G/468240016_Approaching the Development of 6G mobile wireless networks.txt
+./source/txt_6G/430491348_Role of 6G Networks Use Cases and Research Directions.txt
+./source/txt_6G/410044230_BEAT Blockchain-Enabled Accountable and Transparent Network Sharing in 6G.txt
+./source/txt_6G/24430490_Age-of-Information for mURLLC Over 6G Multimedia Wireless Networks.txt
+./source/txt_6G/479512640_Beam-Space Multiplexing Practice Theory and Trends From 4G TD-LTE 5G to 6G and Beyond.txt
+./source/txt_6G/168609974_An Energy-Efficient In-Network Computing Paradigm for 6G.txt
+./source/txt_6G/420530366_Decentralized Identifiers and Self-Sovereign Identity - A New Identity Management for 6G Integration.txt
+./source/txt_6G/124569954_When Machine Learning Meets Privacy in 6G A Survey.txt
+./source/txt_6G/160222048_Intelligent Interference Prediction and Interference Avoidance in Drone Green Communications.txt
+./source/txt_6G/454871930_Three-Dimensional Dirac Semimetal Antennas for Telecommunications in the Terahertz Spectrum.txt
+./source/txt_6G/322227232_Evolution Toward Artificial Intelligence of Things Under 6G Ubiquitous-X.txt
+./source/txt_6G/128241030_Device Technologies and Circuits for 5G and 6G.txt
+./source/txt_6G/341364152_A General 3D Space-Time-Frequency Non-Stationary THz Channel Model for 6G Ultra-Massive MIMO Wireles.txt
+./source/txt_6G/65326525_Meta-Learning for 6G Communication Networks with Reconfigurable Intelligent Surfaces.txt
+./source/txt_6G/276614612_6G Communication Technology A Vision on Intelligent Healthcare.txt
+./source/txt_6G/455921300_Wideband Hybrid Precoding Techniques for THz Massive MIMO in 6G Indoor Network Deployment.txt
+./source/txt_6G/48549541_Why is Application Reliability an Issue for an Ultra-Reliable 6G Network?.txt
+./source/txt_6G/300207952_Non-Coherent and Backscatter Communications Enabling Ultra-Massive Connectivity in 6G Wireless Netwo.txt
+./source/txt_6G/422629275_An Approach to Automated Multi‐domain Service Production for Future 6G Networks.txt
+./source/txt_6G/154980405_Unitary Checkerboard Precoded OFDM for Low-PAPR Optical Wireless Communications.txt
+./source/txt_6G/41209910_Decentralized Coordination of Converged Tactile Internet and MEC services in H-CRAN Fiber Wireless N.txt
+./source/txt_6G/310431979_Guest Editorial Special Issue on “Green Communication and Computing Technologies for 6G Networks” in.txt
+./source/txt_6G/481087814_3D On-Demand Flying Mobile Communication for Millimeter Wave Heterogeneous Networks.txt
+./source/txt_6G/157864615_From a Human-Centric Perspective What Might 6G Be?.txt
+./source/txt_6G/30987156_Towards Ubiquitous AI in 6G with Federated Learning.txt
+./source/txt_6G/170972386_Why We Should NOT Talk about 6G.txt
+./source/txt_6G/179623318_Reconfigurable Intelligent Surface-Assisted Space Shift Keying.txt
+./source/txt_6G/111990182_Client-Based Intelligence for Resource Efficient Vehicular Big Data Transfer in Future 6G Network.txt
+./source/txt_6G/480302661_Towards 6G Communications Architecture Challenges and Future Directions.txt
+./source/txt_6G/178575108_AI-enabled slice protection exploiting moving target defense in 6G networks.txt
+./source/txt_6G/485021603_Cloud Fog Architectures in 6G Networks.txt
+./source/txt_6G/448059483_Greener Physical Layer Technologies for 6G Mobile Communications.txt
+./source/txt_6G/179361957_Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks.txt
+./source/txt_6G/84990145_Ultra-low permittivity porous silica-cellulose nanocomposite substrates for 6G telecommunication.txt
+./source/txt_6G/277666364_On the Application of BAC-NOMA to 6G umMTC.txt
+./source/txt_6G/48552570_A Blockchain-Based Authentication and Service Provision Scheme for Intemet of Things.txt
+./source/txt_6G/458808190_ML-Assisted UE Positioning Performance Analysis and 5G Architecture Enhancements.txt
+./source/txt_6G/13163552_SIABR A Structured Intra-Attention Bidirectional Recurrent Deep Learning Method for Ultra-Accurate T.txt
+./source/txt_6G/69262379_Intelligent Content Caching Strategy in Autonomous Driving Toward 6G.txt
+./source/txt_6G/232053908_Non-Terrestrial Networks in the 6G Era Challenges and Opportunities.txt
+./source/txt_6G/53796193_Toward 6G Security Technology Trends Threats and Solutions.txt
+./source/txt_6G/177004062_172 5G TECHNOLOGIES AND BUSINESS ASPECTS HIGH-LEVEL POINT OF VIEW.txt
+./source/txt_6G/409263678_Intelligent Reflecting Surface-Assisted Secure Multi-input Single-output Cognitive Radio Transmissio.txt
+./source/txt_6G/49340066_Bayesian-based Symbol Detector for Orthogonal Time Frequency Space Modulation Systems.txt
+./source/txt_6G/136896264_Anomaly Detection Based on Multidimensional Data Processing for Protecting Vital Devices in 6G Enabl.txt
+./source/txt_6G/309124967_Demonstration of 470 GHz Bandwidth Wireless Transmitter Based on Photo-mixer for Simultaneous Transm.txt
+./source/txt_6G/19980171_Fiber-Enabled Optical Wireless Communications with Full Beam Coverage.txt
+./source/txt_6G/475062239_A Multi-Dimensional Intelligent Multiple Access Technique for 5G Beyond and 6G Wireless Networks.txt
+./source/txt_6G/314630206_Metalens mounted on a resonant tunneling diode for collimated and directed terahertz waves.txt
+./source/txt_6G/130605228_Network intelligence in 6G challenges and opportunities.txt
+./source/txt_6G/115401133_Towards Ubiquitous AI in 6G with Federated Learning.txt
+./source/txt_6G/397992391_High-speed data transmission system using silicon-based optical phased array.txt
+./source/txt_6G/336650900_Formation of gigahertz pulse train by chirped terahertz pulses interference.txt
+./source/txt_6G/194306966_PRS-P2P A Prosumer Recommender System for Secure P2P Energy Trading using Q-Learning Towards 6G.txt
+./source/txt_6G/345826334_6G and the UN SDGs Where is the Connection?.txt
+./source/txt_6G/24437812_Plasmonic Nanoantennas for 6G IntraInter-Chip Optical-Wireless Communications.txt
+./source/txt_6G/414770311_White Paper on 6G Drivers and the UN SDGs.txt
+./source/txt_6G/282387599_Massive Wireless Energy Transfer Enabling Sustainable IoT Towards 6G Era.txt
+./source/txt_6G/73983268_Trend analysis of 6G wireless technology.txt
+./source/txt_6G/163374429_Cell-Free Satellite-UAV Networks for 6G Wide-Area Internet of Things.txt
+./source/txt_6G/353166772_NOMA and User-Centric Based Cell-Free Massive MIMO Over 6G Big-Data Mobile Wireless Networks.txt
+./source/txt_6G/177268262_Resonant Beam Communications.txt
+./source/txt_6G/171238963_Optical Wireless Sytems for Spine and Leaf Data Center Downlinks.txt
+./source/txt_6G/46720621_Benchmarking Machine Learning Techniques for THz Channel Estimation Problems.txt
+./source/txt_6G/416868010_Channel Estimation for Intelligent Reflecting Surface in 6G Wireless Network via Deep Learning Techn.txt
+./source/txt_6G/477423366_Rate-Splitting Multiple Access A New Frontier for the PHY Layer of 6G.txt
+./source/txt_6G/370993010_Spectrum Learning-Aided Reconfigurable Intelligent Surfaces for Green 6G Networks.txt
+./source/txt_6G/273475572_A REVIEW ON FUTURE GENERATION TECHNOLOGY 6G NETWORKS.txt
+./source/txt_6G/372041716_Design Considerations of Photonic THz Communications for 6G Networks.txt
+./source/txt_6G/124315649_6Genesis Flagship Program Building the Bridges Towards 6G-Enabled Wireless Smart Society and Ecosyst.txt
+./source/txt_6G/304146807_OFDM based bidirectional multi-relay SWIPT strategy for 6G IoT networks.txt
+./source/txt_6G/39905663_Capacity Analysis of Cooperative NOMA-OAM-MIMO based Full-Duplex Relaying for 6G.txt
+./source/txt_6G/234678798_Towards artificial intelligence enabled 6G State of the art challenges and opportunities.txt
+./source/txt_6G/149482157_A 6G White Paper on Connectivity for Remote Areas.txt
+./source/txt_6G/257223547_AI based Service Management for 6G Green Communications.txt
+./source/txt_6G/164949170_CMOS Power-Amplifier Design Perspectives for 6G Wireless Communications.txt
+./source/txt_6G/54062313_Reshaping Autonomous Driving for the 6G Era.txt
+./source/txt_6G/249097512_Distributed Antenna Systemes using High-Frequency-Band targeting 6G Wireless Networks.txt
+./source/txt_6G/72936998_Design and Performance Analysis of Schottky Terahertz Transceiver for 6G Wireless Communication.txt
+./source/txt_6G/438890113_GCH-MV Game-enhanced Compensation Handover Scheme for Multipath TCP in 6G Software Defined Vehicular.txt
+./source/txt_6G/332459977_Supportive 5G infrastructure policies are essential for universal 6G Evidence from an open-source te.txt
+./source/txt_6G/272166948_6G Visions Mobile ultra-broadband super internet-of-things and artificial intelligence.txt
+./source/txt_6G/289468493_Optimizing Antenna Arrays for Spatial Multiplexing Towards 6G Systems.txt
+./source/txt_6G/212136164_Enhanced Non-Orthogonal Waveform eNOW for 5G Evolution and 6G.txt
+./source/txt_6G/142668322_Energy Efficient Resource Allocation strategy in Massive IoT for Industrial 6G Applications.txt
+./source/txt_6G/295760838_Modified Shannon’s Capacity for Wireless Communication [Speakers Corner].txt
+./source/txt_6G/330626025_Optical Wireless Communication and Li-Fi a New Infrastructure for Wireless Communication in Saving E.txt
+./source/txt_6G/50131955_UAVs as a Service Boosting Edge Intelligence for Air-Ground Integrated Networks.txt
+./source/txt_6G/285537290_Experimental Demonstrations of THz Communications Based on Photonics for Future 6G Indoor Network.txt
+./source/txt_6G/141882643_Over-the-Air Equalization with Reconfigurable Intelligent Surfaces.txt
+./source/txt_6G/301004140_Privacy-Preserving Distributed Learning Framework for 6G Telecom Ecosystems.txt
+./source/txt_6G/496825734_CoKnowEMe An Edge Evaluation Scheme for QoS of IoMT Microservices in 6G Scenario.txt
+./source/txt_6G/20772248_An Adversarial Attack Based on Incremental Learning Techniques for Unmanned in 6G Scenes.txt
+./source/txt_6G/129562016_Toward 6G Understanding network requirements and key performance indicators.txt
+./source/txt_6G/57734920_6G Cognitive Information Theory A Mailbox Perspective.txt
+./source/txt_6G/474806129_Envisioning Device-to-Device Communications in 6G.txt
+./source/txt_6G/303101821_Ericsson 6G vision and activities.txt
+./source/txt_6G/267712400_A Proportional Survey on Generations of Wireless Networks.txt
+./source/txt_6G/221050776_Software Defined 5G and 6G Networks a Survey.txt
+./source/txt_6G/45414346_A Vision to Software-Centric Cloud Native Network Functions Achievements and Challenges.txt
+./source/txt_6G/475330529_6G Vision Towards Future Collaborative Cognitive Communication 3C Systems.txt
+./source/txt_6G/355530773_Modeling and Analysis of Reconfigurable Intelligent Surfaces for Indoor and Outdoor Applications in .txt
+./source/txt_6G/359725244_Statistical DelayError-Rate Bounded QoS Provisioning Over MmWave Cell-Free M-MIMO and FBC-HARQ Based.txt
+./source/txt_6G/481098149_Research on ultra-wideband and high saturation power uni-traveling carrier photodetectors  Invited .txt
+./source/txt_6G/69270050_Information-Centric Massive IoT-Based Ubiquitous Connected VRAR in 6G A Proposed Caching Consensus A.txt
+./source/txt_6G/316472220_Physical-Layer Security in Visible Light Communications.txt
+./source/txt_6G/220789664_Design of Time-Invariant SC-LDPC Codes Based on PEG Algorithm.txt
+./source/txt_6G/186448857_Survey and Performance Evaluation of Multiple Access Schemes for Next-Generation Wireless Communicat.txt
+./source/txt_6G/496303090_Supportive 5G Infrastructure Policies are Essential for Universal 6G Assessment using an Open-source.txt
+./source/txt_6G/147389464_Performance Analysis of Spatial and Frequency Domain Index-Modulated Reconfigurable Intelligent Meta.txt
+./source/txt_6G/266665140_Towards Power Efficient 6G Sub-THz Transmission.txt
+./source/txt_6G/167837295_6G mobile communication networks vision challenges and key technologies.txt
+./source/txt_6G/165215904_6G wireless communications networks a comprehensive survey.txt
+./source/txt_6G/104136732_The problem of spectral efficiency and capacity increase in perspective 6G communication systems.txt
+./source/txt_6G/97845397_Blockchain enabled UE-assisted multi-connectivity scheme.txt
+./source/txt_6G/312017218_5G Evolution and 6G.txt
+./source/txt_6G/393806168_Feature-Aided Adaptive-Tuning Deep Learning for Massive Device Detection.txt
+./source/txt_6G/459342227_Power Control for NOMA HAP-UAV Integrated Aerial Access Networks.txt
+./source/txt_6G/324862570_Reconfigurable Intelligent Surfaces for Future Wireless Networks A Channel Modeling Perspective.txt
+./source/txt_6G/137954281_Multi-Beam Steering for 6G Communications Based on Graphene Metasurfaces.txt
+./source/txt_6G/330892490_Intelligent O-RAN for Beyond 5G and 6G Wireless Networks.txt
+./source/txt_6G/69797120_AF Relaying Secrecy Performance Prediction for 6G Mobile Communication Networks in Industry 50.txt
+./source/txt_6G/420808195_Application of wearable devices in 6G internet of things communication environment using artificial .txt
+./source/txt_6G/395380351_ML-Assisted UE Positioning Performance Analysis and 5G Architecture Enhancements.txt
+./source/txt_6G/22349515_6G Security Challenges and Potential Solutions.txt
+./source/txt_6G/320669538_A Key 6G Challenge and Opportunity - Connecting the Remaining 4 Billions A Survey on Rural Connectiv.txt
+./source/txt_6G/258017264_Channel Estimation for Full-Duplex RIS-assisted HAPS Backhauling with Graph Attention Networks.txt
+./source/txt_6G/48039922_Performance Analysis of Orbital Angular Momentum OAM –A 6G Waveform Design.txt
+./source/txt_6G/94963917_Evolutionary Detection Accuracy of Secret Data in Audio Steganography for Securing 5G-Enabled Intern.txt
+./source/txt_6G/175442148_Towards 6G IoT Tracing Mobile Sensor Nodes with Deep Learning Clustering in UAV Networks.txt
+./source/txt_6G/427887171_Multi-Dimensional Data Communication Protocols for the Physical Level of the Internet of Things Base.txt
+./source/txt_6G/356059732_Intelligent Reflecting Surfaces for Compute-and-Forward.txt
+./source/txt_6G/288950876_Beyond 5G Big Data Processing for Better Spectrum Utilization.txt
+./source/txt_6G/38865568_Towards Environment-Aware 6G Communications via Channel Knowledge Map.txt
+./source/txt_6G/38603466_Efficient Path Tracking Control for Autonomous Driving of Tracked Emergency Rescue Robot under 6G Ne.txt
+./source/txt_6G/364710670_A General 3D Space-Time-Frequency Non-Stationary Model for 6G Channels.txt
+./source/txt_6G/102829410_Fuzzy C-Means Clustering-Based mMIMO-NOMA Downlink Communication for 6G Ultra-Massive Interconnectiv.txt
+./source/txt_6G/363662809_Smart Buildings Enabled by 6G Communications.txt
+./source/txt_6G/248319599_Propagation Measurement System and Approach at 140 GHz-Moving to 6G and Above 100 GHz.txt
+./source/txt_6G/365236060_An Overview of Machine Learning-Based Techniques for Solving Optimization Problems in Communications.txt
+./source/txt_6G/466685812_Geolocation Clustering for Radio Resource Management in 6G Networks.txt
+./source/txt_6G/318574511_Content Pushing over Idle Timeslots Performance Analysis and Caching Gains.txt
+./source/txt_6G/190910446_Reconfigurable-Intelligent-Surface Empowered 6G Wireless Communications Challenges and Opportunities.txt
+./source/txt_6G/458821702_Vision Requirements and Technology Trend of 6G How to Tackle the Challenges of System Coverage Capac.txt
+./source/txt_6G/319885565_The Impact of Multi-Connectivity and Handover Constraints on Millimeter Wave and Terahertz Cellular .txt
+./source/txt_6G/210571529_Communication Modeling for Targeted Delivery under Bio-DoS Attack in 6G Molecular Networks.txt
+./source/txt_6G/51974538_Towards Federated Learning-Enabled Visible Light Communication in 6G Systems.txt
+./source/txt_6G/459346574_Next Generation Antenna Large scale antenna for Mobile Communication.txt
+./source/txt_6G/457511642_Channel Estimation for Full-Duplex RIS-assisted HAPS Backhauling with Graph Attention Networks.txt
+./source/txt_6G/319623988_AoI Minimization in Energy Harvesting and Spectrum Sharing Enabled 6G Networks.txt
+./source/txt_6G/391189636_Security for UDNs a step toward 6G.txt
+./source/txt_6G/11605130_Hybrid Spherical- and Planar-Wave Channel Modeling and DCNN-powered Estimation for Terahertz Ultra-m.txt
+./source/txt_6G/345314697_Revolutionizing Future Healthcare using Wireless on the Walls WoW.txt
+./source/txt_6G/95229347_Artificial Intelligence-Enabled Intelligent 6G Networks.txt
+./source/txt_6G/282924561_Terahertz Propagation Characteristics for 6G Mobile Communication Systems.txt
+./source/txt_6G/33625706_The Potential of Millimeter Waves for Future 5G Cellular and Vehicular Networks.txt
+./source/txt_6G/319100524_A Survey of Intelligent Reflecting Surfaces IRSs Towards 6G Wireless Communication Networks.txt
+./source/txt_6G/196417295_A 300-GHz low-cost high-gain fully metallic Fabry-Perot cavity antenna for 6G terahertz wireless com.txt
+./source/txt_6G/398792532_Toward Network Intellectualization in 6G.txt
+./source/txt_6G/446503191_Federated Learning for 6G Communications Challenges Methods and Future Directions.txt
+./source/txt_6G/413473066_Design of True Time Delay Millimeter Wave Beamformers for 5G Multibeam Phased Arrays.txt
+./source/txt_6G/476911994_Towards 6G and Beyond Smarten Everything with Metamorphic Surfaces.txt
+./source/txt_6G/245438869_Achievable Capacity of Multi-Polarization MIMO MP-MIMO toward 6G Wireless Communications.txt
+./source/txt_6G/186194514_Guest Editorial Circuits Systems and Algorithms for Beyond 5G and Toward 6G.txt
+./source/txt_6G/136125147_A 3D Non-Stationary Channel Model for 6G Wireless Systems Employing Intelligent Reflecting Surfaces .txt
+./source/txt_6G/254614357_Enhanced Computational Intelligence Algorithm for Coverage Optimization of 6G Non-Terrestrial Networ.txt
+./source/txt_6G/425794438_Multi-objective Resource Allocation for mmWave MEC Offloading under Competition of Communication and.txt
+./source/txt_6G/238623726_Towards 6G Holographic Localization Enabling Technologies and Perspectives.txt
+./source/txt_6G/499457103_Editors Updates June 2021.txt
+./source/txt_6G/302324888_Towards a 6G AI-Native Air Interface.txt
+./source/txt_6G/69279013_SOSChain self optimizing streamchain for last-mile 6G UAV-truck networks.txt
+./source/txt_6G/212933999_Bring the human to the network 5G and beyond.txt
+./source/txt_6G/106241540_Quantum Machine Learning for 6G Communication Networks State-of-the-Art and Vision for the Future.txt
+./source/txt_6G/258809462_Energy Saving in D2D Cellular 6G Networks.txt
+./source/txt_6G/21307110_Multi-sided Matching for the Association of Space-Air-Ground Integrated Systems.txt
+./source/txt_6G/477175567_The Role of Optical Wireless Communication Technologies in 5G6G and IoT Solutions Prospects Directio.txt
+./source/txt_6G/248586000_LSTM-Aided Hybrid Random Access Scheme for 6G MTC Networks.txt
+./source/txt_6G/241508220_Reconfigurable Slotted Antenna Inspired by Multidimensional Modulation.txt
+./source/txt_6G/313335912_6G Mobile Communication Network Vision Challenges and Key Technologies.txt
+./source/txt_6G/14491809_Design and mathematical analysis of a metasurface-based THz bandpass filter with an equivalent circu.txt
+./source/txt_6G/257237183_AI Models for Green Communications Towards 6G.txt
+./source/txt_6G/91824767_Blockchain for Transparent Data Management Toward 6G.txt
+./source/txt_6G/490283813_Optimizing Computation Offloading in Satellite-UAV-Served 6G IoT A Deep Learning Approach.txt
+./source/txt_6G/146351334_High-speed Visible Light Communication Systems Based on Si-substrate LEDs with Multiple Superlattice.txt
+./source/txt_6G/137700685_TULVCAN Terahertz Ultra-broadband Learning Vehicular Channel-Aware Networking.txt
+./source/txt_6G/119350641_Radio Interoperability in 5G and 6G Multiradio Base Station.txt
+./source/txt_6G/80815528_Toward Wisdom-Evolutionary and Primitive-Concise 6GA New Paradigm of Semantic Communication Networks.txt
+./source/txt_6G/445195744_ELIoT New Features in LiFi for Next-Generation IoT.txt
+./source/txt_6G/120923702_SD-VEC Software-Defined Vehicular Edge Computing with Ultra-Low Latency.txt
+./source/txt_6G/154216089_Topological edge states in an all-dielectric terahertz photonic crystal.txt
+./source/txt_6G/17114817_Additive Manufacturing of Smart Antennas and Frequency Selective Surfaces.txt
+./source/txt_6G/356591588_Optical Technology for NFV Converged Networks.txt
+./source/txt_6G/131934568_Fast Pseudo-spectrum Estimation for Automotive Massive MIMO Radar.txt
+./source/txt_6G/76885225_The KICK-OFF of 6G Research Worldwide An Overview.txt
+./source/txt_6G/27864671_Multifunctional Ultraviolet-C Micro-LED with Monolithically Integrated Photodetector for Optical Wir.txt
+./source/txt_6G/330903413_On The Use of Quantum Communications for Securing IoT Devices in the 6G Era.txt
+./source/txt_6G/161296507_A Key 6G Challenge and Opportunity - Connecting the Base of the Pyramid A Survey on Rural Connectivi.txt
+./source/txt_6G/17379586_Channel Estimation for RIS Assisted Wireless Communications Part I -Fundamentals Solutions and Futur.txt
+./source/txt_6G/379662672_Future post-COVID digital smart and sustainable cities in the wake of 6G Digital twins immersive rea.txt
+./source/txt_6G/155267629_6G Wireless Communication Systems Applications Requirements Technologies Challenges and Research Dir.txt
+./source/txt_6G/121189371_Scoring the Terabits GoalBroadband Connectivity in 6G.txt
+./source/txt_6G/21050370_Channel Detection under Impulsive Noise and Fading Environments for Smart Grid.txt
+./source/txt_6G/487404829_Going Toward 6G [From the Editor].txt
+./source/txt_6G/279000362_Quality of Experience in 6G Networks Outlook and Challenges.txt
+./source/txt_6G/87897816_Supervised Machine Learning Classifiers for Diversity Combined Signals in 6G Massive MIMO Receivers.txt
+./source/txt_6G/190920666_The Art of 6G TAO 6G How To Wire Society 50.txt
+./source/txt_6G/412694584_Wireless Terrestrial Backhaul for 6G Remote Access Challenges and Low Power Solutions.txt
+./source/txt_6G/28915777_A Framework for Routing DNN Inference Jobs over Distributed Computing Networks.txt
+./source/txt_6G/216610896_Intelligent Time-Varying Metasurface Transceiver for Index Modulation in 6G Wireless Networks.txt
+./source/txt_6G/487405683_Toward 6G From New Hardware Design to Wireless Semantic and Goal-Oriented Communication Paradigms.txt
+./source/txt_6G/228145330_Role of Quantum Technology in 6G.txt
+./source/txt_6G/226310340_From Connected People Connected Things to Connected Intelligence.txt
+./source/txt_6G/450181536_Diversity Schemes in Multi-hop Visible Light Communications for 6G Networks.txt
+./source/txt_6G/8469042_Improving Physical Layer Security for Reconfigurable Intelligent Surface aided NOMA 6G Networks.txt
+./source/txt_6G/147929816_Creating Collision-Free Communication in IoT with 6G Using Multiple Machine Access Learning Collisio.txt
+./source/txt_6G/413219660_Lightweight NiCNT decorated melamine sponge with sensitive strain sensing performance for ultrahigh .txt
+./source/txt_6G/14760829_Wireless Indoor Simultaneous Localization and Mapping Using Reconfigurable Intelligent Surface.txt
+./source/txt_6G/189086722_Coexistence of directional and non-directional technologies in 6G wireless dense networks.txt
+./source/txt_6G/432094220_Joint Resource Allocation Optimization Over Energy Harvesting Based 6G THz-Band Big-Data-Driven Nano.txt
+./source/txt_6G/314916137_TEDGE-Caching Transformer-based Edge Caching Towards 6G Networks.txt
+./source/txt_6G/265633187_Learning-Driven Wireless Communications towards 6G.txt
+./source/txt_6G/489242179_Future OFDM-based Communication Systems Towards 6G and Beyond Machine Learning Approaches.txt
+./source/txt_6G/228409170_5G and Beyond 5G Non-Terrestrial Networks trends and research challenges.txt
+./source/txt_6G/172310424_Self-Evolving Integrated Vertical Heterogeneous Networks.txt
+./source/txt_6G/336412630_Client-Based Intelligence for Resource Efficient Vehicular Big Data Transfer in Future 6G Networks.txt
+./source/txt_6G/210321502_Towards Future 6G from the Hardware Components Perspective – A Focus on the Hardware-Software Divide.txt
+./source/txt_6G/385171777_Scattering Mechanisms and Modeling for Terahertz Wireless Communications.txt
+./source/txt_6G/49890104_Blockchain-Based Dynamic Spectrum Sharing for 6G UIoT Networks.txt
+./source/txt_6G/71648937_Overview of nonlinear signal processing in 5G and 6G access technologies.txt
+./source/txt_6G/155797314_Machine Learning for Structural Monitoring and Anomaly Detection.txt
+./source/txt_6G/154224487_Application of Cybertwin for Offloading in Mobile Multi-access Edge Computing for 6G Networks.txt
+./source/txt_6G/313608081_Multivariate regressive deep stochastic artificial learning for energy and cost efficient 6G communi.txt
+./source/txt_6G/414533527_Channel Estimation for Extremely Large-Scale MIMO Far-Field or Near-Field?.txt
+./source/txt_6G/311773362_6G The Next Horizon From Connected People and Things to Connected Intelligence.txt
+./source/txt_6G/89213215_In the Middle of the Patent War for the Next Generation of Video Coding Standard.txt
+./source/txt_6G/281102670_Energy-Efficient Drone Trajectory Planning for the Localization of 6G-enabled IoT Devices.txt
+./source/txt_6G/151341449_Vehicular communication channel measurement modelling and application for beyond 5G and 6G.txt
+./source/txt_6G/84232920_5G and 6G Networks Should There Be a Health Concern?.txt
+./source/txt_6G/442845927_6G Access Network for Intelligent Internet of Healthcare Things Opportunity Challenges and Research .txt
+./source/txt_6G/311512155_Study on application of Reed-Solomon product code for optical on-off keying satellite communication .txt
+./source/txt_6G/451497064_6G White paper Research challenges for Trust Security and Privacy.txt
+./source/txt_6G/11095800_KKa Slotted Stacked Patch Antenna and Active Array Antenna Design for a 5G6G Satellite Mobile Commun.txt
+./source/txt_6G/453857052_Spectral Floquet analysis devoted to meta-surface applied for 5G and planned 6G antenna designs.txt
+./source/txt_6G/341659646_A Theoretical Framework for the 6G Wireless Communication Standard Vision Applications and Challenge.txt
+./source/txt_6G/31019030_What is A Wireless UAV? A Design Blueprint for 6G Flying Wireless Nodes.txt
+./source/txt_6G/315969558_Wireless Communication Evolution and Advance Wireless Communication.txt
+./source/txt_6G/96030841_6G Communication Technology A Vision on Intelligent Healthcare.txt
+./source/txt_6G/207442071_Terahertz plasmonic sources.txt
+./source/txt_6G/394612995_Machine Type Communications in 6G.txt
+./source/txt_6G/219763003_Distributed Probabilistic Offloading in Edge Computing for 6G-enabled Massive Internet of Things.txt
+./source/txt_6G/219501090_How could 6G Transform Engineering Platforms Towards Ecosystemic Business Models.txt
+./source/txt_6G/358961852_A Survey of 6G Wireless Communications Emerging Technologies.txt
+./source/txt_6G/387273517_A QoS-Aware Dynamic Bandwidth Allocation Algorithm for Passive Optical Networks with Non-Zero Laser .txt
+./source/txt_6G/155276174_Learning-based IoT Data Aggregation for Disaster Scenarios.txt
+./source/txt_6G/139023333_Millimeter Wave and Radio Stripe A Prospective Wireless Technology for 6G and Beyond Networks.txt
+./source/txt_6G/435246107_Application of cell-free massive MIMO in 5G and beyond 5G wireless networks a survey.txt
+./source/txt_6G/465654995_AUV-Assisted Subsea Exploration Method in 6G Enabled Deep Ocean Based on a Cooperative Pac-Men Mecha.txt
+./source/txt_6G/73487632_A Perspective of Antennas for 5G and 6G.txt
+./source/txt_6G/430527865_BATS A Blockchain and AI-empowered Drone-assisted Telesurgery System towards 6G.txt
+./source/txt_6G/9524626_Moving Target Defense as a Proactive Defense Element for Beyond 5G.txt
+./source/txt_6G/248862355_On the Application of BAC-NOMA to 6G umMTC.txt
+./source/txt_6G/185423570_PACMAN Privacy-Preserving Authentication Scheme for Managing Cybertwin-based 6G Networking.txt
+./source/txt_6G/267475042_Secure Intelligent Reflecting Surface Assisted MIMO Cognitive Radio Transmission.txt
+./source/txt_6G/128800937_Unipodal 2PAM NOMA without SIC toward Super Ultra-Low Latency 6G.txt
+./source/txt_6G/339040562_3 A Glimpse of the Future Beyond 2020 - B5G.txt
+./source/txt_6G/132471124_Resource-Ability Assisted Service Function Chain Embedding and Scheduling for 6G Networks With Virtu.txt
+./source/txt_6G/187783624_BloCoV6 A blockchain-based 6G-assisted UAV contact tracing scheme for COVID-19 pandemic.txt
+./source/txt_6G/26041055_Wireless Environment as a Service Enabled by Reconfigurable Intelligent Surfaces The RISE-6G Perspec.txt
+./source/txt_6G/353197005_Mobility-Aware Offloading and Resource Allocation in MEC-Enabled IoT Networks.txt
+./source/txt_6G/11623568_Review Comprehensive study of 5G and 6G Communication Network.txt
+./source/txt_6G/410606820_6G Drivers for B2B Market E2E Services and Use Cases.txt
+./source/txt_6G/465657126_Overview of THz Antenna Design Methodologies.txt
+./source/txt_6G/322788712_White paper on RF enabling 6G  opportunities and challenges from technology to spectrum.txt
+./source/txt_6G/277437974_HCP Heterogeneous Computing Platform for Federated Learning Based Collaborative Content Caching Towa.txt
+./source/txt_6G/32333354_What is A Wireless UAV? A Design Blueprint for 6G Flying Wireless Nodes.txt
+./source/txt_6G/213474863_Special issue on Revolutionary Paradigms for Smart Connected Vehicles in the 6G Era.txt
+./source/txt_6G/362110609_Estimation of Peak-to-Average Power Ratio of Optimal FTN Signals.txt
+./source/txt_6G/386752290_Potential Key Technologies for 6G Mobile Communications.txt
+./source/txt_6G/293953436_AI-assisted PHY technologies for 6G and beyond wireless networks.txt
+./source/txt_6G/368402352_LSTM-Aided Hybrid Random Access Scheme for 6G Machine Type Communication Networks.txt
+./source/txt_6G/201416869_Downlink Power Allocation in Delta-OMA D-OMA 6G Networks.txt
+./source/txt_6G/276652229_iSocialDrone QoS aware MQTT middleware for social internet of drone things in 6G-SDN slice.txt
+./source/txt_6G/22110501_Fogbanks Future Dynamic Vehicular Fog Banks for Processing Sensing and Storage in 6G.txt
+./source/txt_6G/427123157_Prospects for 5G evolution  6G  Wireless Technology and Standardization.txt
+./source/txt_6G/383083018_The Convergence of Blockchain IoT and 6G Potential Opportunities Challenges and Research Roadmap.txt
+./source/txt_6G/150823481_Energy self-sustainability in 6G.txt
+./source/txt_6G/424239775_Spears and shields attacking and defending deep model co-inference in vehicular crowdsensing network.txt
+./source/txt_6G/87909304_Intelligent Reflecting Surface-assisted Free-space Optical Communications.txt
+./source/txt_6G/101540903_Intelligent scaling for 6G IoE services for resource provisioning.txt
+./source/txt_6G/494757166_Capacity Analysis of Hybrid MIMO Using Sparse Signal Processing in mmW 5G Heterogeneous Wireless Net.txt
+./source/txt_6G/452551983_Hybrid Reconfigurable Intelligent Metasurfaces Enabling Simultaneous Tunable Reflections and Sensing.txt
+./source/txt_6G/319383229_Delay-Phase Precoding for THz Massive MIMO with Beam Split.txt
+./source/txt_6G/454387594_AI-Native Network Slicing for 6G Networks.txt
+./source/txt_6G/217934107_Safety-Oriented Resource Allocation for Space-Ground Integrated Cloud Networks of High-Speed Railway.txt
+./source/txt_6G/481126768_Double-edge intelligent integrated satellite terrestrial networks.txt
+./source/txt_6G/106785215_Introduction to the special section on big data analytics and deep learning approaches for 5G and 6G.txt
+./source/txt_6G/322267655_A taxonomy of AI techniques for 6G communication networks.txt
+./source/txt_6G/274557692_SFC-Based Service Provisioning for 6G Satellite-Ground Integrated Networks.txt
+./source/txt_6G/330132280_A Multivariate Time-Series Based Approach for Quality Modeling in Wireless Networks.txt
+./source/txt_6G/227896130_Entropy-Driven Stochastic Federated Learning in Non-IID 6G Edge-RAN.txt
+./source/txt_6G/442592081_SWIPT Cooperative Spectrum Sharing for 6G-Enabled Cognitive IoT Network.txt
+./source/txt_6G/121203748_Differential Privacy and IRS Empowered Intelligent Energy Harvesting for 6G Internet of Things.txt
+./source/txt_6G/249392256_“Your 6G or Your Life” How Can Another G Be Sustainable?.txt
+./source/txt_6G/178351398_Delta-OMA D-OMA A New Method for Massive Multiple Access in 6G.txt
+./source/txt_6G/1142118_Physical Layer Security for Edge Caching in 6G Networks.txt
+./source/txt_6G/201944886_Artificial-Intelligence-Enabled Air Interface for 6G Solutions Challenges and Standardization Impact.txt
+./source/txt_6G/6910156_Atmospheric Propagation Of SubTHz Waves And Space 6G  7G Communications.txt
+./source/txt_6G/341930323_Code-Division OFDM Joint Communication and Sensing System for 6G Machine-type Communication.txt
+./source/txt_6G/436826931_Sub-THz wireless transport layer for ubiquitous high data rate.txt
+./source/txt_6G/275608596_Communication-Aware Path Design for Indoor Robots Exploiting Federated Deep Reinforcement Learning.txt
+./source/txt_6G/382039190_Optimizations with Reconfigurable Intelligent Surfaces RISs in 6G Wireless Networks Power Control Qu.txt
+./source/txt_6G/286619016_Toward a 6G AI-Native Air Interface.txt
+./source/txt_6G/383350178_Deep reinforcement learning techniques for vehicular networks Recent advances and future trends towa.txt
+./source/txt_6G/367359529_A Recent Survey on 6G Vehicular Technology Applications and Challenges.txt
+./source/txt_6G/315455220_QoS-aware self-optimized reconfigurable framework for hyperconnected network.txt
+./source/txt_6G/179664864_Q-Learning for Conflict Resolution in B5G Network Automation.txt
+./source/txt_6G/224491580_A Novel Design Technique for mm-Wave Mismatch Terminations.txt
+./source/txt_6G/438401199_An Architecture for the Performance Management of Smart Healthcare Applications.txt
+./source/txt_6G/492927385_A Non-Stationary GBSM for 6G LEO Satellite Communication Systems.txt
+./source/txt_6G/272464469_Near-field Tracking with Large Antenna Arrays Fundamental Limits and Practical Algorithms.txt
+./source/txt_6G/460946479_China health technology and stringency containment measures during COVID-19 pandemic A discussion of.txt
+./source/txt_6G/241532241_Distributed Artificial Intelligence-as-a-Service DAIaaS for Smarter IoE and 6G Environments.txt
+./source/txt_6G/315194900_Physical Layer Security in Power Domain NOMA through Key Extraction.txt
+./source/txt_6G/62750241_6G-Next Gen Mobile Wireless Communication Approach.txt
+./source/txt_6G/464354935_High Altitude Platform Station Communication as an Enabler for Massive Internet of Things.txt
+./source/txt_6G/145849981_Data Management in Structural Health Monitoring.txt
+./source/txt_6G/362118867_Pandemic Management for Diseases Similar to COVID-19 Using Deep Learning and 5G Communications.txt
+./source/txt_6G/142180160_MIMO-Terahertz in 6G Nano-Communications Channel Modeling and Analysis.txt
+./source/txt_6G/438140896_An Adaptable Contention-free MAC Protocol for Full-duplex Split-plane Optical Wireless Network.txt
+./source/txt_6G/270107008_Security Scheme to Identify Malicious Maneuver of Flooding Attack for WSN in 6G.txt
+./source/txt_6G/313885317_Toward 6G From New Hardware Design to Wireless Semantic and Goal-Oriented Communication Paradigms.txt
+./source/txt_6G/188842692_Statistical Delay and Error-Rate Bounded QoS Provisioning for SWIPT Over CF m-MIMO 6G Wireless Netwo.txt
+./source/txt_6G/481133809_Deep Learning Based BackCom Multiple Beamforming for 6G UAV IoT Networks.txt
+./source/txt_6G/224757018_A Vision on Intelligent Medical Service for Emergency on 5G and 6G Communication Era.txt
+./source/txt_6G/341149064_User-Centric Multi-Dimensional Multiple Access in 6G Communications.txt
+./source/txt_6G/449414614_Series-Constellation Feature Based Blind Modulation Recognition for 6G MIMO-OFDM Systems with Channe.txt
+./source/txt_6G/339052080_The Next Decade of Telecommunications Artificial Intelligence.txt
+./source/txt_6G/182028020_Self-Supervised Radio-Visual Representation Learning for 6G Sensing.txt
+./source/txt_6G/183863028_Hybrid Spherical-and Planar-Wave Modeling and DCNN-powered Estimation of Terahertz Ultra-massive MIM.txt
+./source/txt_6G/312051569_Channel Estimation for Extremely Large-Scale Massive MIMO Far-Field Near-Field or Hybrid-Field?.txt
+./source/txt_6G/160532356_Sustainability as a Challenge and Driver for Novel Ecosystemic 6G Business Scenarios.txt
+./source/txt_6G/220039355_Non-Terrestrial Networks in the 6G Era Challenges and Opportunities.txt
+./source/txt_6G/23431617_25D and 3D Heterogeneous Integration Emerging applications.txt
+./source/txt_6G/470387286_Several Key Technologies for 6G Challenges and Opportunities.txt
+./source/txt_6G/385190497_Efficient power allocation for NOMA-enabled IoT networks in 6G era.txt
+./source/txt_6G/374704931_Orthogonal Frequency Division Multiplexing With Subcarrier Power Modulation for Doubling the Spectra.txt
+./source/txt_6G/267488551_Dynamic-Driven Congestion Control and Segment Rerouting in the 6G-Enabled Data Networks.txt
+./source/txt_6G/82677072_5G TECHNOLOGY A REVIEW.txt
+./source/txt_6G/454397542_QoS-aware Controller and Hypervisor Placement in vSDN-enabled 5G Networks for Time-critical Applicat.txt
+./source/txt_6G/365268677_Multi-Layer Latency Aware Workload Assignment of E-Transport IoT Applications in Mobile Sensors Clou.txt
+./source/txt_6G/48336596_Lightweight Security Data Streaming Based on Reconfigurable Logic for FPGA Platform.txt
+./source/txt_6G/308645641_A Media-Based Modulation Communication System Implementation Using Universal Software Radio Peripher.txt
+./source/txt_6G/17665932_Leveraging AI and Intelligent Reflecting Surface for Energy-Efficient Communication in 6G IoT.txt
+./source/txt_6G/459903155_Dynamic Metasurface Antennas for 6G Extreme Massive MIMO Communications.txt
+./source/txt_6G/192778442_Deep Learning Based Intelligent Inter-Vehicle Distance Control for 6G-Enabled Cooperative Autonomous.txt
+./source/txt_6G/450990458_6G for Vehicle-to-Everything V2X Communications Enabling Technologies Challenges and Opportunities.txt
+./source/txt_6G/46502636_Explaining 6G Spectrum THz mmWave Sub 6 and Low-Band.txt
+./source/txt_6G/13210353_Cyber Resilience in Healthcare Digital Twin on Lung Cancer.txt
+./source/txt_6G/163681286_6G Envisioning the Key Technologies Applications and Challenges.txt
+./source/txt_6G/330404913_Toward 6G A New Era of Convergence [Invited].txt
+./source/txt_6G/468817123_The Design and Analysis of Electronically Reconfigurable Liquid Crystal-Based Reflectarray Metasurfa.txt
+./source/txt_6G/412456456_Electromagnetic Modeling of Holographic Intelligent Reflecting Surfaces at Terahertz Bands.txt
+./source/txt_6G/144283176_Using cloud computing platform of 6G IoT in e-commerce personalized recommendation.txt
+./source/txt_6G/179148543_Vision-Aided Dynamic Blockage Prediction for 6G Wireless Communication Networks.txt
+./source/txt_6G/179672840_Secure and Personalized Edge Computing Services in 6G Heterogeneous Vehicular Networks.txt
+./source/txt_6G/37853289_Achievable Capacity of Multipolarization MIMO With the Practical Polarization-Agile Antennas.txt
+./source/txt_6G/3250635_Emerging applications technologies and services in wireless communications 5G to 6G evolution.txt
+./source/txt_6G/369203835_КЛЮЧЕВЫЕ ТЕХНОЛОГИИ СВЯЗИ ДЛЯ ПОДДЕРЖКИ СИСТЕМ УПРАВЛЕНИЯ ДВИЖЕНИЕМ ГРАЖДАНСКИХ БЕСПИЛОТНЫХ ЛЕТАТЕЛЬ.txt
+./source/txt_6G/318085920_A Fully-Decoupled RAN Architecture for 6G Inspired by Neurotransmission.txt
+./source/txt_6G/221354874_FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Com.txt
+./source/txt_6G/263822295_Dynamic Network Function Provisioning to Enable Network in Box for Industrial Applications.txt
+./source/txt_6G/171285538_Towards Data Collection and Transmission in 6G Space-Air-Ground Integrated Networks Cooperative HAP .txt
+./source/txt_6G/51485983_A Proposal on new modulationdemodulation method for 6G Mobile -- A Commentary of MARIA MIMO Applied .txt
+./source/txt_6G/135634808_Resource-efficient DAG Blockchain with Sharding for 6G Networks.txt
+./source/txt_6G/59613150_Intelligent Network Slicing Management and Control for 6G Mobile Networks.txt
+./source/txt_6G/452042998_Terahertz Communications TeraCom Challenges and Impact on 6G Wireless Systems.txt
+./source/txt_6G/136159601_A Survey on Green 6G Network Architecture and Technologies.txt
+./source/txt_6G/230269382_Low-Latency Short-Packet Transmission over a Large Spatial Scale.txt
+./source/txt_6G/165782101_Integrated Remote Laser Source for 6G Advanced Antenna Systems.txt
+./source/txt_6G/430547628_Energy-Efficient Random Access for LEO Satellite-Assisted 6G Internet of Remote Things.txt
+./source/txt_6G/340108067_Beamforming in LEO Constellations for NB-IoT Services in 6G Communications.txt
+./source/txt_6G/10855286_Fair-Hierarchical Scheduling for Diversified Services in Space Air and Ground for 6G-Dense Internet .txt
+./source/txt_6G/197239816_Opportunistic use of Spectral Holes in Karachi using Convolutional Neural Networks.txt
+./source/txt_6G/394372185_THz equal and unequal 1 to 8 T-Junction power dividers.txt
+./source/txt_6G/40477827_Potential key challenges for terahertz communication systems.txt
+./source/txt_6G/359769580_6G The Personal Tactile Internet - And Open Questions for Information Theory.txt
+./source/txt_6G/270116439_Spectral efficiency analysis and optimal power allocation for uplink multi-user cell-free massive MI.txt
+./source/txt_6G/62498424_Nonlinearity aware optoelectronic terahertz discrete multitone signal transmission with a zero-bias .txt
+./source/txt_6G/352167594_Intelligent Surfaces for 6G Wireless Networks A Survey of Optimization and Performance Analysis Tech.txt
+./source/txt_6G/240494793_Mobile info-communication systems and wireless 5G and 6G technologies.txt
+./source/txt_6G/120170867_Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks.txt
+./source/txt_6G/402238194_Ultra-Wideband Slotted Patch Antenna for mm-Wave Wireless  Ku-band Satellite System.txt
+./source/txt_6G/38120250_5G 및 6G 이동통신에서 OAM 기술 동향.txt
+./source/txt_6G/120957759_Power Efficient Multi-Carrier Baseband Processing for 5G and 6G Wireless.txt
+./source/txt_6G/316255051_6G Vision Value Use Cases and Technologies from European 6G Flagship Project Hexa-X.txt
+./source/txt_6G/209824750_A 3D Non-Stationary Channel Model for 6G Wireless Systems Employing Intelligent Reflecting Surfaces .txt
+./source/txt_6G/383101976_Towards Self-learning Edge Intelligence in 6G.txt
+./source/txt_6G/260156537_Potential technologies and applications based on deep learning in the 6G networks.txt
+./source/txt_6G/383102395_Dual Polarized Lens Horn Antenna for Fixed-Beam D-Band Backhaul Systems.txt
+./source/txt_6G/248360382_Aerial Base Stations Deployment in 6G Cellular Networks using Tethered Drones The Mobility and Endur.txt
+./source/txt_6G/59354694_Drive Towards 6G.txt
+./source/txt_6G/100773826_6G Technologies Key Drivers Core Requirements System Architectures and Enabling Technologies.txt
+./source/txt_6G/255701073_Integrated Sensing and Communication in 6G the Deterministic Channel Models for THz Imaging.txt
+./source/txt_6G/247574794_Role of Open-Source in 6G Wireless Networks.txt
+./source/txt_6G/363180350_Potential for Deep Rural Broadband Coverage With Terrestrial and Non-Terrestrial Radio Networks.txt
+./source/txt_6G/174961191_The Internet of No Things Making the Internet Disappear and See the Invisible.txt
+./source/txt_6G/415609587_Transmissive Reconfigurable Meta-surface Empowered 6G Ultra Massive MIMO.txt
+./source/txt_6G/75609102_Blockchain and 6G The Future of Secure and Ubiquitous Communication.txt
+./source/txt_6G/396211305_Performance Analysis of Clustering Car-Following V2X System with Wireless Power Transfer and Massive.txt
+./source/txt_6G/387298544_The Road for 6G Multimedia Applications.txt
+./source/txt_6G/71677191_Holistic end-to-end 6G MTC network vision.txt
+./source/txt_6G/339588507_Lightweight porous silica foams with extreme-low dielectric permittivity and loss for future 6G wire.txt
+./source/txt_6G/235517355_A framework for capability provisioning in B5G.txt
+./source/txt_6G/481932738_End-to-End Delay Bound for Wireless uVR Services over 6G Terahertz Communications.txt
+./source/txt_6G/192526194_Millimeter Wave and Sub-Terahertz Spatial Statistical Channel Model for an Indoor Office Building.txt
+./source/txt_6G/390444926_6G The Road to the Future Wireless Technologies 2030.txt
+./source/txt_6G/169982085_Learning Semantics An Opportunity for Effective 6G Communications.txt
+./source/txt_6G/139049263_5G new radio photonically-amplified Xhaul.txt
+./source/txt_6G/128301458_6G Connectivity in Dense Indoor Environments using Beamforming and Frequency Allocation over IEEE 80.txt
+./source/txt_6G/49658580_A Vision of 6G Wireless Systems Applications Trends Technologies and Open Research Problems.txt
+./source/txt_6G/211663706_QR-3S A High Payload QR code Secret Sharing System for Industrial Internet of Things in 6G Networks.txt
+./source/txt_6G/347716526_Digitalization in Buildings and Smart Cities on the Way to 6G.txt
+./source/txt_6G/335658150_A vision of 6G – 5Gs successor.txt
+./source/txt_6G/351911625_Aggregated Massive Modular Paradigm A 6G Telecom Infrastructure Vision.txt
+./source/txt_6G/367378203_Frequency Division Multiplexing of Terahertz Waves Realized by Diffractive Optical Elements.txt
+./source/txt_6G/169721697_Quasi-Optical Multi-Beam Antenna Technologies for B5G and 6G mmWave and THz Networks A Review.txt
+./source/txt_6G/456769531_The WEAF Mnecosystem a Perspective of MEMSNEMS Technologies as Pillars of Future 6G Super-IoT and Ta.txt
+./source/txt_6G/471711887_Green Communication for Sixth-Generation Intent-Based Networks An Architecture Based on Hybrid Compu.txt
+./source/txt_6G/381272234_Digital Twin Networks a Survey.txt
+./source/txt_6G/483508473_Power Optimization for Low Interference and Throughput Enhancement for 5G and 6G systems.txt
+./source/txt_6G/129876230_Resource-Hopping Based Grant-Free Multiple Access for 6G-Enabled Massive IoT Networks.txt
+./source/txt_6G/148226391_A Flexible and Lightweight Group Authentication Scheme.txt
+./source/txt_6G/485081534_A Design of 6G Oriented Broadband Multi-Beam Wireless Communication Prototype System.txt
+./source/txt_6G/263045581_TSV-based hairpin bandpass filter for 6G mobile communication applications.txt
+./source/txt_6G/260686369_Visible light communication using new Flip-FBMC modulation system technique.txt
+./source/txt_6G/45728594_Data Center Connectivity by 6G Wireless Systems.txt
+./source/txt_6G/45466488_6G Networks Beyond Shannon Towards Semantic and Goal-Oriented Communications.txt
+./source/txt_6G/358467059_A Quick Look to 6G Antenna Concepts as seen from the Deep Physical Layer Level.txt
+./source/txt_6G/288474624_Reconfigurable Intelligent Surfaces for 6G and Beyond Principles Applications and Research Direction.txt
+./source/txt_6G/169985684_Massive MIMO NOMA with Wavelet Pulse Shaping to Minimize Undesired Channel Interference.txt
+./source/txt_6G/217172011_Statistical Delay and Error-Rate Bounded QoS Provisioning for SWIPT Over CF M-MIMO Based IoT Network.txt
+./source/txt_6G/189122634_Analysis and Optimization of Spinal Codes over the BSC from the AoI Perspective.txt
+./source/txt_6G/5097787_Urban Air MobilityA 6G Use Case?.txt
+./source/txt_6G/492423990_DeLend A P2P Loan Management Scheme Using Public Blockchain in 6G Network.txt
+./source/txt_6G/211667782_Machine Learning Techniques for 5G and Beyond.txt
+./source/txt_6G/359517154_Guest Editorial Special Issue on Enabling Massive IoT With 6G Applications Architectures Challenges .txt
+./source/txt_6G/450743298_A fairness‐aware distributed dual‐hop heterogeneous half and full‐duplex link scheduling for 6G netw.txt
+./source/txt_6G/96324773_Survey of Millimeter-Wave Propagation Measurements and Models in Indoor Environments.txt
+./source/txt_6G/385993961_Optimization Method of Art Design Resource Scheduling for 6G Network Environment in Colleges and Uni.txt
+./source/txt_6G/169987468_Explainable Artificial Intelligence for 6G Improving Trust between Human and Machine.txt
+./source/txt_6G/318099138_Bit Error Performance of APD and SPAD Receivers in Optical Wireless Communication.txt
+./source/txt_6G/302370504_Experimental Realization of Sub-THz Circularly Polarized Antenna Based on Metasurface Superstrate at.txt
+./source/txt_6G/441831182_Assessing Wireless Sensing Potential With Large Intelligent Surfaces.txt
+./source/txt_6G/70897660_Cooperative 3D Beamforming for Small-Cell and Cell-Free 6G Systems.txt
+./source/txt_6G/172085389_Wideband vector network analyzer.txt
+./source/txt_6G/134336658_Cost optimization of distributed data centers via computing workload distribution for next generatio.txt
+./source/txt_6G/90296535_Post Quantum Secure Ring Signatures for Security and Privacy in the Cybertwin-driven 6G.txt
+./source/txt_6G/185979291_Error Comparison Based Patching ECP for Medium Access Control of Cell-free Massive MIMO Networks in .txt
+./source/txt_6G/457822801_An Overview of Key Technologies and Challenges of 6G.txt
+./source/txt_6G/156881803_A Survey on Machine Learning-based Medium access control technology for 6G requirements.txt
+./source/txt_6G/22402088_Micro-Safe Microservices- and Deep Learning-Based Safety-as-a-Service Architecture for 6G-Enabled In.txt
+./source/txt_6G/400413822_Propagation Measurements and Path Loss Models for sub-THz in Urban Microcells.txt
+./source/txt_6G/248370476_Exploring the road to 6G ABC  foundation for intelligent mobile networks.txt
+./source/txt_6G/259642697_Survey on Intelligence Edge Computing in 6G Characteristics Challenges Potential Use Cases and Marke.txt
+./source/txt_6G/118871911_Blockchain-Empowered Framework for Decentralized Network Management in 6G.txt
+./source/txt_6G/471456058_Delay Characterization of Mobile Edge Computing for 6G Time-Sensitive Services.txt
+./source/txt_6G/243915179_Guest EditorialIntroduction to the Special Section on Vehicular Networks in the Era of 6G End-Edge-C.txt
+./source/txt_6G/461756877_Editorial Index Modulation for 6G Communications.txt
+./source/txt_6G/107862608_Energy-Efficient RIS-Assisted Satellites for IoT Networks.txt
+./source/txt_6G/391764662_A Novel 3D Space-Time-Frequency Non-Stationary Channel Model for 6G THz Indoor Communication Systems.txt
+./source/txt_6G/41278160_Integrated TerrestrialNon-Terrestrial 6G Networks for Ubiquitous 3D Super-Connectivity.txt
+./source/txt_6G/319676175_Trends in 6G Wireless Molecular Communications A Succinct Study.txt
+./source/txt_6G/457563946_Enabling Massive IoT Toward 6G A Comprehensive Survey.txt
+./source/txt_6G/433971111_Point-to-Point Communication in Integrated Satellite-Aerial 6G Networks State-of-the-Art and Future .txt
+./source/txt_6G/427941872_Model-driven Multi-objective Optimization Approach to 6G Network Planning.txt
+./source/txt_6G/487186539_A DNN-based estimate of the PRACH traffic load for massive IoT scenarios in 5G networks and beyond.txt
+./source/txt_6G/354803978_Unfolded Deep Neural Network UDNN for High Mobility Channel Estimation.txt
+./source/txt_6G/402776358_Guest Editorial Ultra-Low-Latency and Reliable Communications for 6G Networks.txt
+./source/txt_6G/423223612_A Survey on Deep Learning for Ultra-Reliable and Low-Latency Communications Challenges on 6G Wireles.txt
+./source/txt_6G/386785822_Towards 6G Networks Use Cases and Technologies.txt
+./source/txt_6G/416146646_Adaptive Artificial Intelligence for Resource-constrained Connected Vehicles in Cybertwin-driven 6G .txt
+./source/txt_6G/329114878_Antenna-on-Display and Antenna-in-Package Technologies for Beyond 5G Cellular Handsets State of the .txt
+./source/txt_6G/146924820_6G Enabled Tactile Internet and Cognitive Internet of Healthcare Everything Towards a Theoretical Fr.txt
+./source/txt_6G/264627486_Giant low-field tunability of THz transmission in patterned magnetic split-ring metastructures.txt
+./source/txt_6G/303162761_Blockchain based integrated security measure for reliable service delegation in 6G communication env.txt
+./source/txt_6G/322299350_A Review of Vision and Challenges of 6G Technology.txt
+./source/txt_6G/303425410_Combined time bound optimization of control communication and data processing for FSO‐based 6G UAV a.txt
+./source/txt_6G/84797373_Coded Intelligent Surface Design for Generalized Beamspace Modulation in Massive MIMO Communications.txt
+./source/txt_6G/386263002_Optimal Resource Allocation for Statistical QoS Provisioning in Supporting mURLLC Over FBC-Driven 6G.txt
+./source/txt_6G/414050475_AI and 6G Security Opportunities and Challenges.txt
+./source/txt_6G/119138546_Hybrid Satellite-UAV-Terrestrial Networks for 6G Ubiquitous Coverage A Maritime Communications Persp.txt
+./source/txt_6G/95283482_6G Vision An Ultra-Flexible Perspective.txt
+./source/txt_6G/456255868_A 3D Non-Stationary Channel Model for 6G Wireless Systems Employing Intelligent Reflecting Surface.txt
+./source/txt_6G/326232485_Launching Surface Waves with Classical Antennas.txt
+./source/txt_6G/338815442_Graphene load for harmonic rejection and increasing the bandwidth in Quasi Yagi–Uda array THz antenn.txt
+./source/txt_6G/235006579_Exploring Secure Visible Light Communication in Next-generation 6G Internet-of-Things.txt
+./source/txt_6G/141683451_Non-Coherent and Backscatter Communications Enabling Ultra-Massive Connectivity in the Era Beyond 5G.txt
+./source/txt_6G/217967362_A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks.txt
+./source/txt_6G/473295867_Airborne Urban Microcells with Grasping End Effectors A Game Changer for 6G Networks?.txt
+./source/txt_6G/44952709_Sixth-Gen Wireless Tech with Optical Wireless Communication.txt
+./source/txt_6G/304999736_Feature-Aided Adaptive-Tuning Deep Learning for Massive Device Detection.txt
+./source/txt_6G/126480148_6G Wireless Communications Security Technologies and Research Challenges.txt
+./source/txt_6G/265941006_Propagation Measurement System and Approach at 140 GHz-Moving to 6G and Above 100 GHz.txt
+./source/txt_6G/178123780_The Hilbert Generator a Filter-Free Upconverter for 6G Communications.txt
+./source/txt_6G/390191_Edge Intelligence in 6G Systems.txt
+./source/txt_6G/240514242_SpiderNet Spectrally Efficient and Energy Efficient Data Aided Demand Driven Elastic Architecture fo.txt
+./source/txt_6G/155579738_Deep Echo State Q-Network DEQN and Its Application in Dynamic Spectrum Sharing for 5G and Beyond.txt
+./source/txt_6G/200668535_Millimeter Wave and Sub-Terahertz Spatial Statistical Channel Model for an Indoor Office Building.txt
+./source/txt_6G/87422503_Climate Change Sensing through Terahertz Communications A Disruptive Application of 6G Networks.txt
+./source/txt_6G/347470240_Frequency-Hopping MIMO Radar-Based Communications An Overview.txt
+./source/txt_6G/381811175_Evolving Intelligent Reflector Surface Toward 6G for Public Health Application in Airborne Virus Det.txt
+./source/txt_6G/465959400_Hybrid Satellite-UAV-Terrestrial Networks for 6G Ubiquitous Coverage A Maritime Communications Persp.txt
+./source/txt_6G/410909203_Dynamic Metasurface Antennas for 6G Extreme Massive MIMO Communications.txt
+./source/txt_6G/258865988_6G Use Cases Requirements and Metrics.txt
+./source/txt_6G/374471949_Offloading Decision for Mobile Multi-Access Edge Computing in a Multi-Tiered 6G Network.txt
+./source/txt_6G/171835006_Wireless Communications Through Reconfigurable Intelligent Surfaces.txt
+./source/txt_6G/43646713_A Speculative Study on 6G.txt
+./source/txt_6G/115474505_The WEAF Mnecosystem water earth air fire micronano ecosystem a perspective of micronanotechnologies.txt
+./source/txt_6G/156369058_Information-Theoretic Limits of Integrated Sensing and Communication with Correlated Sensing and Cha.txt
+./source/txt_6G/93192485_Ten Trends in the Cellular Industry and an Outlook on 6G.txt
+./source/txt_6G/123601262_6G Vision An AI-Driven Decentralized Network and Service Architecture.txt
+./source/txt_6G/479068584_Wireless Communications with Programmable Metasurface New Paradigms Opportunities and Challenges on .txt
+./source/txt_6G/395182579_Block-RAS A P2P Resource Allocation Scheme in 6G Environment with Public Blockchains.txt
+./source/txt_6G/162923004_On-Demand MEC Empowered UAV Deployment for 6G Time-Sensitive Maritime Internet of Things.txt
+./source/txt_6G/177603128_Handbook of Industrial Diamonds Diamond Films and Carbon Coatings.txt
+./source/txt_6G/197001788_Split Computing Dynamic Partitioning and Reliable Communications in IoT-Edge for 6G Vision.txt
+./source/txt_6G/319161017_Edge Intelligence for Autonomous Driving in 6G Wireless System Design Challenges and Solutions.txt
+./source/txt_6G/233177862_Joint Design of Communication and Sensing for Beyond 5G and 6G Systems.txt
+./source/txt_6G/25822701_Intelligent Radio Access Network Slicing for Service Provisioning in 6G A Hierarchical Deep Reinforc.txt
+./source/txt_6G/128583235_Challenges and Technologies for 6G.txt
+./source/txt_6G/419039105_Pervasive Intelligent Endogenous 6G Wireless Systems Prospects Theories and Key Technologies.txt
+./source/txt_6G/136972364_Wideband Beam Tracking in THz Massive MIMO Systems.txt
+./source/txt_6G/410126423_Expedited Neighbor Discovery in Directional Terahertz Communication Networks Enhanced by Antenna Sid.txt
+./source/txt_6G/258869349_Technology-driven 5G enabled e-healthcare system during COVID-19 pandemic.txt
+./source/txt_6G/398592177_The Role of Millimeter-Wave Technologies in 5G6G Wireless Communications.txt
+./source/txt_6G/62261748_Federated Learning for 6G Communications Challenges Methods and Future Directions.txt
+./source/txt_6G/192809527_The Framework of 6G Self-Evolving Networks and the Decision-Making Scheme for Massive IoT.txt
+./source/txt_6G/320211709_Metamatrial-based Antipodal Vivaldi Wearable UWB Antenna for IoT and 5G Applications.txt
+./source/txt_6G/247073941_High Refractive Index Metasurface for Terahertz Flat Optics.txt
+./source/txt_6G/121507057_Spectrum Efficient Waveform Design for the 59G and 6G Mobile Communication System.txt
+./source/txt_6G/467799892_The shift to 6G communications vision and requirements.txt
+./source/txt_6G/121245554_AIRIS Artificial intelligence enhanced signal processing in reconfigurable intelligent surface commu.txt
+./source/txt_6G/135180_Constructions of Binary Signature Sets With Optimal Odd Total Squared Correlation and Their Applicat.txt
+./source/txt_6G/270667824_Energy Self-Sustainability in Full-Spectrum 6G.txt
+./source/txt_6G/458363096_Security and Reliability Performance Analysis for URLLC With Randomly Distributed Eavesdroppers.txt
+./source/txt_6G/127799529_6G Is Coming  Discussion on Key Candidate Technologies and Application Scenarios.txt
+./source/txt_6G/16388593_A proactive selection method for dynamic access points grouping in user-centric UDN.txt
+./source/txt_6G/104731136_Intelligent Reflecting Surface-assisted Free-space Optical Communications.txt
+./source/txt_6G/50205383_A Novel Non-Stationary 6G UAV Channel Model for Maritime Communications.txt
+./source/txt_6G/495325989_Tensor-computing-based Spectrum Usage Framework for 6G.txt
+./source/txt_6G/489034605_Multiple Target Detection For OFDM Radar Based On Convolutional Neural Network.txt
+./source/txt_6G/68031436_Massive MIMO Systems for 5G and Beyond Networks-Overview Recent Trends Challenges and Future Researc.txt
+./source/txt_6G/496112896_An approximate-computing empowered green 6G downlink.txt
+./source/txt_6G/350623034_Operational Control in the Information Technology System Postulates de lege ferenda.txt
+./source/txt_6G/387847515_Spectrum Sharing for 5G6G uRLLC Research Frontiers and Standards.txt
+./source/txt_6G/452859296_Traffic Engineering Based on Reinforcement Learning for Service Function Chaining With Delay Guarant.txt
+./source/txt_6G/390993448_Study of Generation and Detection of Continuous Terahertz Wave Using Chaotic Multi-mode Semiconducto.txt
+./source/txt_6G/175511493_Potential key technologies for 6G mobile communications.txt
+./source/txt_6G/94509427_Evolution of Non-Terrestrial Networks From 5G to 6G A Survey.txt
+./source/txt_6G/422189517_A Novel 3D Non-Stationary GBSM for 6G THz Ultra-Massive MIMO Wireless Systems.txt
+./source/txt_6G/464657058_Study on Air Interface Variants and their Harmonization for Beyond 5G Systems.txt
+./source/txt_6G/371334170_A Vision of 6G Wireless Systems Applications Trends Technologies and Open Research Problems.txt
+./source/txt_6G/63315405_On Combinatorial Models of Generations of Wireless Communication Systems.txt
+./source/txt_6G/298196432_RIS-assisted UAV Networks Deployment Optimization with Reinforcement-Learning-Based Federated Learni.txt
+./source/txt_6G/417472062_Blockchain‐assisted secure UAV communication in 6G environment Architecture opportunities and challe.txt
+./source/txt_6G/28188505_A Promising Technology for 6G Wireless Networks Intelligent Refl ecting Surface.txt
+./source/txt_6G/23469976_Reliability and Availability Modeling Techniques in 6G IoT Networks A Taxonomy and Survey.txt
+./source/txt_6G/396500920_Entanglement Rate Optimization in Heterogeneous Quantum Communication Networks.txt
+./source/txt_6G/418521329_Bridging the Gap Between Academia and Industry MOST 6G Research Program in Taiwan.txt
+./source/txt_6G/382083377_URLLC Key Technologies and Standardization for 6G Power Internet of Things.txt
+./source/txt_6G/444735917_How 6G has an Influence on Smart Cities An Overview.txt
+./source/txt_6G/324936216_TECHNOLOGY ADVANCEMENT IN WIRELESS COMMUNICATION USING 6G.txt
+./source/txt_6G/87171718_Distortion minimization for multimedia transmission in NOMA HAP-UAV integrated aerial access network.txt
+./source/txt_6G/224797384_Fast EVM Tuning of MIMO Wireless Systems Using Collaborative Parallel Testing and Implicit Reward Dr.txt
+./source/txt_6G/164766655_Unsupervised Machine Learning in 6G Networks -State-of-the-art and Future Trends.txt
+./source/txt_6G/427959331_A Review of Enabling Physical-Layer Technologies for Terahertz Communications.txt
+./source/txt_6G/305538207_Managing the Unmanageable How to Control Open and Distributed 6G Networks.txt
+./source/txt_6G/146154718_Bayesian Network Based Reliability Prediction in Mobile Wireless Networks.txt
+./source/txt_6G/131737083_Intelligent Ranking for Dynamic Restoration in Next Generation Wireless Networks.txt
+./source/txt_6G/183379636_Filter Distortions in Ultra High-Throughput Satellites Models Parameters and Multicarrier Optimizati.txt
+./source/txt_6G/33171472_Beyond 5G Big Data Processing for Better Spectrum Utilization.txt
+./source/txt_6G/53880948_Joint 3D-Location Planning and Resource Allocation for XAPS-Enabled C-NOMA in 6G Heterogeneous Inter.txt
+./source/txt_6G/266479906_Reconfigurable Intelligent Surfaces Potentials Applications and Challenges for 6G Wireless Networks.txt
+./source/txt_6G/356133206_Metasurface-Coated Devices A New Paradigm for Energy-Efficient and Secure 6G Communications.txt
+./source/txt_6G/4073821_Trust Security and Privacy through Remote Attestation in 5G and 6G Systems.txt
+./source/txt_6G/230566251_Enhancing thermal conductivity of the insulating layer of high-frequency copper clad laminates via i.txt
+./source/txt_6G/310258084_Requirement Analysis and Clustering Study for Possible Service Types in 6G Communications.txt
+./source/txt_6G/221915664_Defining 6G Challenges and Opportunities [From the Guest Editors].txt
+./source/txt_6G/288762629_Wireless Communications and Applications Above 100 GHz Opportunities and Challenges for 6G and Beyon.txt
+./source/txt_6G/132524883_Joint Resource and Power Allocation for URLLC-eMBB Traffics Multiplexing in 6G Wireless Networks.txt
+./source/txt_6G/363473778_Learning-Driven Wireless Communications towards 6G.txt
+./source/txt_6G/126495738_6G Cellular Networks and Connected Autonomous Vehicles.txt
+./source/txt_6G/478817522_6G Connecting Everything by 1000 Times Price Reduction.txt
+./source/txt_6G/106573061_Intelligent Reflecting Surface Aided Wireless Energy Transfer and Mobile Edge Computing for Public T.txt
+./source/txt_6G/366882137_Broadband Terahertz Absorption and Shielding based on 2D materials.txt
+./source/txt_6G/212741566_6G White Paper on Edge Intelligence.txt
+./source/txt_6G/418000560_Redefining Wireless Communication for 6GSignal Processing Meets Deep Learning with Deep Unfolding.txt
+./source/txt_6G/185216881_Signature and flow statistics based anomaly detection system in software-defined networking for 6G i.txt
+./source/txt_6G/357445495_Blockchain Technology for 6G Communication Networks.txt
+./source/txt_6G/423243782_Coordinated Precoding Based on Distributed CSI for Multi-station and Multi-satellite MIMO Uplink Sys.txt
+./source/txt_6G/245248202_BTMPP Balancing Trust Management and Privacy Preservation for Emergency Message Dissemination in Veh.txt
+./source/txt_6G/95826241_Repeatedly Energy-Efficient and Fair Service Coverage UAV Slicing Proactive UAV Network Slicing for .txt
+./source/txt_6G/449196415_Millimeter-wave and Terahertz Spectrum for 6G Wireless.txt
+./source/txt_6G/444740025_Silicon Photonic Micro-Transceivers for Beyond 5G Environments.txt
+./source/txt_6G/407515623_Improving Physical Layer Security for Reconfigurable Intelligent Surface aided NOMA 6G Networks.txt
+./source/txt_6G/102904350_Full-Duplex meets Reconfigurable Surfaces RIS-assisted SIC for Full-Duplex Radios.txt
+./source/txt_6G/18231886_Aerial Base Stations Deployment in 6G Cellular Networks using Tethered Drones The Mobility and Endur.txt
+./source/txt_6G/32649918_Metasurface-Coated Devices A New Paradigm for Energy-Efficient and Secure 6G Communications.txt
+./source/txt_6G/163722146_Next-generation Wireless Solutions for the Smart Factory Smart Vehicles the Smart Grid and Smart Cit.txt
+./source/txt_6G/402797557_A Digital Twin Approach for Self-optimization of Mobile Networks.txt
+./source/txt_6G/10892311_Artificial Intelligence at the Edge.txt
+./source/txt_6G/110769210_Post-quantum Cryptography in 6G.txt
+./source/txt_6G/463090875_6G Internet of Things A Comprehensive Survey.txt
+./source/txt_6G/52835520_Internet of Things IoT Connectivity in 6G An Interplay of Time Space Intelligence and Value.txt
+./source/txt_6G/404895026_Latest Advances in Spectrum Management for 6G Communications.txt
+./source/txt_6G/167392708_White Paper on Broadband Connectivity in 6G.txt
+./source/txt_6G/396768951_6G Wireless Channel Measurements and Models Trends and Challenges.txt
+./source/txt_6G/9058143_A Tutorial of Ultra-Reliable and Low-Latency Communications in 6G Integrating Theoretical Knowledge .txt
+./source/txt_6G/360593268_Computing Research Challenges in Next Generation Wireless Networking.txt
+./source/txt_6G/309999490_Resource allocation of simultaneous wireless information and power transmission of multi-beam solar .txt
+./source/txt_6G/670007_Realization of an 110GHz Antenna Array Module by Using AiP Technologies for Potential 6G Application.txt
+./source/txt_6G/318388646_On the Queuing Delay of Time-Varying Channels in Low Earth Orbit Satellite Constellations.txt
+./source/txt_6G/342768086_6G architecture to connect the worlds.txt
+./source/txt_6G/169490954_RIS-Assisted Spatial Modulation and Space Shift Keying for Ambient Backscattering Communications.txt
+./source/txt_6G/158743450_Edge-Native Intelligence for 6G Communications Driven by Federated Learning A Survey of Trends and C.txt
+./source/txt_6G/92158901_Satellite Communications System toward 6G Era.txt
+./source/txt_6G/64371759_On Joint Offloading and Resource Allocation A Double Deep Q-Network Approach.txt
+./source/txt_6G/218512500_Keynote Talk 2 6G Wireless Wireless Networks Empowered by Reconfigurable Intelligent Surfaces.txt
+./source/txt_6G/116800768_Envisioning 6G Molecular Communication for IoBNT Diagnostic Systems.txt
+./source/txt_6G/57556579_On Analyzing Beamforming Implementation in O-RAN 5G.txt
+./source/txt_6G/3030706_The Roadmap to 6G -- AI Empowered Wireless Networks.txt
+./source/txt_6G/189939410_Patients’ Health Surveillance Model Using IoT and 6G Technology.txt
+./source/txt_6G/31866606_Cooperative Multiterminal Radar and Communication A New Paradigm for 6G Mobile Networks.txt
+./source/txt_6G/409354060_Air Interface Challenges and Solutions for future 6G Networks.txt
+./source/txt_6G/320487260_P-persistent massive random access mechanism for machine type communication.txt
+./source/txt_6G/215629999_6G from Densification to Diversification.txt
+./source/txt_6G/405160193_Vision-Aided Dynamic Blockage Prediction for 6G Wireless Communication Networks.txt
+./source/txt_6G/64897328_An Integrated Deep Learning Algorithm for Detecting Lung Nodules with Low-dose CT and Its Applicatio.txt
+./source/txt_6G/111297159_Active RIS vs Passive RIS Which Will Prevail in 6G?.txt
+./source/txt_6G/499270431_Compact Stacked Impedance-Sheet Resonator Antenna using Characteristic Mode Analysis for 5G and 6G N.txt
+./source/txt_6G/348013443_Using Massive MIMO Arrays for Joint Communication and Sensing.txt
+./source/txt_6G/65160146_Propagation Modeling and Analysis of Reconfigurable Intelligent Surfaces for Indoor and Outdoor Appl.txt
+./source/txt_6G/168183242_On The Selection of Power Allocation Strategy in Power Domain Non‐Orthogonal Multiple Access PD‐NOMA.txt
+./source/txt_6G/270681696_Towards Organic 6G Networks Virtualization and Live Migration of Core Network Functions.txt
+./source/txt_6G/98453310_Private Cloud in 6G Networks A Study from the Total Cost of Ownership Perspective.txt
+./source/txt_6G/2246662_Intelligent Reflecting Surface Assisted Wireless Information and Power Transfer With X-Duplex for 6G.txt
+./source/txt_6G/43665453_5G Evolution and 6G.txt
+./source/txt_6G/383404096_Reconfigurable Intelligent Surface Empowered Over-the-Air Federated Edge Learning.txt
+./source/txt_6G/414075025_On recommendation-aware content caching for 6G An artificial intelligence and optimization empowered.txt
+./source/txt_6G/33442128_IADE An Improved Differential Evolution Algorithm to Preserve Sustainability in a 6G Network.txt
+./source/txt_6G/447891864_Freshness-Aware Age Optimization for Multipath TCP Over Software Defined Networks.txt
+./source/txt_6G/85871185_6G Wireless Communications Future Technologies and Research Challenges.txt
+./source/txt_6G/253381301_A multi-timescale resource allocation algorithm based on self-learning for distributed fog radio acc.txt
+./source/txt_6G/206457549_Envisioning Edge Computing in Future 6G Wireless Networks.txt
+./source/txt_6G/388385603_Deep Learning Techniques for Advancing 6G Communications in the Physical Layer.txt
+./source/txt_6G/445795621_Workload Characterization and Traffic Analysis for Reconfigurable Intelligent Surfaces within 6G Wir.txt
+./source/txt_6G/395726188_Research on power control algorithm for 6G oriented D2D communication.txt
+./source/txt_6G/119164429_Ultra-Lightweight Deployable Antenna Membrane Technology for Future Non-terrestrial 6G Network and E.txt
+./source/txt_6G/412241582_Technology Antecedents of the Platform-Based Ecosystemic Business Models beyond 5G.txt
+./source/txt_6G/336482078_Guest editorial 6G mobile networks Emerging technologies and applications.txt
+./source/txt_6G/447369057_Secrecy Performance Analysis in Internet of Satellites Physical Layer Security Perspective.txt
+./source/txt_6G/267538310_Towards intelligent reflecting surface empowered 6G terahertz communications A survey.txt
+./source/txt_6G/382619606_Antenna in 6G wireless communication system Specifications challenges and research directions.txt
+./source/txt_6G/211439827_Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks Model-Free .txt
+./source/txt_6G/289034478_DDI A Novel Architecture for Joint Active user Detection and IoT Device Identification in Grant-Free.txt
+./source/txt_6G/234508760_Conceptual framework for quality assessment in human-centric 6G XR services.txt
+./source/txt_6G/229528059_Evolution Toward Artificial Intelligence of Things Under 6G Ubiquitous⁃X.txt
+./source/txt_6G/61756089_Spectrum Sharing for 6G Integrated Satellite-Terrestrial Communication Networks Based on NOMA and Co.txt
+./source/txt_6G/249975591_Two–Way Communications via Reconfigurable Intelligent Surface.txt
+./source/txt_6G/338580430_Complex Permittivity Evaluation of Building Materials at 200-500 GHz Using THz-TDS.txt
+./source/txt_6G/156914941_Empowering the Edge Intelligence by Air-Ground Integrated Federated Learning in 6G Networks.txt
+./source/txt_6G/40785231_Visible Light Communication VLC for 6G Technology The Potency and Research Challenges.txt
+./source/txt_6G/313152890_Energy Efficient Composable Data Centres.txt
+./source/txt_6G/149837203_Channel Estimation for 6G V2X HybridSystems using Multi-Vehicular Learning.txt
+./source/txt_6G/79320591_Drone of IoT in 6G Wireless Communications Technology Challenges and Future Aspects.txt
+./source/txt_6G/369251999_Electromagnetic Radiation Reduction in 5G Networks and Beyond using Thermal Radiation Mode.txt
+./source/txt_6G/392320878_Resource Allocation in 6G Optical Wireless Systems.txt
+./source/txt_6G/337795000_Ultra-Low Latency Low Energy and Massiveness in the 6G Era via Efficient CSIT-Limited Scheme.txt
+./source/txt_6G/172906577_Joint Multi-User Communication and Sensing Exploiting Both Signal and Environment Sparsity.txt
+./source/txt_6G/256269028_Cognitive Service Architecture for 6G Core Network.txt
+./source/txt_6G/66476791_5G and 6G Broadband Cellular Network Technologies as Enablers of New Avenues for Behavioral Influenc.txt
+./source/txt_6G/461790074_End-to-End Delay Bound for VR Services in 6G Terahertz Networks with Heterogeneous Traffic and Diffe.txt
+./source/txt_6G/173431744_Edge Intelligence for Autonomous Driving in 6G Wireless System Design Challenges and Solutions.txt
+./source/txt_6G/319970302_On the Application of K-User MIMO for 6G Enhanced Mobile Broadband.txt
+./source/txt_6G/312630459_A Blockchain Enhanced Dynamic Spectrum Sharing Model Based on Proof-of-Strategy.txt
+./source/txt_6G/310533350_Nano-Antenna Modelling Based on Plasmonic Charge Distribution for THz-based 6G Applications.txt
+./source/txt_6G/67263862_Reconfigurable Intelligent Surface for 6G and Beyond Motivations Principles Applications and Researc.txt
+./source/txt_6G/311058007_Pervasive intelligent multi-node health monitoring system for monitoring basketball players health a.txt
+./source/txt_6G/479354481_Digital Twin for Metasurface Reflector Management in 6G Terahertz Communications.txt
+./source/txt_6G/349331071_Optimal selection based K-mean clustering technique to improve the energy efficiency in cognitive ra.txt
+./source/txt_6G/173432470_Quantum security and 6G critical infrastructure.txt
+./source/txt_6G/169762510_UAVs as an Intelligent Service Boosting Edge Intelligence for Air-Ground Integrated Networks.txt
+./source/txt_6G/358768515_Performance of iterative Successive interference cancellation receiver for LDPC coded OTFS.txt
+./source/txt_6G/203579433_Security and privacy for 6G A survey on prospective technologies and challenges.txt
+./source/txt_6G/163733564_Vortex Beam Optimization Design of Concentric Uniform Circular Array Antenna with Improved Array Fac.txt
+./source/txt_6G/67264885_Towards Cooperative Data Rate Prediction for Future Mobile and Vehicular 6G Networks.txt
+./source/txt_6G/297689564_Ultra-Mini Slot Transmission for 5G and 6G URLLC Network.txt
+./source/txt_6G/248406584_CCOS A Coded Computation Offloading Strategy for Satellite-Terrestrial Integrated Networks.txt
+./source/txt_6G/389702485_Ceramics with Low Permittivity and Ultra Low Dielectric Loss for 6G Mobile Communication.txt
+./source/txt_6G/177890196_Low-Loss Additively-Deposited Ultra-Short Copper-Paste Interconnections in 3D Antenna-Integrated Pac.txt
+./source/txt_6G/492200875_Orthogonal Time-Frequency Space Modulation A Full-Diversity Next Generation Waveform.txt
+./source/txt_6G/75916365_Big data analytics for 6G enabled massive Internet of Things.txt
+./source/txt_6G/413820200_A Survey Beyond 5G Toward 6GNetwork Security Issues Thrust Areas and Challenges.txt
+./source/txt_6G/6972749_Intelligent Maritime Networking with Edge Services and Computing Capability.txt
+./source/txt_6G/335439183_On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network.txt
+./source/txt_6G/50488763_Radiation Pattern Prediction for Metasurfaces A Neural Network-Based Approach.txt
+./source/txt_6G/177366636_Optical Access Network Evolution for Future Super-Broadband Services and 6G Mobile Networks.txt
+./source/txt_6G/247097134_A Survey on Rural Internet Connectivity in India.txt
+./source/txt_6G/303458105_THz Photo-Polymeric Lens Antennas for Potential 6G Beamsteering Frontend.txt
+./source/txt_6G/466511704_The WEAF Mnecosystem - A Vision of MicroNanotechnologies to Empower the 6G and Super-IoT Future Para.txt
+./source/txt_6G/337536914_When Wireless Communications Meet Computer Vision in Beyond 5G.txt
+./source/txt_6G/106850206_6G Oriented Wireless Communication Channel Characteristics Analysis and Modeling.txt
+./source/txt_6G/47868000_Big Bigger Biggest What should we expect from 6G antennas?.txt
+./source/txt_6G/57043055_Present and Future of Reconfigurable Intelligent Surface-Empowered Communications [Perspectives].txt
+./source/txt_6G/151939267_Collaborative Signal Multiple Access A Robust Alternative to NOMA Using SIC.txt
+./source/txt_6G/62548436_Vision Requirements and Challenges of Sixth Generation 6G Networks.txt
+./source/txt_6G/288254426_Low-latency Federated Learning and Blockchain for Edge Association in Digital Twin empowered 6G Netw.txt
+./source/txt_6G/363752504_The Roadmap to 6G AI Empowered Wireless Networks.txt
+./source/txt_6G/479358020_Polarization-independent Reflectionless Metasurface with an Extremely High Refractive Index.txt
+./source/txt_6G/3828846_Cell-Free Satellite-UAV Networks for 6G Wide-Area Internet of Things.txt
+./source/txt_6G/160066907_Effective power allocation and distribution for 6 g – network in a box enabled peer to peer wireless.txt
+./source/txt_6G/226651520_Digitalization along with 5G and 6G Networks – Determinants and Consequences.txt
+./source/txt_6G/322596378_Energy Self-Sustainability in Full-Spectrum 6G.txt
+./source/txt_6G/20344429_Repeatedly Energy-Efficient and Fair Service Coverage UAV Slicing.txt
+./source/txt_6G/356151113_Comparison of 4G and 5G Cellular Network Architecture and Proposing of 6G a new era of AI.txt
+./source/txt_6G/387608718_Frequency Reconfigurable Liquid Metal Magneto-electric Dipole Antenna.txt
+./source/txt_6G/323645583_Neurosciences and 6G Lessons from and Needs of Communicative Brains.txt
+./source/txt_6G/231895424_Africa’s “Star Pupil” of Neo-Liberal Economic  Political Practices An Assessment of Ghana’s Election.txt
+./source/txt_6G/177369513_Reconfigurable Intelligent Surface-Assisted Space Shift Keying.txt
+./source/txt_6G/319713806_Energy-Efficient Resource Allocation for 6G Backscatter-Enabled NOMA IoV Networks.txt
+./source/txt_6G/178156518_Multi-Objective Modified Grey Wolf Optimization Algorithm for Efficient Spectrum Sensing in the Cogn.txt
+./source/txt_6G/99513830_Winning the 5G Race with China A US-Japan Strategy to Trip the Competition Run Faster and Put the Fi.txt
+./source/txt_6G/441087781_Six Critical Challenges for 6G Wireless Systems.txt
+./source/txt_6G/491157294_A Feasibility Study for Potential of Graphene and Carbon Nanotubes Patch Antenna in Terahertz.txt
+./source/txt_6G/355628868_Flexible Physical Layer based Resource Allocation for Machine Type Communications Towards 6G.txt
+./source/txt_6G/200439762_Cell Zooming for Green Mobile Networks with Vehicle-Mounted Radio Units.txt
+./source/txt_6G/148010986_A Non-Stationary 3D Model for 6G Massive MIMO mmWave UAV Channels.txt
+./source/txt_6G/94533873_White Paper on Critical and Massive Machine Type Communication Towards 6G.txt
+./source/txt_6G/92436806_A Personalized Search Query Generating Method for Safety-enhanced Vehicle-to-People Networks.txt
+./source/txt_6G/132020766_Big Communications Connect the Unconnected.txt
+./source/txt_6G/53901926_Maritime Robotics and Autonomous Systems Operations Exploring Pathways for Overcoming International .txt
+./source/txt_6G/270957372_6G Technologies - Opportunities and Challenges.txt
+./source/txt_6G/194935828_Complex Systems A Communication Networks Perspective Towards 6G.txt
+./source/txt_6G/35028036_Reconfigurable Slotted Antenna Inspired by Multidimensional Modulation.txt
+./source/txt_6G/274627730_LiFi Through Reconfigurable Intelligent Surfaces A New Frontier for 6G?.txt
+./source/txt_6G/333348031_A Structured Bidirectional LSTM Deep Learning Method For 3D Terahertz Indoor Localization.txt
+./source/txt_6G/131497437_Vision of IoUT advances and future trends in optical wireless communication.txt
+./source/txt_6G/387874278_A Comprehensive Survey of 6G Wireless Communications.txt
+./source/txt_6G/431914564_Fast Radix-32 Approximate DFTs for 1024-Beam Digital RF Beamforming.txt
+./source/txt_6G/64650921_The WEAF Mnecosystem a perspective of MEMSNEMS technologies as pillars of future 6G tactile internet.txt
+./source/txt_6G/212500151_A General 3D Non-Stationary Massive MIMO GBSM for 6G Communication Systems.txt
+./source/txt_6G/273317730_6G and Beyond The Future of Wireless Communications Systems.txt
+./source/txt_6G/172916642_Interfacing Wideband Amplifiers Using Ridge Gap Waveguide for mm-Wave Systems.txt
+./source/txt_6G/199917504_An Efficient Plaintext-Related Chaotic Image Encryption Scheme Based on Compressive Sensing.txt
+./source/txt_6G/338067568_Hybrid Precoding for 6G Terahertz Communications Performance Evaluation and Open Problems.txt
+./source/txt_6G/382108014_Cognitive Profiling of Nodes in 6G through Multiplex Social Network and Evolutionary Collective Dyna.txt
+./source/txt_6G/439255608_Security and privacy in 6G networks New areas and new challenges.txt
+./source/txt_6G/52593289_Non-Orthogonal Waveform NOW for 5G Evolution and 6G.txt
+./source/txt_6G/29000419_A Comprehensive Study of Reconfigurable Intelligent Surfaces in Generalized Fading.txt
+./source/txt_6G/459441079_Learning Based Flexible Cross-layer Optimization for Ultra-reliable and Low Latency Applications in .txt
+./source/txt_6G/21136473_Space-Terrestrial Radio Network Integration for IoT.txt
+./source/txt_6G/106595482_Performance Improvement in 6G Networks Using MC-CDMA and mMIMO.txt
+./source/txt_6G/259163414_Enhancing Security of TASMRC Based Mixed RF-UOWC System with Induced Underwater Turbulence Effect.txt
+./source/txt_6G/493782420_6G-Enabled Network in Box NIB for Industrial Applications and Services.txt
+./source/txt_6G/287999409_Energy-Efficient RIS-assisted Satellites for IoT Networks.txt
+./source/txt_6G/146441672_A Cramér-Rao Lower Bound for Analyzing the Localization Performance of a Multistatic Joint Radar-Com.txt
+./source/txt_6G/184977057_Mobile Edge Computing for Beyond 5G6G.txt
+./source/txt_6G/263620329_Non-Terrestrial Communication in the 6G Era Challenges and Opportunities.txt
+./source/txt_6G/369788675_AI-Based Communication-as-a-Service for Network Management in Society 50.txt
+./source/txt_6G/466257931_Extremely Interactive and Low-Latency Services in 5G and Beyond Mobile Systems.txt
+./source/txt_6G/194152496_Multi-User Auxiliary Signal Superposition Transmission MU-AS-ST for Secure and Low-Complexity Multip.txt
+./source/txt_6G/3049539_Spectrum Sharing for 6G Integrated Satellite-Terrestrial Communication Networks Based on NOMA and CR.txt
+./source/txt_6G/9603267_A Novel High Gain Array Antenna Design for Autonomous Vehicles of 6G Wireless Systems.txt
+./source/txt_6G/19564761_Towards Global and Limitless Connectivity The Role of Private NGSO Satellite Constellations for Futu.txt
+./source/txt_6G/400460146_Swarm Intelligence for Next-Generation Wireless Networks Recent Advances and Applications.txt
+./source/txt_6G/149326470_Towards 6G Joint HAPS-MEC-Cloud 3C Resource Allocation for Delay-Aware Computation Offloading.txt
+./source/txt_6G/52071104_Blockchain and Artificial Intelligence for Dynamic Resource Sharing in 6G and Beyond.txt
+./source/txt_6G/295865433_Convolutional-neural-network-based detection algorithm for uplink multiuser massive MIMO systems.txt
+./source/txt_6G/496405707_Airplane-Aided Integrated Networking for 6G Wireless Will It Work?.txt
+./source/txt_6G/219057383_Hexa-X The European 6G flagship project.txt
+./source/txt_6G/83529154_Near-field Wireless Power Transfer for 6G Internet-of-Everything Mobile Networks Opportunities and C.txt
+./source/txt_6G/32935379_Help from space grant-free massive access for satellite-based IoT in the 6G era.txt
+./source/txt_6G/96374256_XiA Send-it-Anyway Q-Routing for 6G-Enabled UAV-LEO Communications.txt
+./source/txt_6G/462851605_6G Multi-source Information Fusion Based Indoor Positioning via Gaussian Kernel Density Estimation.txt
+./source/txt_6G/494309014_Delay Characterization of Mobile-Edge Computing for 6G Time-Sensitive Services.txt
+./source/txt_6G/35032856_5G Mobile Technologies and Early 6G Viewpoints.txt
+./source/txt_6G/367432132_An Analysis on Rate-Splitting Multiple Access for IRS Aided 6G Communication.txt
+./source/txt_6G/59412939_Towards 6G with Connected Sky UAVs and Beyond.txt
+./source/txt_6G/103453210_Fundamentals of Smart Cities.txt
+./source/txt_6G/472552042_Backscatter-Enabled NOMA for Future 6G Systems A New Optimization Framework under Imperfect SIC.txt
+./source/txt_6G/11703173_A VLC-based Footprinting Localization Algorithm for Internet of Underwater Things in 6G networks.txt
+./source/txt_6G/260477943_Integrated Solutions for Deployment of 6G Mobile Networks.txt
+./source/txt_6G/27956641_Privacy Protection Data Retrieval Scheme with Inverted Index for IoT based on Blockchain.txt
+./source/txt_6G/392336815_Simplified Digital Coherent based Beyond 100G Optical Access Systems for B5G6G.txt
+./source/txt_6G/340432392_Connecting AI Learning and Blockchain Mining in 6G Systems.txt
+./source/txt_6G/156407474_Channel Modeling and Characteristics for 6G Wireless Communications.txt
+./source/txt_6G/297179008_Vehicular intelligence in 6G Networking communications and computing.txt
+./source/txt_6G/482777441_Μελέτη και αξιολόγηση των προτεινόμενων τεχνολογιών στα δίκτυα 5G και μεταγενέστερα 6G.txt
+./source/txt_6G/161389081_Spectrum Challenges for Beyond 5G The case of Mexico.txt
+./source/txt_6G/135961134_Improving THz Coverage for 6G URLLC Services via Exploiting Mobile Computing.txt
+./source/txt_6G/159030000_Uniform tight frames as optimal signals.txt
+./source/txt_6G/408591096_Physical-Layer Security in 6G Networks.txt
+./source/txt_6G/406756213_Massively Distributed Antenna Systems with Non-Ideal Optical Fiber Front-hauls A Promising Technolog.txt
+./source/txt_6G/355638137_Machine Learning Techniques for Wireless-Powered Ambient Backscatter Communications Enabling Intelli.txt
+./source/txt_6G/350657467_How the UK Can Lead in 5G and 6G Security and Standards.txt
+./source/txt_6G/19569646_Channel Estimation for 6G V2X Hybrid Systems Using Multi-Vehicular Learning.txt
+./source/txt_6G/112368632_Green Internet of Vehicles IoV in the 6G Era Toward Sustainable Vehicular Communications and Network.txt
+./source/txt_6G/175807481_Advanced Channel Coding.txt
+./source/txt_6G/155098207_Repeatedly Energy-Efficient and Fair Service Coverage UAV Slicing.txt
+./source/txt_6G/102669646_How Crucial is it for 6G Networks to be Autonomous.txt
+./source/txt_6G/166370675_Reflectionless zero refractive index metasurface in the terahertz waveband.txt
+./source/txt_6G/372678251_Intermodulation Interference Detection in 6G Networks A Machine Learning Approach.txt
+./source/txt_6G/405970648_Position-agnostic Algebraic Estimation of 6G V2X MIMO Channels via Unsupervised Learning.txt
+./source/txt_6G/128098455_Survey on Space-air-ground Integrated Networks in 6G.txt
+./source/txt_6G/440050002_Energy-Efficiency Power Allocation Design for UAV Assisted Spatial NOMA.txt
+./source/txt_6G/191275375_Signal Transmission and Reception in Wireless Smart Cities.txt
+./source/txt_6G/211984863_Joint resource allocation for hybrid NOMA-assisted MEC in 6G networks.txt
+./source/txt_6G/241345023_Communications in the 6G Era.txt
+./source/txt_6G/163750466_Industry 50 A survey on enabling technologies and potential applications.txt
+./source/txt_6G/152216240_Graph-Embedded Multi-Agent Learning for Smart Reconfigurable THz MIMO-NOMA Networks.txt
+./source/txt_6G/179217138_Optical components for transport network enabling the path to 6G.txt
+./source/txt_6G/143303533_Integrated Sensing and Communication in 6G Motivations Use Cases Requirements Challenges and Future .txt
+./source/txt_6G/275424138_Universal optical network architecture for future wireless LANs [Invited].txt
+./source/txt_6G/320251001_Wireless Power Transfer for 6G Network Using Monolithic Components on GaN.txt
+./source/txt_6G/43689170_Towards Environment-Aware 6G Communications via Channel Knowledge Map.txt
+./source/txt_6G/7513336_Emulation Techniques for High Speed Train Measurements in 6G Mobile Communications.txt
+./source/txt_6G/103720869_Blockchain-enabled Resource Management and Sharing for 6G Communications.txt
+./source/txt_6G/104769458_Above-100 GHz Wave Propagation Studies in the European Project Hexa-X for 6G Channel Modelling.txt
+./source/txt_6G/409643342_6G Wireless Systems A Vision Architectural Elements and Future Directions.txt
+./source/txt_6G/57846107_Ideology-Driven Telecommunications Market Leads to a Second-Rate Outcome.txt
+./source/txt_6G/215394886_Technology Trends and Research Direction of 6G Mobile Core Network.txt
+./source/txt_6G/164539026_Η συμβολή των τεχνολογιών 5G στον τομέα των Media  Entertainment.txt
+./source/txt_6G/43690839_6G Wireless Systems Vision Requirements Challenges Insights and Opportunities.txt
+./source/txt_6G/382905317_Multiple Access Techniques.txt
+./source/txt_6G/386051669_Reconfigurable Intelligent Surfaces Potentials Applications and Challenges for 6G Wireless Networks.txt
+./source/txt_6G/146452091_6G Enabled Unmanned Aerial Vehicle Traffic Management A Perspective.txt
+./source/txt_6G/312127166_AdaptSky a DRL based Resource Allocation Framework in NOMA-UAV Networks.txt
+./source/txt_6G/111587135_Towards Cooperative Data Rate Prediction for Future Mobile and Vehicular 6G Networks.txt
+./source/txt_6G/330215258_Deep learning based offloading for mobile augmented reality application in 6G.txt
+./source/txt_6G/347517003_Next Generation Wireless Communication Challenges and Issues.txt
+./source/txt_6G/186036313_Federated learning meets blockchain at 6G edge a drone-assisted networking for disaster response.txt
+./source/txt_6G/85635494_Secure and Reliable Transfer Learning Framework for 6G-enabled Internet of Vehicles.txt
+./source/txt_6G/170570173_The use of data mining technology in agricultural e-commerce under the background of 6G Internet of .txt
+./source/txt_6G/245281325_Power Consumption Analysis for Mobile MmWave and Sub-THz Receivers.txt
+./source/txt_6G/448967562_Explainable Artificial Intelligence XAI for 6G Improving Trust between Human and Machine.txt
+./source/txt_6G/138327128_Interference Cancellation Based Spectrum Sharing for Massive MIMO Communication Systems.txt
+./source/txt_6G/343323772_Exploiting Capture Diversity for Performance Enhancement of ALOHA-Based Multi-Static Backscattering .txt
+./source/txt_6G/60470745_Terahertz Communications Challenges in the Next Decade.txt
+./source/txt_6G/24819532_Towards Understanding the Performance of Traffic Policing in Programmable Hardware Switches.txt
+./source/txt_6G/218281839_Devices Communication Hindrances Toward 6G Network IoT.txt
+./source/txt_6G/218281868_Towards 6G wireless communication networks vision enabling technologies and new paradigm shifts.txt
+./source/txt_6G/135968682_Retro-Reflective Beam Communications with Spatially Separated Laser Resonator.txt
+./source/txt_6G/449492911_Frequency Selective Surface FSS Realization in Terahertz THz Range for 6G Initiative Studies.txt
+./source/txt_6G/415938707_AI-Based Radio Resource Allocation in Support of the Massive Heterogeneity of 6G Networks.txt
+./source/txt_6G/480950781_Mixed-Carrier Communication for Technology Division Multiplexing.txt
+./source/txt_6G/114997782_Trust Networking for Beyond 5G and 6G.txt
+./source/txt_6G/74365466_High-Power 48 THz RTD-Based Oscillator with Tunable Graphene Antenna for 6G Mobile Networks.txt
+./source/txt_6G/477018897_Using artificial intelligence approach to design the product creative on 6G industrial internet of t.txt
+./source/txt_6G/26131387_6G Networks for Next Generation of Digital TV Beyond 2030.txt
+./source/txt_6G/285129893_6G CloudNet Towards a Distributed Autonomous and Federated AI-Enabled Cloud and Edge Computing.txt
+./source/txt_6G/9354426_Terahertz Antennas for Future Communications.txt
+./source/txt_6G/294042924_Outlook for 6G Wireless Technology.txt
+./source/txt_6G/204389711_Key Technologies in 6G SAGS IoT Shape-Adaptive Antenna and Radar-Communication Integration.txt
+./source/txt_6G/397065569_Guest Editorial Reconfigurable Intelligent Surfaces Design and Implementation.txt
+./source/txt_6G/485670265_A Mechanism for Improving the Spectral Efficiency in mu-MIMO for 5G and Beyond Networks.txt
+./source/txt_6G/208584307_5 6G Networks.txt
+./source/txt_6G/159301550_Generating Mimo Channels for 6G Virtual Worlds Using Ray-Tracing Simulations.txt
+./source/txt_6G/205439130_6G Access and Edge Computing – ICDT Deep Convergence.txt
+./source/txt_6G/470991065_What should 6G be.txt
+./source/txt_6G/81445236_Centralized Millimeter-Wave Opto-Electronic Oscillator.txt
+./source/txt_6G/265470636_Federated Learning for 6G Communications Challenges Methods and Future Directions.txt
+./source/txt_6G/401523436_THz Channel Model for 6G Communications.txt
+./source/txt_6G/458408846_Topology Optimization for 6G Networks A Network Information-Theoretic Approach.txt
+./source/txt_6G/354075568_NB-IoT Micro-Operator for Smart Campus Performance and Lessons Learned in 5GTN.txt
+./source/txt_6G/496420343_Quantum Scheduling for Millimeter-Wave Observation Satellite Constellation.txt
+./source/txt_6G/438224560_Toward 6G – Collecting the Research Visions.txt
+./source/txt_6G/14075570_Towards Energy Efficient Mobile Wireless Receivers Above 100 GHz.txt
+./source/txt_6G/351193296_A Bayesian Tensor Approach to Enable RIS for 6G Massive Unsourced Random Access.txt
+./source/txt_6G/403098026_Multi-User Scheduling for 6G V2X Ultra-Massive MIMO System.txt
+./source/txt_6G/367708602_From 5G to 6G Technology Meets Energy Internet-of-Things and Machine Learning A Survey.txt
+./source/txt_6G/84330954_Air-bridged Schottky diodes for dynamically tunable millimeter-wave metamaterial phase shifters.txt
+./source/txt_6G/215140939_A Fine-Grained Access Control and Security Approach for Intelligent Vehicular Transport in 6G Commun.txt
+./source/txt_6G/151702420_Joint Scheduling of Proactive Caching and On-Demand Transmission Traffics over Shared Spectrum.txt
+./source/txt_6G/274386006_Over-the-Air Computing for 6G -- Turning Air into a Computer.txt
+./source/txt_6G/340446354_Vision-Aided 6G Wireless Communications Blockage Prediction and Proactive Handoff.txt
+./source/txt_6G/457100612_Optimal Deployment and Operation of Robotic Aerial 6G Small Cells with Grasping End Effectors.txt
+./source/txt_6G/182898011_Research on 6G mobile communication system.txt
+./source/txt_6G/153014084_6G Massive Radio Access Networks Key Applications Requirements and Challenges.txt
+./source/txt_6G/69652356_6G Network Towards a Distributed and Autonomous System.txt
+./source/txt_6G/176607123_Beyond6G- Consensus Traffic Management in CRN Applications Architecture and key Challenges.txt
+./source/txt_6G/111596090_6G Wireless Systems Challenges and Opportunities.txt
+./source/txt_6G/221172342_Intelligent Task Off-Loading and Resource Allocation for 6G Smart City Environment.txt
+./source/txt_6G/10670712_Modeling for Malicious Traffic Detection in 6G Next Generation Networks.txt
+./source/txt_6G/291164874_An Ultra-Flexible Software Architecture Concept for 6G Core Networks.txt
+./source/txt_6G/72536839_6G and AI The Emergence of Future Forefront Technology.txt
+./source/txt_6G/22991686_Survey on Aerial Radio Access Networks Toward a Comprehensive 6G Access Infrastructure.txt
+./source/txt_6G/96916296_An Efficient Markov Chain Based Channel Model for 6G Enabled Massive Internet of Things.txt
+./source/txt_6G/200463230_Analyzing Vehicle-to-Everything Communication for Intelligent Transportation System Journey from IEE.txt
+./source/txt_6G/80401488_Deep Learning Based Intelligent Inter-Vehicle Distance Control for 6G Enabled Cooperative Autonomous.txt
+./source/txt_6G/280941809_A Smart Semipartitioned Real-Time Scheduling Strategy for Mixed-Criticality Systems in 6G-Based Edge.txt
+./source/txt_6G/418567644_Sub-terahertz THz antenna for Internet of Things and 6G Communication.txt
+./source/txt_6G/309253611_Multicarrier-Division Duplex A Duplexing Technique for Shift to 6G Wireless Communications.txt
+./source/txt_6G/52876797_Millimeter Wave Wireless Hadamard Image Transmission for MIMO Enabled 5G and Beyond.txt
+./source/txt_6G/139646541_DRL-Based Intelligent Resource Allocation for Diverse QoS in 5G and toward 6G Vehicular Networks A C.txt
+./source/txt_6G/404412242_Super-MAC Data Duplication and Combining for Reliability Enhancements in Next-Generation Networks.txt
+./source/txt_6G/399169783_Toward 6G Architecture for Energy-Efficient Communication in IoT-Enabled Smart Automation Systems.txt
+./source/txt_6G/193387182_Technological and Regulatory Developments for Electromagnetic Transmission into the Millimeter Wave .txt
+./source/txt_6G/29809379_Utilizing the eSIM for Public Key Cryptography a Network Security Solution for 6G.txt
+./source/txt_6G/117627696_Editorial Special Topic on Computational Radio Intelligence One Key for 6G Wireless.txt
+./source/txt_6G/123657088_Toward Self-Learning Edge Intelligence in 6G.txt
+./source/txt_6G/146463814_Matching Sensor Ontologies with Multi-Context Similarity Measure and Parallel Compact Differential E.txt
+./source/txt_6G/167697701_5G Embraces Satellites for 6G Ubiquitous IoT Basic Models for Integrated Satellite Terrestrial Netwo.txt
+./source/txt_6G/459201895_Topological transmissions in terahertz valley photonic crystals.txt
+./source/txt_6G/79355266_There will be no global 6G unless we resolve sovereignty concerns in 5G governance.txt
+./source/txt_6G/290381570_6G Wireless Systems Vision Requirements Challenges Insights and Opportunities.txt
+./source/txt_6G/249749347_Design of PWM-Based Digital Receiver for 5G.txt
+./source/txt_6G/466280513_Orthogonal frequency division multiplexing with subcarrier power modulation for doubling the spectra.txt
+./source/txt_6G/50782363_6G Opening New Horizons for Integration of Comfort Security and Intelligence.txt
+./source/txt_6G/241361327_A Novel 3D Space-Time-Frequency Non-Stationary Channel Model for 6G THz Indoor Communication Systems.txt
+./source/txt_6G/113173042_Joint Beamforming Coordination and User Selection for CoMP Enabled NR-U Networks.txt
+./source/txt_6G/289334290_Supportive 5G Infrastructure Policies are Essential for Universal 6G Assessment Using an Open-Source.txt
+./source/txt_6G/355656763_Evolutionary dynamics of MEC’s organization in a 6G scenario through EGT and temporal multiplex soci.txt
+./source/txt_6G/234546283_Ultra-Massive MIMO Systems at Terahertz Bands Prospects and Challenges.txt
+./source/txt_6G/378987684_240 GHz meta‐surface band pass filter and lens integration in 6G telecommunication systems.txt
+./source/txt_6G/30860519_A Promising Technology for 6G Wireless Networks Intelligent Reflecting Surface.txt
+./source/txt_6G/182641965_2 State of the Art of Mobile Generations.txt
+./source/txt_6G/100329226_User Clustering Techniques for Massive MIMO-NOMA Enabled mmWaveTHz Communications in 6G.txt
+./source/txt_6G/276490136_Online Roundtable Discussion  What Is Needed for Creating 6G Together?.txt
+./source/txt_6G/297986029_Sparse Code Multiple Access for 6G Wireless Communication Networks Recent Advances and Future Direct.txt
+./source/txt_6G/405465183_A 256-QAM Backscatter Transponder Architecture using Delta-Sigma Load Modulation for 6G Ultra-Low-Po.txt
+./source/txt_6G/317909105_A Model-Driven Deep Learning Algorithm for Joint Activity Detection and Channel Estimation.txt
+./source/txt_6G/300083841_Adaptive Edge Association for Wireless Digital Twin Networks in 6G.txt
+./source/txt_6G/306899594_Plasmonic Antenna Embedded Chalcogenide MZI Circuit for Ultra-high Density Up- and Downlink Transmis.txt
+./source/txt_6G/288025580_Blockchain for Spectrum Management in 6G Networks.txt
+./source/txt_6G/22211668_Service aware 6G An intelligent and open network based on convergence of communication computing and.txt
+./source/txt_6G/208858266_Toward 6G wireless communications Vision applications and technologies.txt
+./source/txt_6G/430107860_The Art of 6G TAO 6G how to wire Society 50 [Invited].txt
+./source/txt_6G/34270505_Statistical Delay and Error-Rate Bounded QoS Provisioning for 6G mURLLC Over AoI-Driven and UAV-Enab.txt
+./source/txt_6G/307162551_Bit error rate analysis of polarization shift keying based free space optical link over different we.txt
+./source/txt_6G/273083903_Towards 6G Internet of Things Recent Advances Use Cases and Open Challenges.txt
+./source/txt_6G/348843533_The Shift to 6G Communications Vision and Requirements.txt
+./source/txt_6G/270200538_OFDM for Terahertz Wireless Communication Systems.txt
+./source/txt_6G/68349757_Energy Aware Data Collection with Route Planning for 6G Enabled UAV Communication.txt
+./source/txt_6G/345960397_Robonomics in the 6G Era Playing the Trust Game With On-Chaining Oracles and Persuasive Robots.txt
+./source/txt_6G/268365775_Using Multiple RPL Instances to Enhance the Performance of New 6G and Internet of Everything 6GIoE-B.txt
+./source/txt_6G/71233532_On the Characterization and Risk Assessment of AI-Powered Mobile Cloud Applications.txt
+./source/txt_6G/437973150_Lower bound for average delay in unblocked random access algorithm with orthogonal preambles.txt
+./source/txt_6G/248705422_Elevated LiDAR based Sensing for 6G -- 3D Maps with cm Level Accuracy.txt
+./source/txt_6G/24048097_6G as if People Mattered From Industry 40 toward Society 50  Invited Paper.txt
+./source/txt_6G/359330320_Towards 6G wireless networks-challenges and potential technologies.txt
+./source/txt_6G/427749961_A Prospective Look Key Enabling Technologies Applications and Open Research Topics in 6G Networks.txt
+./source/txt_6G/292221770_Fast-Response Liquid Crystals for 6G Optical Communications.txt
+./source/txt_6G/467334052_Towards 6G Non-Terrestrial Networks.txt
+./source/txt_6G/142275558_Radar Aided 6G Beam Prediction Deep Learning Algorithms and Real-World Demonstration.txt
+./source/txt_6G/104789112_Low-Loss Polytetrafluoroethylene Hexagonal Porous Fiber for Terahertz Pulse Transmission in the 6G M.txt
+./source/txt_6G/194704524_Non-coherent OFDM-Subcarrier Power Modulation for Low Complexity and High Throughput IoT Application.txt
+./source/txt_6G/229045869_Joint Scatterer Localization and Material Identification Using Radio Access Technology.txt
+./source/txt_6G/355399343_RF Hardware Design for 5G mm-Wave and 6G Revolutions Challenges and Opportunities.txt
+./source/txt_6G/370603715_Blockchain-enabled Resource Management and Sharing for 6G Communications.txt
+./source/txt_6G/470743201_Unleashing the Potential of Networked Tethered Flying Platforms for B5G6G Prospects Challenges and A.txt
+./source/txt_6G/237697232_AI-based Resource Provisioning of IoE Services in 6G A Deep Reinforcement Learning Approach.txt
+./source/txt_6G/333904272_6G Cellular Networks and Connected Autonomous Vehicles.txt
+./source/txt_6G/376109575_Wireless Environment as a Service Enabled by Reconfigurable Intelligent Surfaces The RISE-6G Perspec.txt
+./source/txt_6G/488045081_Measured Blockage Effect of a Finger and Similar Small Objects at 300 GHz.txt
+./source/txt_6G/260242050_6G Wireless Channel Measurements and Models Trends and Challenges.txt
+./source/txt_6G/57080573_Rate-Splitting Multiple Access A New Frontier for the PHY Layer of 6G.txt
+./source/txt_6G/394722357_5G Embraces Satellites for 6G Ubiquitous IoT Basic Models for Integrated Satellite Terrestrial Netwo.txt
+./source/txt_6G/272301405_Latency-Aware Offloading in Integrated Satellite Terrestrial Networks.txt
+./source/txt_6G/6487611_Deep Reinforcement Learning based Dynamic EdgeFog Network Slicing.txt
+./source/txt_6G/329449028_Cooperative Computation Offloading for Multi-Access Edge Computing in 6G Mobile Networks via Soft Ac.txt
+./source/txt_6G/275971733_Edge Artificial Intelligence for 6G Vision Enabling Technologies and Applications.txt
+./source/txt_6G/352780080_Wireless technologies medical applications and future challenges in WBAN a survey.txt
+./source/txt_6G/120520718_Reconfigurable Intelligent Surface Based Hybrid Precoding for THz Communications.txt
+./source/txt_6G/230883433_Vulnerability Assessment of 6G-enabled Smart Grid Cyber-physical Systems.txt
+./source/txt_6G/431947884_Toward End-to-End Full-Stack 6G Terahertz Networks.txt
+./source/txt_6G/188153990_6G Fundamentals Vision and Enabling Technologies From 5G to 6G Trustworthy and Resilient Systems.txt
+./source/txt_6G/49479819_Digital-Twin-Enabled 6G Vision Architectural Trends and Future Directions.txt
+./source/txt_6G/227738274_Control and Data Plane Separation for Interoperable Indoor Wireless Access Connectivity.txt
+./source/txt_6G/133628617_From 5G to 6G  data transmission through massive MIMO and large intelligent surfaces = De 5G a 6G  t.txt
+./source/txt_6G/133628635_A Survey on beyond 5G network with the advent of 6G Architecture and Emerging Technologies.txt
+./source/txt_6G/13304549_A Comprehensive Survey of Recent Simulation platforms for Underwater Acoustic Sensor Networks.txt
+./source/txt_6G/442958672_Performance of Intelligent Reconfigurable Surface-Based Wireless Communications Using QAM Signaling.txt
+./source/txt_6G/115540889_A Survey of Computational Intelligence for 6G Key Technologies Applications and Trends.txt
+./source/txt_6G/288031712_Six Key Challenges for Beam Management in 55G and 6G Systems.txt
+./source/txt_6G/318965096_3D Printing of Millimetre Wave and Low-Terahertz Frequency Selective Surfaces using Aerosol Jet Tech.txt
+./source/txt_6G/350684602_MEC-empowered non-terrestrial network for 6G wide-area time-sensitive internet of things.txt
+./source/txt_6G/18024160_Noise Shaping Enhanced DMT Signal Transmission Utilizing Low-Resolution DAC.txt
+./source/txt_6G/342820608_Issues Challenges and Research Trends in Spectrum Management A Comprehensive Overview and New Vision.txt
+./source/txt_6G/194709450_Toward an AI-Enabled O-RAN-based and SDNNFV-driven 5Ｇ IoT Network Era.txt
+./source/txt_6G/146212834_Two-layer Federated Learning with Heterogeneous Model Aggregation for 6G Supported Internet of Vehic.txt
+./source/txt_6G/256051392_Comparative Analysis of Graphene Deposition Technologies for Antennas of Millimeter and Submillimete.txt
+./source/txt_6G/334694750_Management of Multiple Wireless Access for IOWN in the 6G era.txt
+./source/txt_6G/117901776_LSTM-Aided Hybrid Random Access Scheme for 6G Heterogeneous MTC Networks.txt
+./source/txt_6G/44763862_A Review of Artificial Intelligence Techniques for 6G Communications Architecture Security and Poten.txt
+./source/txt_6G/334695134_A Tutorial on Terahertz-Band Localization for 6G Communication Systems.txt
+./source/txt_6G/496176011_A Green 6G Network Era Architecture and Propitious Technologies.txt
+./source/txt_6G/400755645_Intelligent Reflecting Surfaces Assisted Terahertz Communications toward 6G.txt
+./source/txt_6G/399707094_Measurement of Glass Complex Permittivity at 200-500 GHz for THz Propagation Simulation.txt
+./source/txt_6G/459213878_Situation-Aware Resource Allocation for Multi-Dimensional Intelligent Multiple Access A Proactive De.txt
+./source/txt_6G/24579703_6G-enabled Edge Intelligence for Ultra -Reliable Low Latency Applications Vision and Mission.txt
+./source/txt_6G/462526_Toward End-to-End Full-Stack 6G Terahertz Networks.txt
+./source/txt_6G/186584856_Nokias view on communication in the 6G era.txt
+./source/txt_6G/197857065_Online Learning for Distributed Computation Offloading in Wireless Powered Mobile Edge Computing Net.txt
+./source/txt_6G/326832017_A Study on Extreme Wideband 6G Radio Access Technologies for Achieving 100 Gbps Data Rate in Higher .txt
+./source/txt_6G/299569136_Deep Reinforcement Learning for the Computation Offloading in MIMO-based Edge Computing.txt
+./source/txt_6G/170332228_AoI-Driven Statistical Delay and Error-Rate Bounded QoS Provisioning for 6G mURLLC Over UAV Multimed.txt
+./source/txt_6G/353308768_Enhancing Security in 6G Visible Light Communications.txt
+./source/txt_6G/35852499_Large Intelligent Surface Assisted Non-Orthogonal Multiple Access for 6G Networks Performance Analys.txt
+./source/txt_6G/26415419_Blockchain Envisioned UAV Communication Using 6G Networks Open issues Use Cases and Future Direction.txt
+./source/txt_6G/78844246_A CMOS Ka-Band Wireless Transceiver for Future Non-Terrestrial 6G Networks.txt
+./source/txt_6G/195498541_Investigation of Harmonic Frequency Multiplication on Transmitted Data through Pulse Shaping for 6G .txt
+./source/txt_6G/253170268_A Survey of Reconfigurable Intelligent Surfaces Towards 6G Wireless Communication Networks with Mass.txt
+./source/txt_6G/395776896_Directed Graph Navigated Digital Predistortion of mmWave Power Amplifiers for 6G Hopping Application.txt
+./source/txt_6G/294327196_Competitive Age of Information in Dynamic IoT Networks.txt
+./source/txt_6G/170857384_Reconfigurable Intelligent Surfaces for Future Wireless Networks A Channel Modeling Perspective.txt
+./source/txt_6G/24319222_A Tutorial of Ultra-Reliable and Low-Latency Communications in 6G Integrating Theoretical Knowledge .txt
+./source/txt_6G/163255704_A Review on 6th Generation Wireless Communication Networks Based on Artificial Intelligence.txt
+./source/txt_6G/130225792_Disaggregation for Energy Efficient Fog in Future 6G Networks.txt
+./source/txt_6G/74127088_6G Vision An Ultra-Flexible Radio Access Technology Perspective.txt
+./source/txt_6G/170072211_Sub-THz Spectrum as Enabler for 6G Wireless Communications up to 1 Tbits.txt
+./source/txt_6G/168499783_Reconfigurable Intelligent Surfaces for Doppler Effect and Multipath Fading Mitigation.txt
+./source/txt_6G/114236199_6G Massive Radio Access Networks Key Issues Technologies and Future Challenges.txt
+./source/txt_6G/202054640_Noise Consideration of Radio Receivers Using Silicon Technologies Towards 6G Communication.txt
+./source/txt_6G/228007008_Deep CNN-Based Spherical-Wave Channel Estimation for Terahertz Ultra-Massive MIMO Systems.txt
+./source/txt_6G/444275816_Edge artificial intelligence in 6G systems Theory key techniques and applications.txt
+./source/txt_6G/217259257_Wireless Federated Learning WFL for 6G Networks - Part II The Compute-then-Transmit NOMA Paradigm.txt
+./source/txt_6G/183180650_Coordinated Passive Beamforming for Distributed Intelligent Reflecting Surfaces Network.txt
+./source/txt_6G/359865914_Enabling Technologies and Services for 6G Networks.txt
+./source/txt_6G/31924001_Heuristic Quantum Optimization for 6G Wireless Communications.txt
+./source/txt_6G/306126650_Graph-Embedded Multi-Agent Learning for Smart Reconfigurable THz MIMO-NOMA Networks.txt
+./source/txt_6G/162471835_The Roadmap to 6G Security and Privacy.txt
+./source/txt_6G/366682051_Mobility-Aware Offloading and Resource Allocation in an MEC-enabled IoT Network with Energy Harvesti.txt
+./source/txt_6G/147005488_Three-Way Deep Neural Network for Radio Frequency Map Generation and Source Localization.txt
+./source/txt_6G/355672115_Secure Virtual Mobile Smalll Cells A Stepping Stone Towards 6G.txt
+./source/txt_6G/446111992_Maritime Multi-relay Communications based on UAV Trajectory Adjustment and Dual Q-learning.txt
+./source/txt_6G/89334190_Facilitating URLLC in UAV-assisted Relay Systems with Multiple-Mobile Robots for 6G Networks A Prosp.txt
+./source/txt_6G/18555395_6G subnetworks for Life-Critical Communication.txt
+./source/txt_6G/433005341_Circuit Measurement and Material at Millimeter-Wave Frequency  Measurement Solution for 5G and Measu.txt
+./source/txt_6G/327885792_Utilizing OAM in Terahertz Frequency Band to Improve Transmission Capacity.txt
+./source/txt_6G/476259505_Generalized Multi-Access Dynamic Bandwidth Allocation Scheme for Future Generation PONs A Solution f.txt
+./source/txt_6G/425403626_6G Communications Envisioning the Key Issues and Challenges.txt
+./source/txt_6G/23274738_Reconfigurable Intelligent Surfaces for 6G Systems Principles Applications and Research Directions.txt
+./source/txt_6G/214639972_Achieving Extremely Low-Latency in Industrial Internet of Things Joint Finite Blocklength Coding Res.txt
+./source/txt_6G/254223761_XR in the 6G Post‐Smartphone Era.txt
+./source/txt_6G/8594910_The 6G Vision.txt
+./source/txt_6G/180561449_Toward Privacy-Preserving Cybertwin-Based Spatio-Temporal Keyword Query for ITS in 6G Era.txt
+./source/txt_6G/398403186_A Computationally Efficient 2D MUSIC Approach for 5G and 6G Sensing Networks.txt
+./source/txt_6G/490940080_A Comprehensive Survey on 6G Networks Applications Core Services Enabling Technologies and Future Ch.txt
+./source/txt_6G/367732419_Optical Wireless Communication A Candidate 6G Technology?.txt
+./source/txt_6G/295643030_Electromagnetic Radiation Reduction in 5G Networks and Beyond using Thermal Radiation Mode.txt
+./source/txt_6G/129706182_Reflectionless metasurface with high refractive index in the terahertz waveband.txt
+./source/txt_6G/363276682_Wireless Federated Learning WFL for 6G Networks - Part II The Compute-then-Transmit NOMA Paradigm.txt
+./source/txt_6G/358558265_Edge Computing Enabled Technologies for Secure 6G Smart Environment-An Overview.txt
+./source/txt_6G/213592675_Wireless Federated Learning WFL for 6G Networks - Part I Research Challenges and Future Trends.txt
+./source/txt_6G/72035085_Blockchain in 5G and 6G networks.txt
+./source/txt_6G/201272107_Present and Future of Reconfigurable Intelligent Surface-Empowered Communications.txt
+./source/txt_6G/64957278_6G Internet of Things A Comprehensive Survey.txt
+./source/txt_6G/449260559_Soft Mobility Transparent Handover with Zero Handover Failure in User-Centric Networks.txt
+./source/txt_6G/215428148_IoT-based Big Data secure management in the Fog over a 6G Wireless Network.txt
+./source/txt_6G/118434942_Radio Sensing with Large Intelligent Surface for 6G.txt
+./source/txt_6G/188951810_Opportunities and Challenges for Visible Light Communications in 6G.txt
+./source/txt_6G/241642837_Edge Computing in IoT A 6G Perspective.txt
+./source/txt_6G/374025752_Mobile Terahertz 6G Communications Enabled by Integrated Photonic-Assisted Beam Steering Antennas.txt
+./source/txt_6G/288829343_Secure backscatter‐enabled NOMA system design in 6G era.txt
+./source/txt_6G/17510401_Wireless Communications Through Reconfigurable Intelligent Surfaces.txt
+./source/txt_6G/33763456_Channel measurement and path loss modeling from 220 GHz to 330 GHz for 6G wireless communications.txt
+./source/txt_6G/441921806_Joint Inter-and-intra-multiplexing and Hybrid Beamforming for Terahertz Widely-spaced Multi-subarray.txt
+./source/txt_6G/307180175_6G V2X Technologies and Orchestrated Sensing for Autonomous Driving.txt
+./source/txt_6G/1520320_Simultaneous Extreme Ultraviolet Information and Power TransferSEUVIPT.txt
+./source/txt_6G/453981370_SimRIS Channel Simulator for Reconfigurable Intelligent Surfaces in Future Wireless Networks.txt
+./source/txt_6G/172963245_High-speed and Wide FoV Autonomous Beamformer Driving Forward to 4D Resource Allocation in 6G RAN Er.txt
+./source/txt_6G/353318421_Enabling Technologies For 6g Future Wireless Communications Opportunities And Challenges.txt
+./source/txt_6G/456865529_Asymmetric Full-Digital Beamforming mmWave Massive MIMO Systems for B5G6G Wireless Communications.txt
+./source/txt_6G/247412889_On the Design of Flys Eye Lenses at Sub-THz Frequencies for Wideband Communications.txt
+./source/txt_6G/155924637_The Hilbert Generator a Filter-Free Upconverter for 6G Communications.txt
+./source/txt_6G/115292361_Networked Twins and Twins of Networks an Overview on the Relationship Between Digital Twins and 6G.txt
+./source/txt_6G/346241296_Optimum Resource Allocation in 6G Optical Wireless Communication Systems.txt
+./source/txt_6G/147536171_A Dynamic Array-of-Subarrays Architecture and Hybrid Precoding Algorithms for Terahertz Wireless Com.txt
+./source/txt_6G/42154483_Random Fourier Features based Post-Distortion for Massive-MIMO Visible Light Communication.txt
+./source/txt_6G/102447649_Grant-Free Non-Orthogonal Multiple Access A Key Enabler for 6G-IoT.txt
+./source/txt_6G/408631846_Deep Learning Based Load Balancing for improved QoS towards 6G.txt
+./source/txt_6G/499858133_Cell-Free Massive MIMO for 6G Wireless Communication Networks.txt
+./source/txt_6G/316095208_Research Progress of MIMO UWB Antenna.txt
+./source/txt_6G/462109631_A Resource Efficient hybrid Proxy Mobile IPv6 extension for Next Generation IoT Networks.txt
+./source/txt_6G/472595407_Massive Wireless Energy Transfer Enabling Sustainable IoT Towards 6G Era.txt
+./source/txt_6G/441924594_Disruption-Free Load Balancing for Aerial Access Network.txt
+./source/txt_6G/101399843_Simulation of machine learning-based 6G systems in virtual worlds.txt
+./source/txt_6G/413089178_Cybertwin-driven Resource Provisioning for IoE Applications at 6G-enabled Edge Networks.txt
+./source/txt_6G/263667634_Blockchain-Envisioned Softwarized Multi-Swarming UAVs to Tackle COVID-I9 Situations.txt
+./source/txt_6G/315048314_The Collective Advantage for Advancing Communications and Intelligence.txt
+./source/txt_6G/425148822_Decentralized federated learning for extended sensing in 6G connected vehicles.txt
+./source/txt_6G/291717616_6G-enabled IoT Home Environment control using Fuzzy Rules.txt
+./source/txt_6G/226968238_3GPP Release-16 for Industrial Internet of Things and Mission Critical Communications.txt
+./source/txt_6G/107168961_A Theoretical Framework Toward Realizing Spectral and Energy Efficiencies of 6G Mobile Networks.txt
+./source/txt_6G/130237668_Towards Next Generation of High-Performance Radio Frequency Passive Components for Beyond-5G 6G and .txt
+./source/txt_6G/223823185_Analysis of P4 and XDP for IoT Programmability in 6G and Beyond.txt
+./source/txt_6G/273630815_Fastening the Initial Access in 5G NR Sidelink for 6G V2X Networks.txt
+./source/txt_6G/217270104_Hybrid LightwaveRF Connectivity for 6G Wireless Networks.txt
+./source/txt_6G/434325602_Radiation pattern prediction for Metasurfaces A Neural Network based approach.txt
+./source/txt_6G/35342855_6G Network Needs to Support Embedded Trust.txt
+./source/txt_6G/439306839_AI-Based Vehicular Network toward 6G and IoT Deep Learning Approaches.txt
+./source/txt_6G/374295191_Minimizing Delay Violation Probability in URLLC over Fading Channels A Cross-Layer Approach.txt
+./source/txt_6G/228805337_An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Ve.txt
+./source/txt_6G/393693949_Seven Defining Features of Terahertz THz Wireless Systems A Fellowship of Communication and Sensing.txt
+./source/txt_6G/102976276_What Will the Future of UAV Cellular Communications Be? A Flight from 5G to 6G.txt
+./source/txt_6G/24070961_Federated Learning in 6G Mobile Wireless Networks.txt
+./source/txt_6G/36916087_Guest Editors’ Introduction Special Section on Design and Management of Reliable Communication Netwo.txt
+./source/txt_6G/121850879_Identifying Hybrid DDoS Attacks in Deterministic Machine-to-Machine Networks on a Per-Deterministic-.txt
+./source/txt_6G/445074791_7 6G Use Cases.txt
+./source/txt_6G/295652782_Already 6G? Why?.txt
+./source/txt_6G/494096086_Machine Learning in Beyond 5G6G NetworksState-of-the-Art and Future Trends.txt
+./source/txt_6G/274419565_Futuristic Technological Aspects of 6G Networks.txt
+./source/txt_6G/437211002_Multisegment Ultra Wide Band Antenna for 5G Applications.txt
+./source/txt_6G/182931359_Getting Ready for Beyond-5G Super-IoT and 6G at Hardware Passive Components Level – A Multi-State RF.txt
+./source/txt_6G/138629360_A Novel Non-Stationary 6G UAV-to-Ground Wireless Channel Model with 3D Arbitrary Trajectory Changes.txt
+./source/txt_6G/104812949_Scenario-based analysis of the carbon mitigation potential of 6G-enabled 3D videoconferencing in 203.txt
+./source/txt_6G/397627964_Applications and challenges of Reconfigurable Intelligent Surface for 6G networks.txt
+./source/txt_6G/220156917_6G White Paper on Machine Learning in Wireless Communication Networks.txt
+./source/txt_6G/484136132_Low Cost Subarrayed Sensor Array Design Strategy for IoT and Future 6G Applications.txt
+./source/txt_6G/99046789_Ubiquitous-X Constructing the Future 6G Networks.txt
+./source/txt_6G/79910387_TULVCAN Terahertz Ultra-broadband Learning Vehicular Channel-Aware Networking.txt
+./source/txt_6G/181098152_An Overview on Integrated Localization and Communication Towards 6G.txt
+./source/txt_6G/49239795_6G Envisioning the Key Issues and Challenges.txt
+./source/txt_6G/49239829_SIXTH GENERATION THE FUTURE ERA IN MOBILE TECHNOLOGY.txt
+./source/txt_6G/320296751_Role of Wireless Communication in Healthcare System to Cater Disaster Situations Under 6G Vision.txt
+./source/txt_6G/16734142_New Wireless Network Architecture for Facilitating Society in 6G Era.txt
+./source/txt_6G/482039754_Reward Maximization Strategy in Virtualized Wireless Sensor Networks.txt
+./source/txt_6G/212031524_A speculative study on 6G.txt
+./source/txt_6G/415979715_Convergent Communication Sensing and Localization in 6G Systems An Overview of Technologies Opportun.txt
+./source/txt_6G/460806473_A comprehensive study of 5G and 6G networks.txt
+./source/txt_6G/289102299_Edge Trusted Sharing Task-Driven Decentralized Resources Collaborate in IoT.txt
+./source/txt_6G/195254859_Bit and Packet Error Rate evaluations for Half-Cycle stage cooperation on 6G wireless networks.txt
+./source/txt_6G/448223870_Massively Distributed Antenna Systems with Non-Ideal Optical Fiber Front-hauls A Promising Technolog.txt
+./source/txt_6G/141515418_Theoretical Study of a 194 THz RTD-gHEMT Oscillator Towards THz Communications.txt
+./source/txt_6G/253975459_Key performance requirement of future next wireless networks 6G.txt
+./source/txt_6G/160914374_Key Technologies for the Advent of the 6G.txt
+./source/txt_6G/348871983_Interference management in 6G space and terrestrial integrated networks Challenges and approaches.txt
+./source/txt_6G/463953304_Evolution of Generations and Advancement of 6G Technology A Survey.txt
+./source/txt_6G/322133450_LiFi Networks Concept Standardization Activities and Perspectives.txt
+./source/txt_6G/19357253_Integrated Satellite-Terrestrial Networks Towards 6G Architectures Applications and Challenges.txt
+./source/txt_6G/335765243_DOAV Estimation Using Non-Linear Least Squares and ULA.txt
+./source/txt_6G/85155628_Μελέτη και αξιολόγηση των προτεινόμενων τεχνολογιών στα δίκτυα 5G και μεταγενέστερα 6G.txt
+./source/txt_6G/387407819_The D-OMA Method for Massive Multiple Access in 6G Performance Security and Challenges.txt
+./source/txt_6G/50290668_Redefining Wireless Communication for 6G Signal Processing Meets Deep Learning.txt
+./source/txt_6G/194208245_Unlicensed Spectrum Sharing with WiGig in Millimeter-wave Cellular Networks in 6G Era.txt
+./source/txt_6G/90399348_Evolution to 55G and 6G and Key Applications.txt
+./source/txt_6G/456090228_What is Semantic Communication? A View on Conveying Meaning in the Era of Machine Intelligence.txt
+./source/txt_6G/235889553_6G-Enabled Network in Box for Internet of Connected Vehicles.txt
+./source/txt_6G/161178646_NOMA for Next-generation Massive IoT Performance Potential and Technology Directions.txt
+./source/txt_6G/38233157_Design of broadband circularly polarized THz antenna with stable radiation pattern for 6G communicat.txt
+./source/txt_6G/306930782_DRL-based Low-Latency Content Delivery for 6G Massive Vehicular IoT.txt
+./source/txt_6G/82797830_Next-Generation Consumer Electronics for 6G Wireless Era.txt
+./source/txt_6G/161703396_Intelligent Task Offloading for 6G-Enabled Maritime IoT Based on Reinforcement Learning.txt
+./source/txt_6G/11494945_Brief Introduction of Fog Radio Access Networks.txt
+./source/txt_6G/465004132_Reliable Internet of Things Challenges and Future Trends.txt
+./source/txt_6G/316106472_Blockchain Based Privacy Preserving Framework for Emerging 6G Wireless Communications.txt
+./source/txt_6G/461334390_Optimizing Resource Allocation for 6G NOMA-Enabled Cooperative Vehicular Networks.txt
+./source/txt_6G/446130087_Physical Layer Design Challenges for 6G Wireless.txt
+./source/txt_6G/70740019_Reconfigurable Intelligent Surface RIS-Assisted Wireless Systems Potentials for 6G and a Case Study.txt
+./source/txt_6G/475490407_White Paper on RF Enabling 6G – Opportunities and Challenges from Technology to Spectrum.txt
+./source/txt_6G/164849819_Changing Perspectives of Mobile Information Communication Technologies towards Customized and Secure.txt
+./source/txt_6G/260008282_High-Efficiency Resonant Beam Charging and Communication.txt
+./source/txt_6G/209414501_Reconfigurable Intelligent Surfaces for Doppler Effect and Multipath Fading Mitigation.txt
+./source/txt_6G/478374605_Large Intelligent Surface Assisted Non-Orthogonal Multiple Access Performance Analysis.txt
+./source/txt_6G/53963470_Uplink data transmission for high speed trains in severe doubly selective channels of 6G communicati.txt
+./source/txt_6G/436955939_What Should 6G Architectures Be.txt
+./source/txt_6G/106916952_Reconfigurable intelligent surfaces for smart wireless environments channel estimation system design.txt
+./source/txt_6G/475229358_Intelligent Surfaces for 6G Wireless Networks A Survey of Optimization and Performance Analysis Tech.txt
+./source/txt_6G/290942128_Blind Interference Alignment in 6G Optical Wireless Communications.txt
+./source/txt_6G/375352510_A Novel IoV Block-Streaming Service Awareness and Trusted Verification in 6G.txt
+./source/txt_6G/66809123_Drone Charging Stations Deployment in Rural Areas for Better Wireless Coverage Challenges and Soluti.txt
+./source/txt_6G/377712195_Graphene-Assisted Narrow Bandwidth Dual-Band Tunable Terahertz Metamaterial Absorber.txt
+./source/txt_6G/448753643_Key Technologies for Ultra-Reliable and Low-Latency Communication in 6G.txt
+./source/txt_6G/73101294_Getting Beyond 5G A Feasibility Study for 6G Using On-Chip Wireless THz Systems.txt
+./source/txt_6G/150958470_Power Optimization and Throughput Enhancement in 6G Networks by Delay-Aware Resource Leverage.txt
+./source/txt_6G/109015492_Machine Learning for 6G Wireless Networks Carry-Forward-Enhanced Bandwidth Massive Access and Ultrar.txt
+./source/txt_6G/479425209_Reconfigurable Intelligent Surface-Assisted Backscatter Communication A New Frontier for Enabling 6G.txt
+./source/txt_6G/137327511_Security and privacy for 6G A survey on prospective technologies and challenges.txt
+./source/txt_6G/323711953_Practical Large Scale Antenna Systems for 5G cellular networks.txt
+./source/txt_6G/407336122_Security Concerns on Machine Learning Solutions for 6G Networks in mmWave Beam Prediction.txt
+./source/txt_6G/51606748_Machine Learning Applications for Heterogeneous Networks.txt
+./source/txt_6G/208368900_Intelligent reflecting surface assisted MIMO communication system A review.txt
+./source/txt_6G/156464480_Distributed Dynamic Channel Allocation in 6G in-X Subnetworks for Industrial Automation.txt
+./source/txt_6G/258176479_The Sky is the EdgeToward Mobile Coverage From the Sky.txt
+./source/txt_6G/143357592_Plasmonic Field-Effect Transistors TeraFETs for 6G Communications.txt
+./source/txt_6G/203913018_Re-configuration of UAV Relays in 6G Networks.txt
+./source/txt_6G/297498625_LiDAR-Aided Mobile Blockage Prediction in Real-World Millimeter Wave Systems.txt
+./source/txt_6G/145455382_Slicing-Based AI Service Provisioning on Network Edge.txt
+./source/txt_6G/250837537_TeraSim An ns-3 Extension to Simulate Terahertz-band Communication Networks.txt
+./source/txt_6G/289635013_Beam-Selection MiniGrid Environment for 5G and 6G Networks Applications.txt
+./source/txt_6G/220953481_Developing NOMA to Next Generation Multiple Access NGMA Future Vision and Research Opportunities.txt
+./source/txt_6G/60783541_Secure and Lightweight User Authentication Technique for IoT Devices.txt
+./source/txt_6G/50822382_AI Based Energy Efficient Routing Protocol for Intelligent Transportation System.txt
+./source/txt_6G/493321456_Wideband Dual-Polarized Antennas for Base Stations Invited talk.txt
+./source/txt_6G/293567757_Rate-Splitting Multiple Access for Enhanced URLLC and eMBB in 6G.txt
+./source/txt_6G/50036224_What should 6G be.txt
+./source/txt_6G/98270769_Quantum-Enabled 6G Wireless Networks Opportunities and Challenges.txt
+./source/txt_6G/8618031_Multi-dimensional Resource Management System Based on Blockchain and Cybertwin.txt
+./source/txt_6G/336035916_Channel Sounding and Scene Classification of Indoor 6G Millimeter Wave Channel Based on Machine Lear.txt
+./source/txt_6G/64455420_Millimeter-Wave Communications With Non-Orthogonal Multiple Access for B5G6G.txt
+./source/txt_6G/149128196_6G-enabled short-term forecasting for large-scale traffic flow in massive IoT based on time-aware Lo.txt
+./source/txt_6G/45581396_Study of Efficacious use of Blockchain in 6G Technology-Path for the Future.txt
+./source/txt_6G/120816900_A Survey on Potential Techniques and Issues in 6G Communication.txt
+./source/txt_6G/223053385_5G Multi-Band Numerology-Based TDD RAN Slicing for Throughput and Latency Sensitive Services.txt
+./source/txt_6G/265258837_The Intersection of Blockchain and 6G Technologies.txt
+./source/txt_6G/266045697_Scheduling Policies for Quantum Key Distribution Enabled Communication Networks.txt
+./source/txt_6G/385583391_Reconfigurable Dual-Band 2838 GHz Frequency Selective Surface for 6G Applications.txt
+./source/txt_6G/295405957_Orthogonal Time-Frequency Space Modulation A Promising Next-Generation Waveform.txt
+./source/txt_6G/49252892_Genetic optimization of short block-length PAC codes for high capacity PHz communications.txt
+./source/txt_6G/175344586_Technical Candidates and the Challenges of Multi-access and Modulation Schemes for 6G Mobile Communi.txt
+./source/txt_6G/51612620_Adversarial Machine Learning Security Problems for 6G mmWave Beam Prediction Use-Case.txt
+./source/txt_6G/429624390_6G The Green Network.txt
+./source/txt_6G/347835523_Path Following Control in 6G Communication Network Based on Model Predictive Control.txt
+./source/txt_6G/58952844_URL filtering using big data analytics in 5G networks.txt
+./source/txt_6G/358583494_Futuristic Cyber-Twin Architecture for 6G Technology to Support Internet of Everything.txt
+./source/txt_6G/159091931_Res6Edge An Edge-AI Enabled Resource Sharing Scheme for C-V2X Communications towards 6G.txt
+./source/txt_6G/248745224_Intelligent Resource Allocation Algorithm for 6G Multi-Tenant Network Slicing Based on Deep Reinforc.txt
+./source/txt_6G/429624681_A Perspective on Terahertz Next-Generation Wireless Communications.txt
+./source/txt_6G/358321749_Framework for slicing 6G networks for efficient multi-tenancy.txt
+./source/txt_6G/466325161_URLLC resource slicing and scheduling for trustworthy 6G vehicular services A federated reinforcemen.txt
+./source/txt_6G/231444472_Adversarial Machine Learning Security Problems for 6G mmWave Beam Prediction Use-Case.txt
+./source/txt_6G/18059265_Blockchain-enabled Resource Management and Sharing for 6G Communications.txt
+./source/txt_6G/66818184_Towards 6G Internet of Things and the Convergence with RoF System.txt
+./source/txt_6G/134713766_3D Spatial Reuse of Multi-Millimeter-Wave Spectra by Ultra-Dense In-Building Small Cells for Spectra.txt
+./source/txt_6G/161190424_Increasing privacy and security by integrating a Blockchain Secure Interface into an IoT Device Secu.txt
+./source/txt_6G/250843831_Research and Development of Beyond 5G and 6G Systems Based on Viewpoints of Resilient Radio Resource.txt
+./source/txt_6G/247960316_Challenges in Transport Layer Design for Terahertz Communication-Based 6G Networks.txt
+./source/txt_6G/429888519_Computing power network The architecture of convergence of computing and networking towards 6G requi.txt
+./source/txt_6G/345478284_Joint Scheduling and Power Allocation for 6G Terahertz Mesh Networks.txt
+./source/txt_6G/124753111_MEC-Empowered Non-Terrestrial Network for 6G Wide-Area Time-Sensitive Internet of Things.txt
+./source/txt_6G/373003527_Machine Learning Based Early Termination for Turbo and LDPC Decoders.txt
+./source/txt_6G/369857816_Catching the 6G Wave by Using Metamaterials A Reconfigurable Intelligent Surface Paradigm.txt
+./source/txt_6G/355702217_CogRF A New Frontier for Machine Learning and Artificial Intelligence for 6G RF Systems.txt
+./source/txt_6G/101160479_Enhancing security of TASMRC-based mixed RF-UOWC system with induced underwater turbulence effect.txt
+./source/txt_6G/226203328_8 Future Scope  Challenges.txt
+./source/txt_6G/469210871_Artificial Intelligence and Cognitive Computing for 6G Communications  Networks.txt
+./source/txt_6G/318215949_Guest Editorial Special Issue on 6G-Enabled Internet of Things.txt
+./source/txt_6G/301963097_Minimum Error Pursuit Algorithm for Symbol Detection in MBM Massive-MIMO.txt
+./source/txt_6G/317429697_Investigation of Spectrum Occupancy in GSM Band in Samsun Turkey.txt
+./source/txt_6G/255301620_A Mechanism for Improving the Spectral Efficiency in mu-MIMO for 5G and Beyond Networks.txt
+./source/txt_6G/256350243_Differential‐Fed Antenna Arrays.txt
+./source/txt_6G/462919890_Holographic MIMO Surfaces for 6G Wireless Networks Opportunities Challenges and Trends.txt
+./source/txt_6G/413636838_Physical-Layer Network Coding in 6G Enabled Marine Internet of Things.txt
+./source/txt_6G/77306287_Optimizations with Intelligent Reflecting Surfaces IRSs in 6G Wireless Networks Power Control Qualit.txt
+./source/txt_6G/498527_Blockchain-based Decentralized Service Provisioning in Local 6G Mobile Networks.txt
+./source/txt_6G/197893168_A Digital Twin for Reconfigurable Intelligent Surface Assisted Wireless Communication.txt
+./source/txt_6G/258710755_6G White paper Trust Security and Privacy 6G Flagship.txt
+./source/txt_6G/120298911_Artificial intelligence-empowered resource management for future wireless communications A survey.txt
+./source/txt_6G/100638174_Performance modelling of wireless Xhaul and associate impact on network provisioning for 5G and beyo.txt
+./source/txt_6G/284925790_Antecedents of Future 6G Mobile Ecosystems.txt
+./source/txt_6G/146251719_Introduction to Special Issue on Future of Wireless Communication and 6G Networks.txt
+./source/txt_6G/431464449_Back Propagation Artificial Neural Network for Improving the Performance of STBC-based OFDM with Sub.txt
+./source/txt_6G/192127295_Reinforcement-supported Artificial Neural Network-based Trajectory Prediction.txt
+./source/txt_6G/9675241_Deep Learning for Fast and Reliable Initial Access in AI-Driven 6G mmWave Networks.txt
+./source/txt_6G/352821758_Impact of Channel Correlation and Hardware Impairments on Large Intelligent Surfaces-Aided Communica.txt
+./source/txt_6G/434086469_LiFi Through Intelligent Reflecting Surfaces A New Frontier for 6G?.txt
+./source/txt_6G/481010589_A 3D Non-Stationary Channel Model for 6G Wireless Systems Employing Intelligent Reflecting Surface.txt
+./source/txt_6G/137864258_Codebook Design and Beam Training for Extremely Large-Scale RIS Far-Field or Near-Field?.txt
+./source/txt_6G/131834974_Time-Energy-Constrained Closed-Loop FBL Communication for Dependable MEC.txt
+./source/txt_6G/303015130_Towards 6G in-X Subnetworks With Sub-Millisecond Communication Cycles and Extreme Reliability.txt
+./source/txt_6G/50308879_How Could Blockchain Transform 6G towards Open Ecosystemic Business Models.txt
+./source/txt_6G/395552562_On-Demand Networking for Ubiquitous Connectivity and Network Resilience A Network-in-a-Box Solution.txt
+./source/txt_6G/29075381_Radar-Communication Integration for 6G Massive IoT Services.txt
+./source/txt_6G/41134230_Six Key Features of Machine Type Communication in 6G.txt
+./source/txt_6G/323201266_Analysis of indoor THz communication systems with finite-bit DACs and ADCs.txt
+./source/txt_6G/221489428_Dataset for Multicarrier-Division Duplex A Duplexing Technique for Shift to 6G Wireless Communicatio.txt
+./source/txt_6G/62368079_6G and Fog Node Mobile Systems for Cooperative Autonomous and Dynamic Applications.txt
+./source/txt_6G/189507988_Ultra-low Latency Low Energy and Massiveness in the 6G Era via Efficient CSIT-limited Schemes.txt
+./source/txt_6G/273394194_On the Role of Stochastic Geometry in Sixth Generation Wireless Networks.txt
+./source/txt_6G/44018256_Toward the Internet of No Things The Role of O2O Communications and Extended Reality.txt
+./source/txt_6G/470526854_6G-LEGO A framework for 6G network slices.txt
+./source/txt_6G/52669337_Towards a Fully Virtualized Cloudified and Slicing-Aware RAN for 6G Mobile Networks.txt
+./source/txt_6G/90942463_Privacy Protection in LTE and 5G Networks.txt
+./source/txt_6G/441429060_Proactive UAV Network Slicing for URLLC and Mobile Broadband Service Multiplexing.txt
+./source/txt_6G/267103303_Laying the Milestones for 6G Networks [From the Guest Editors].txt
+./source/txt_6G/264481969_6G Network Architecture Vision.txt
+./source/txt_6G/238005500_The use of data mining and artificial intelligence technology in art colors and graph and images of .txt
+./source/txt_6G/226471183_Research on 6G characteristic attenuation rate.txt
+./source/txt_6G/354397543_6G Open Issues and Concluding Remarks.txt
+./source/txt_6G/331591213_A Study on new modulationdemodulation method for 6G Mobile -- A proposal of MARIA MIMO Applied Resou.txt
+./source/txt_6G/350465606_Holographic MIMO Surfaces for 6G Wireless Networks Opportunities Challenges and Trends.txt
+./source/txt_6G/111390386_Wireless Communications with Programmable Metasurface New Paradigms Opportunities and Challenges on .txt
+./source/txt_6G/267103987_A Peak-To-Average Power Ratio Suppression Method for Broadband LEO Satellite Communication.txt
+./source/txt_6G/160673679_Reciprocity calibration of Distributed Massive MIMO Access Points for Coherent Operation.txt
+./source/txt_6G/441692136_“One Layer to Rule Them All” Data Layer‐oriented 6G Networks.txt
+./source/txt_6G/383496194_Quantum Communications in Future Networks and Services.txt
+./source/txt_6G/365932549_Guest Editorial Special Issue on Multiple Antenna Technologies for Beyond 5G-Part II.txt
+./source/txt_6G/106410453_Extreme Communication in 6G Vision and Challenges for ‘in-X’ Subnetworks.txt
+./source/txt_6G/223588832_Electromagnetic Measurement Techniques for Materials and Device Used in 6G Wireless Communications.txt
+./source/txt_6G/70234636_3D Network Modeling for THz-Enabled Ultra-Fast Dense Networks A 6G Perspective.txt
+./source/txt_6G/452964964_Energy-Efficient Massive MIMO for Serving Multiple Federated Learning Groups.txt
+./source/txt_6G/138130048_Toward Native Artificial Intelligence in 6G Networks System Design Architectures and Paradigms.txt
+./source/txt_6G/219919118_THz Precoding for 6G Applications Challenges Solutions and Opportunities.txt
+./source/txt_6G/103002915_Sub-THz Circularly Polarized Horn Antenna Using Wire Electrical Discharge Machining for 6G Wireless .txt
+./source/txt_6G/82031440_Toward Efficient Transfer Learning in 6G.txt
+./source/txt_6G/322679659_A General 3D Space-Time-Frequency Non-Stationary THz Channel Model for 6G Ultra-Massive MIMO Wireles.txt
+./source/txt_6G/152286124_A Study on Optical Access Systems for 6G Radio Access Networks.txt
+./source/txt_6G/341292217_Reconfigurable Intelligent and Sustainable Wireless Environments for 6G Smart Connectivity.txt
+./source/txt_6G/300135684_Quantum Supremacy Versus IoT Conspiracy in Smart Cities.txt
+./source/txt_6G/226211118_On the Design of Reconfigurable Wideband Ridge Gap Waveguide Amplifier Modules.txt
+./source/txt_6G/158840226_An Abstracted Survey on 6G Drivers Requirements Efforts and Enablers.txt
+./source/txt_6G/45070008_Beyond 100 Gbs Optoelectronic Terahertz Communications Key Technologies and Directions.txt
+./source/txt_6G/213366504_Convolutional Autoencoder-Based Phase Shift Feedback Compression for Intelligent Reflecting Surface-.txt
+./source/txt_6G/318224473_6G opportunities arising from Internet of Things use cases a review paper.txt
+./source/txt_6G/299088027_Analog Radio of Fiber Link of 2-Gbaud OOKBPSK Radio Frequency-Orbital Angular Momentum Beam Transmis.txt
+./source/txt_6G/187414718_Computational Tool for the Evaluation of Waveform Candidates of Beyond 5G and 6G Systems.txt
+./source/txt_6G/220969204_Efficient Machine Learning-Enhanced Channel Estimation for OFDM Systems.txt
+./source/txt_6G/423082602_Microfabrication Technology Developed for High Gain THz Resonant Antenna with Spherical Fabry-Perot .txt
+./source/txt_6G/443529842_Integration of Energy Computation and Communication in 6G Cellular Internet of Things.txt
+./source/txt_6G/47954577_Topology Optimization for 6G Networks A Network Information-Theoretic Approach.txt
+./source/txt_6G/199211816_6G Enabled Smart Infrastructure for Sustainable Society Opportunities Challenges and Research Roadma.txt
+./source/txt_6G/22789067_White Paper on Business of 6G.txt
+./source/txt_6G/379829640_Latest Trends in 6G Policy.txt
+./source/txt_6G/191086031_Adaptive and Dynamic Security in AI-Empowered 6G From an Energy Efficiency Perspective.txt
+./source/txt_6G/87801420_Wireless to optical phase mapping in a seamless digital wireless-photonic link.txt
+./source/txt_6G/250855064_Teaching quality monitoring and evaluation using 6G internet of things communication and data mining.txt
+./source/txt_6G/420724417_PD-SOI CMOS and SiGe BiCMOS Technologies for 5G and 6G communications.txt
+./source/txt_6G/332644634_Optical Interconnects for Future Advanced Antenna Systems Architectures Requirements and Technologie.txt
+./source/txt_6G/158056966_Leap to 6G.txt
+./source/txt_6G/388481633_Rate-Splitting Multiple Access for Enhanced URLLC and eMBB in 6G Invited Paper.txt
+./source/txt_6G/214680210_6G White Paper on Localization and Sensing.txt
+./source/txt_6G/82035538_Unleashing the Potential of Tethered Networked Flying Platforms Prospects Challenges and Application.txt
+./source/txt_6G/349422495_Key Technologies in 6G Terahertz Wireless Communication Systems A Survey.txt
+./source/txt_6G/386122768_Future Trends and Open Issues in Fog Radio Access Networks.txt
+./source/txt_6G/108250131_Spatially Correlated Dual Hop RIS Aided Next Generation Wireless Systems An Outage Perspective.txt
+./source/txt_6G/132367509_Brief Report on QoSec Context Aware Security and the Role of Physical Layer Security in 6G Wireless.txt
+./source/txt_6G/36947167_Towards Multi-Functional 6G Wireless Networks Integrating Sensing Communication and Security.txt
+./source/txt_6G/450610800_EdgeAI  a vision for distributed edge-native artificial intelligence in future 6G networks.txt
+./source/txt_6G/462145215_On Second-Order Statistics of the Composite Channel Models for UAV-to-Ground Communications with UAV.txt
+./source/txt_6G/499107703_Security and Intelligent Management for FogEdge Computing Resources.txt
+./source/txt_6G/102746230_What should 6G be.txt
+./source/txt_6G/175884414_A Cloud-Edge Collaborative Computing Task Scheduling Algorithm for 6G Edge Networks.txt
+./source/txt_6G/38783147_A Review on Training and Blind Equalization Algorithms for Wireless Communications.txt
+./source/txt_6G/375638247_A Perspective on 6G Requirement Technology Enablers Challenges and Future Road Map.txt
+./source/txt_6G/71551223_Bayesian-based Symbol Detector for Orthogonal Time Frequency Space Modulation Systems.txt
+./source/txt_6G/496486664_Fastening the initial access in 5G NR sidelink for 6G V2X networks.txt
+./source/txt_6G/268945697_Terahertz THz generator and detection.txt
+./source/txt_6G/171166064_Adoption of softwarization and virtualization for 5G robot.txt
+./source/txt_6G/355191257_Amalgamation of blockchain and IoT for smart cities underlying 6G communication A comprehensive revi.txt
+./source/txt_6G/399756079_Sixth Generation 6G Wireless Networks Vision Research Activities Challenges and Potential Solutions.txt
+./source/txt_6G/411552749_A Waveform Parameter Assignment Framework for 6G With the Role of Machine Learning.txt
+./source/txt_6G/51367037_Secure Virtual Mobile Small Cells A Stepping Stone Towards 6G.txt
+./source/txt_6G/186109086_Review of optical and wireless backhaul networks and emerging trends of next generation 5G and 6G te.txt
+./source/txt_6G/127127138_Cell Soft Handover Strategy for 6G Network of Quantum Mobile Communication Based on Optimal Entangle.txt
+./source/txt_6G/406572828_Toward 6G Communication Networks Terahertz Frequency Challenges and Open Research Issues.txt
+./source/txt_6G/255315859_6G Networks Fusion of Communications Sensing Imaging Localization and Other Verticals.txt
+./source/txt_6G/429117549_Bivalence Fuzzified Decision Stump Bootstrap Aggregation for Energy and Cost-Efficient 6G Communicat.txt
+./source/txt_6G/1298612_Highly Directive Microstrip Array Antenna with FSS for Future Generation Cellular Communication at T.txt
+./source/txt_6G/197906680_Energy efficiency through joint routing and function placement in different modes of SDNNFV networks.txt
+./source/txt_6G/488362314_Backscatter Sensors Communication for 6G Low-powered NOMA-enabled IoT Networks under Imperfect SIC.txt
+./source/txt_6G/35639900_An Overview of Key Technologies in Physical Layer Security.txt
+./source/txt_6G/422564618_Network - Communication 6G and the reinvention of mobile.txt
+./source/txt_6G/79418538_How 6G Technology Can Change the Future Wireless Healthcare.txt
+./source/txt_6G/440653219_An analysis of the ethical challenges of blockchain-enabled E-healthcare applications in 6G networks.txt
+./source/txt_6G/367515062_Towards 6G Paradigm of realistic terahertz channel modeling.txt
+./source/txt_6G/316659128_An intelligent self-sustained RAN slicing framework for diverse service provisioning in 5G-beyond an.txt
+./source/txt_6G/226219490_4G 5G 6G 7G and Future Mobile Technologies.txt
+./source/txt_6G/370923079_Design for Cost The Key of Success for 5G and Beyond.txt
+./source/txt_6G/78895214_Novel Vote Scheme for Decision-Making Feedback Based on Blockchain in Internet of Vehicles.txt
+./source/txt_6G/79681652_Determining Edge Node Real-Time Capabilities.txt
+./source/txt_6G/282843330_Security Function Virtualization for IoT Applications in 6G Networks.txt
+./source/txt_6G/403691875_Sixth Generation 6G Cognitive Radio Network CRN Application Requirements Security Issues and Key Cha.txt
+./source/txt_6G/355195269_6G mobile communication networks vision challenges and key technologies.txt
+./source/txt_6G/69720553_Entanglement Rate Optimization in Heterogeneous Quantum Communication Networks.txt
+./source/txt_6G/402119252_차세대 저궤도 위성통신망을 위한 채널 모델링 및 주요 기술 동향.txt
+./source/txt_6G/47962822_Terahertz Communication Merits Demerits and Future Challenges Regarding 6G Wireless Networks.txt
+./source/txt_6G/75226275_Robust Online Prediction of Spectrum Map with Incomplete and Corrupted Observations.txt
+./source/txt_6G/143908061_A Study of 6G Radio Access Technologies for Achieving 100 Gbps Data Rate by Extreme Wideband Transmi.txt
+./source/txt_6G/407362845_Human-Centric Networking and why it should be a key focus for the Next Generation Internet and 6G re.txt
+./source/txt_6G/53730824_Rain Attenuation Characterization for 6G Terahertz Wireless Communication.txt
+./source/txt_6G/270524003_THz Band Channel Measurements and Statistical Modeling for Urban D2D Environments.txt
+./source/txt_6G/16244476_Deep Echo State Q-Network DEQN and Its Application in Dynamic Spectrum Sharing for 5G and Beyond.txt
+./source/txt_6G/447209272_Energy Efficiency Maximization in the Uplink Delta-OMA Networks.txt
+./source/txt_6G/229629983_Hybrid Optical Wireless-mmWave Ultra High-Speed Indoor Communications for Beyond 5G.txt
+./source/txt_6G/302768232_Retro-Reflective Beam Communications with Spatially Separated Laser Resonator.txt
+./source/txt_6G/241950840_When Wireless Communications Meet Computer Vision in Beyond 5G.txt
+./source/txt_6G/99344573_High Figure of Merit Optical Buffering in Coupled-Slot Slab Photonic Crystal Waveguide with Ionic Li.txt
+./source/txt_6G/486269255_Future Intelligent and Secure Vehicular Network Toward 6G Machine-Learning Approaches.txt
+./source/txt_6G/296214988_AI-enabled Future Wireless Networks Challenges Opportunities and Open Issues.txt
+./source/txt_6G/142860803_A Survey of Mean Field Game Applications in Wireless Networks.txt
+./source/txt_6G/414966566_Short-packet transmission.txt
+./source/txt_6G/442229579_High–Gain Folded Reflectarray Antenna Operating at 1 THz.txt
+./source/txt_6G/493609878_Optimization of SOA’s parameters for wavelength conversion of E-band OFDM-SPM signals.txt
+./source/txt_6G/163308552_Comprehensive Study on CC-LDPC BC-LDPC and Polar Code.txt
+./source/txt_6G/474211346_Future Research Scopes.txt
+./source/txt_6G/498066647_Intelligent Time-Varying Metasurface Transceiver for Index Modulation in 6G Wireless Networks.txt
+./source/txt_6G/478143709_Hybrid Precoding Design for Wideband THz Massive MIMO-OFDM Systems With Beam Squint.txt
+./source/txt_6G/110880058_Design of Raman microstructure fiber amplifier for 6G.txt
+./source/txt_6G/230679931_MEC and D2D as Enabling Technologies for a Secure and Lightweight 6G eHealth System.txt
+./source/txt_6G/443803169_Wideband channel estimation for THz massive MIMO.txt
+./source/txt_6G/288614068_Fair and smart spectrum allocation scheme for IIoT based on blockchain.txt
+./source/txt_6G/478930618_Application of NOMA in 6G Networks Future Vision and Research Opportunities for Next Generation Mult.txt
+./source/txt_6G/261613418_Future Urban Smartness Connectivity Zones with Disposable Identities.txt
+./source/txt_6G/115861763_Machine Learning and Deep Learning for Malware and Ransomware Attacks in 6G Network.txt
+./source/txt_6G/116123970_D-Band Perfect Anomalous Reflectors for 6G Applications.txt
+./source/txt_6G/52160854_Federated Imitation Learning A Cross-Domain Knowledge Sharing Framework for Traffic Scheduling in 6G.txt
+./source/txt_6G/87026172_Reconfigurable Intelligent Surfaces for 6G Systems Principles Applications and Research Directions.txt
+./source/txt_6G/418900648_Network Decentralization.txt
+./source/txt_6G/116910850_Improving Multiple-User Capacity through Downlink NOMA in OAM Systems.txt
+./source/txt_6G/104590135_LiFi Through Intelligent Reflecting Surfaces A New Frontier for 6G?.txt
+./source/txt_6G/366996349_Series Editorial Mobile Communications and Networks.txt
+./source/txt_6G/176155725_Towards Tailored Resource Allocation of Slices in 6G Networks With Softwarization and Virtualization.txt
+./source/txt_6G/440659029_Hybrid Backscatter and Relaying Scheme for 6G Greencom IoT Networks with SWIPT.txt
+./source/txt_6G/239332505_Network and Physical Layer Attacks and countermeasures to AI-Enabled 6G O-RAN.txt
+./source/txt_6G/141815148_Redefining Wireless Communication for 6G Signal Processing Meets Deep Learning with Deep Unfolding.txt
+./source/txt_6G/97250694_A Circularly Polarized Sub-Terahertz Antenna With Low-Profile and High-Gain for 6G Wireless Communic.txt
+./source/txt_6G/171699641_Capacity Enhancement for Reconfigurable Intelligent Surface-Aided Wireless Network from Regular Arra.txt
+./source/txt_6G/106950339_Blockchain-enabled wireless communications a new paradigm towards 6G.txt
+./source/txt_6G/388493118_XAI Models for Quality of Experience Prediction in Wireless Networks.txt
+./source/txt_6G/185593665_Joint Placement of UPF and Edge Server for 6G Network.txt
+./source/txt_6G/402911397_DEDICAT 6G - Dynamic Coverage Extension and Distributed Intelligence for Human Centric Applications .txt
+./source/txt_6G/112193723_Tailorable MOF architectures for high-efficiency electromagnetic functions.txt
+./source/txt_6G/337899774_Meta-Surface Optimization in 6G Sub-THz Communications.txt
+./source/txt_6G/257421811_6G Networks Beyond Shannon Towards Semantic and Goal-Oriented Communications.txt
+./source/txt_6G/230946614_Research on Diagnostic Information of Smart Medical Care Based on Big Data.txt
+./source/txt_6G/392689673_A Novel and High Gain Antenna Design for Autonomous Vehicles of 6G Wireless Systems.txt
+./source/txt_6G/203159808_Meta-material Sensors based Internet of Things for 6G Communications.txt
+./source/txt_6G/413399296_Toward the 6G Network Era Opportunities and Challenges.txt
+./source/txt_6G/304348100_6G Communications A Vision on the Potential Applications.txt
+./source/txt_6G/35126346_Intent-based networks for 6G insights and challenges.txt
+./source/txt_6G/261356975_Physical-Layer Security Improvement with Reconfigurable Intelligent Surfaces for 6G Wireless Communi.txt
+./source/txt_6G/241958438_On Lossless Interval of Low-Correlated Superposition Coding NOMA toward 6G URLLC.txt
+./source/txt_6G/294649606_Joint Network Control and Resource Allocation for Space-Terrestrial Integrated Network through Hiera.txt
+./source/txt_6G/220222-NGMN-6G-Use-Cases-and-Analysis-1.pdf
+./source/txt_6G/6G Research Visions.pdf
+./source/txt_6G/6G WHITE PAPER ON EDGE INTELLIGENCE.pdf
+./source/txt_6G/6G wireless networks：vision, requirements, architecture, and key technologies.pdf
+./source/txt_6G/6G_Vision_Value_Use_Cases_and_Technologies_from_European_6G_Flagship_Project_Hexa-X.pdf
+./source/txt_6G/A Vision of 6G Wireless Systems.pdf
+./source/txt_6G/Convergent_Communication_Sensing_and_Localization_in_6G_Systems_An_Overview_of_Technologies_Opportunities_and_Challenges.pdf
+./source/txt_6G/Explainable Artificial Intelligence (XAI) for 6G.pdf
+./source/txt_6G/Toward a 6G AI-Native Air Interface.pdf
+./source/txt_6G/Vision, application scenarios, and key technology trends for 6G mobile communications.pdf
+./source/txt_6G/WhitePaper-6G-Europe.pdf
+./source/txt_6G/You2020_Article_Towards6GWirelessCommunication.pdf
